@@ -1,0 +1,8 @@
+(dp0
+Vclear
+p1
+F0.5
+sVstipulated
+p2
+F0.5
+s.

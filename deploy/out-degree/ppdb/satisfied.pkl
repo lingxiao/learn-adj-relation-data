@@ -1,0 +1,14 @@
+(dp0
+Vmet
+p1
+F0.3125
+sVsatisfactory
+p2
+F0.125
+sVsatisfied
+p3
+F0.375
+sVpleased
+p4
+F0.1875
+s.

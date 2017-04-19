@@ -1,0 +1,14 @@
+(dp0
+Vbrilliant
+p1
+F0.25
+sVsensible
+p2
+F0.25
+sVclever
+p3
+F0.25
+sVintelligent
+p4
+F0.25
+s.

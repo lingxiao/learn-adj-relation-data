@@ -1,0 +1,17 @@
+(dp0
+Vregularly
+p1
+F0.2
+sVconstantly
+p2
+F0.2
+sVrecurrent
+p3
+F0.2
+sVfrequent
+p4
+F0.2
+sVregular
+p5
+F0.2
+s.

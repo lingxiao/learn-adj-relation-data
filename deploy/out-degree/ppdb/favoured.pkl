@@ -1,0 +1,11 @@
+(dp0
+Vdisadvantaged
+p1
+F0.5
+sVunderprivileged
+p2
+F0.25
+sVimpoverished
+p3
+F0.25
+s.
