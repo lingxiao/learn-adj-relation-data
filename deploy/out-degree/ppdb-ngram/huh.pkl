@@ -1,0 +1,14 @@
+(dp0
+Vhot
+p1
+F0.25
+sVgood
+p2
+F0.25
+sVbad
+p3
+F0.25
+sVbad-looking
+p4
+F0.25
+s.

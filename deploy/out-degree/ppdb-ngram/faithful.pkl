@@ -1,0 +1,8 @@
+(dp0
+Vloyal
+p1
+F0.5
+sVfaithful
+p2
+F0.5
+s.

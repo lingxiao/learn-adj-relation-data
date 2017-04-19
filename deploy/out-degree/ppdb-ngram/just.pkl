@@ -1,0 +1,17 @@
+(dp0
+Vsimple
+p1
+F0.2
+sVsimply
+p2
+F0.2
+sVfairest
+p3
+F0.2
+sVfairer
+p4
+F0.2
+sVsocial
+p5
+F0.2
+s.

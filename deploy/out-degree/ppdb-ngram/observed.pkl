@@ -1,0 +1,8 @@
+(dp0
+Vobserved
+p1
+F0.6666666666666666
+sVrespected
+p2
+F0.3333333333333333
+s.

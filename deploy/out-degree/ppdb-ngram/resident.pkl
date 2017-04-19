@@ -1,0 +1,17 @@
+(dp0
+Vresident
+p1
+F0.2
+sVlegally
+p2
+F0.2
+sVlegitimate
+p3
+F0.2
+sVlegal
+p4
+F0.2
+sVlawful
+p5
+F0.2
+s.

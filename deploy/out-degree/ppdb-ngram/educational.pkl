@@ -1,0 +1,14 @@
+(dp0
+Vinformative
+p1
+F0.2
+sVeducational
+p2
+F0.4
+sVenlightening
+p3
+F0.2
+sVinstructive
+p4
+F0.2
+s.

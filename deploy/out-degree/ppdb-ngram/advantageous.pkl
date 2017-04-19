@@ -1,0 +1,11 @@
+(dp0
+Vbetter
+p1
+F0.4
+sVreciprocal
+p2
+F0.2
+sVcheaper
+p3
+F0.4
+s.

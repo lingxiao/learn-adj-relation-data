@@ -1,0 +1,17 @@
+(dp0
+Vqualified
+p1
+F0.25
+sVskilled
+p2
+F0.1875
+sVspecialized
+p3
+F0.0625
+sVwell-trained
+p4
+F0.1875
+sVtrained
+p5
+F0.3125
+s.

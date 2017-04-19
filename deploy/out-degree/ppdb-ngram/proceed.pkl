@@ -1,0 +1,14 @@
+(dp0
+Vready
+p1
+F0.25
+sVunprepared
+p2
+F0.25
+sV-ready
+p3
+F0.25
+sVprepared
+p4
+F0.25
+s.

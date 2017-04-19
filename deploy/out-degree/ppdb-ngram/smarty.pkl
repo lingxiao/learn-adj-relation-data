@@ -1,0 +1,8 @@
+(dp0
+Vcrafty
+p1
+F0.5
+sVsmart
+p2
+F0.5
+s.

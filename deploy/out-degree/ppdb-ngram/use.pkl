@@ -1,0 +1,17 @@
+(dp0
+Vavailable
+p1
+F0.2
+sVorderable
+p2
+F0.2
+sVrespendable
+p3
+F0.2
+sVreachable
+p4
+F0.2
+sVunavailable
+p5
+F0.2
+s.

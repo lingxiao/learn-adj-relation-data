@@ -1,0 +1,14 @@
+(dp0
+Vmost
+p1
+F0.25
+sVhighest
+p2
+F0.25
+sVgreatest
+p3
+F0.25
+sVlargest
+p4
+F0.25
+s.

@@ -1,0 +1,11 @@
+(dp0
+Vtrustworthy
+p1
+F0.3333333333333333
+sVconfident
+p2
+F0.3333333333333333
+sVreliable
+p3
+F0.3333333333333333
+s.

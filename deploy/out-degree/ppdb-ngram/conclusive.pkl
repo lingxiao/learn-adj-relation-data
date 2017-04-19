@@ -1,0 +1,8 @@
+(dp0
+Vstill
+p1
+F0.5
+sVyet
+p2
+F0.5
+s.

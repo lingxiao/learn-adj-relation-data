@@ -1,0 +1,17 @@
+(dp0
+Vinsane
+p1
+F0.2
+sVcrazy
+p2
+F0.2
+sVamazing
+p3
+F0.2
+sVdelusional
+p4
+F0.2
+sVdelirious
+p5
+F0.2
+s.

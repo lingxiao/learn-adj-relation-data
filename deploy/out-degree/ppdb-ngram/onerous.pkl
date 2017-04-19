@@ -1,0 +1,17 @@
+(dp0
+Vrigorous
+p1
+F0.2
+sVcost-effective
+p2
+F0.2
+sVstricter
+p3
+F0.2
+sVcheaper
+p4
+F0.2
+sVcheapest
+p5
+F0.2
+s.

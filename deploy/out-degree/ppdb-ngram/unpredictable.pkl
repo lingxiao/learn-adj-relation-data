@@ -1,0 +1,17 @@
+(dp0
+Vvery
+p1
+F0.2
+sVunpredictable
+p2
+F0.2
+sVvolatile
+p3
+F0.2
+sVunforeseen
+p4
+F0.2
+sVunforeseeable
+p5
+F0.2
+s.

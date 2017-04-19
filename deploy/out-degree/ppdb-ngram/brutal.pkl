@@ -1,0 +1,11 @@
+(dp0
+Vviolent
+p1
+F0.25
+sVabusive
+p2
+F0.25
+sVbrutal
+p3
+F0.5
+s.

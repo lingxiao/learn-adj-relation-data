@@ -1,0 +1,8 @@
+(dp0
+Vprestigious
+p1
+F0.5
+sVglamorous
+p2
+F0.5
+s.

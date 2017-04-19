@@ -1,0 +1,8 @@
+(dp0
+Veverybody
+p1
+F0.5
+sVall
+p2
+F0.5
+s.

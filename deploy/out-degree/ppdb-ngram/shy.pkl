@@ -1,0 +1,11 @@
+(dp0
+Vshy
+p1
+F0.5
+sVtimid
+p2
+F0.2
+sVself-conscious
+p3
+F0.3
+s.

@@ -1,0 +1,11 @@
+(dp0
+Vcleaner
+p1
+F0.3333333333333333
+sVgreener
+p2
+F0.3333333333333333
+sVenvironmentally-friendly
+p3
+F0.3333333333333333
+s.

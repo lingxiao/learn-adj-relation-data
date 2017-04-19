@@ -1,0 +1,11 @@
+(dp0
+Vstatutory
+p1
+F0.2
+sVlegit
+p2
+F0.4
+sVlegal
+p3
+F0.4
+s.

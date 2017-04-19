@@ -1,0 +1,14 @@
+(dp0
+Vanxious
+p1
+F0.25
+sVpsyched
+p2
+F0.25
+sVmotivated
+p3
+F0.25
+sVexcited
+p4
+F0.25
+s.

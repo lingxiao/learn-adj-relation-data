@@ -1,0 +1,11 @@
+(dp0
+Vculpable
+p1
+F0.5
+sVterrible
+p2
+F0.25
+sVreprehensible
+p3
+F0.25
+s.

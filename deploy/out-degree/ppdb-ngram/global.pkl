@@ -1,0 +1,14 @@
+(dp0
+Vall-embracing
+p1
+F0.25
+sVglobalization
+p2
+F0.25
+sVglobal
+p3
+F0.25
+sVworld-wide
+p4
+F0.25
+s.

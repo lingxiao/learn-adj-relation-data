@@ -1,0 +1,17 @@
+(dp0
+Varduous
+p1
+F0.2
+sVhard
+p2
+F0.2
+sVtough
+p3
+F0.2
+sVharsh
+p4
+F0.2
+sVdifficult
+p5
+F0.2
+s.

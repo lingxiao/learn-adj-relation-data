@@ -1,0 +1,17 @@
+(dp0
+Vaccurate
+p1
+F0.08333333333333333
+sVioyal
+p2
+F0.16666666666666666
+sVloyal
+p3
+F0.25
+sVsteadfast
+p4
+F0.25
+sVfaithful
+p5
+F0.25
+s.

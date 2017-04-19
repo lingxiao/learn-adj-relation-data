@@ -1,0 +1,17 @@
+(dp0
+Vstubborn
+p1
+F0.3
+sVfoolish
+p2
+F0.1
+sVrelentless
+p3
+F0.1
+sVpersistent
+p4
+F0.1
+sVheadstrong
+p5
+F0.4
+s.

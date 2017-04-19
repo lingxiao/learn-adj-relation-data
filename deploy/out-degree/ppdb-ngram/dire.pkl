@@ -1,0 +1,17 @@
+(dp0
+Vdesperate
+p1
+F0.2
+sVworst
+p2
+F0.2
+sVhopeless
+p3
+F0.2
+sVdire
+p4
+F0.2
+sVworse
+p5
+F0.2
+s.

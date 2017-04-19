@@ -1,0 +1,11 @@
+(dp0
+Vnon-discriminatory
+p1
+F0.2
+sVdiscriminatory
+p2
+F0.4
+sVdiscriminate
+p3
+F0.4
+s.

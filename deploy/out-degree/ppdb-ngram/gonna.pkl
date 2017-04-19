@@ -1,0 +1,14 @@
+(dp0
+Vjust
+p1
+F0.2
+sVgoing
+p2
+F0.2
+sV-just
+p3
+F0.2
+sVgonna
+p4
+F0.4
+s.

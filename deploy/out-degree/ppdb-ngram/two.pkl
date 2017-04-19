@@ -1,0 +1,17 @@
+(dp0
+Vtwice
+p1
+F0.2
+sValternative
+p2
+F0.2
+sVother
+p3
+F0.2
+sVadditional
+p4
+F0.2
+sVothers
+p5
+F0.2
+s.

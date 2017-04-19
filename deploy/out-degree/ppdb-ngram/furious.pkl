@@ -1,0 +1,17 @@
+(dp0
+Vangry
+p1
+F0.2
+sVupset
+p2
+F0.2
+sVmad
+p3
+F0.2
+sVirate
+p4
+F0.2
+sVlivid
+p5
+F0.2
+s.

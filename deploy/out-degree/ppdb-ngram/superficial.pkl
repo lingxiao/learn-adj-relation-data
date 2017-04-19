@@ -1,0 +1,14 @@
+(dp0
+Vdeficient
+p1
+F0.25
+sVinadequate
+p2
+F0.25
+sVinsufficient
+p3
+F0.25
+sVunsatisfactory
+p4
+F0.25
+s.

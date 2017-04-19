@@ -1,0 +1,14 @@
+(dp0
+Vdangerous
+p1
+F0.25
+sVprejudicial
+p2
+F0.16666666666666666
+sVreckless
+p3
+F0.25
+sVrisky
+p4
+F0.3333333333333333
+s.

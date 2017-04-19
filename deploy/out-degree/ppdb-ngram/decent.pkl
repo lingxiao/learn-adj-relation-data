@@ -1,0 +1,14 @@
+(dp0
+Vtasty
+p1
+F0.25
+sVdead-on
+p2
+F0.25
+sVokay
+p3
+F0.25
+sVbrave
+p4
+F0.25
+s.

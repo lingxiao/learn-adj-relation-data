@@ -1,0 +1,11 @@
+(dp0
+Vinformative
+p1
+F0.3333333333333333
+sVeducational
+p2
+F0.3333333333333333
+sVinstructive
+p3
+F0.3333333333333333
+s.

@@ -1,0 +1,14 @@
+(dp0
+Vambiguous
+p1
+F0.25
+sVunclear
+p2
+F0.25
+sVuncertain
+p3
+F0.25
+sVvague
+p4
+F0.25
+s.

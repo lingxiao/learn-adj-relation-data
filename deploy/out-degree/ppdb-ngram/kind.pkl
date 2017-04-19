@@ -1,0 +1,14 @@
+(dp0
+Vlovely
+p1
+F0.25
+sVkind
+p2
+F0.25
+sVwonderful
+p3
+F0.25
+sVsweet
+p4
+F0.25
+s.

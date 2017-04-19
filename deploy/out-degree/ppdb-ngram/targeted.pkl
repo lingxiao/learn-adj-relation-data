@@ -1,0 +1,17 @@
+(dp0
+Vtargeted
+p1
+F0.2727272727272727
+sVspecific
+p2
+F0.18181818181818182
+sVfocused
+p3
+F0.2727272727272727
+sVwell-targeted
+p4
+F0.18181818181818182
+sVgoal-oriented
+p5
+F0.09090909090909091
+s.

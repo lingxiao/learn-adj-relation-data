@@ -1,0 +1,14 @@
+(dp0
+Vusually
+p1
+F0.25
+sVoverall
+p2
+F0.25
+sVtypically
+p3
+F0.25
+sVgeneral
+p4
+F0.25
+s.

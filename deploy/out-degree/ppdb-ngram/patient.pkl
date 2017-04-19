@@ -1,0 +1,8 @@
+(dp0
+Vpatience
+p1
+F0.5
+sVpatient
+p2
+F0.5
+s.

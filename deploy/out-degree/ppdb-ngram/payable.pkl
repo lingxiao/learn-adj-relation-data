@@ -1,0 +1,8 @@
+(dp0
+Vpayable
+p1
+F0.5
+sVpaid
+p2
+F0.5
+s.

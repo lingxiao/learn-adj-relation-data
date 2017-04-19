@@ -1,0 +1,14 @@
+(dp0
+Vso-called
+p1
+F0.4
+sVsay
+p2
+F0.2
+sVtell
+p3
+F0.2
+sVsaying
+p4
+F0.2
+s.

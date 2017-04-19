@@ -1,0 +1,8 @@
+(dp0
+Vcomforting
+p1
+F0.5
+sVreassuring
+p2
+F0.5
+s.

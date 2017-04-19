@@ -1,0 +1,8 @@
+(dp0
+Vaffordable
+p1
+F0.5
+sVcost-effective
+p2
+F0.5
+s.

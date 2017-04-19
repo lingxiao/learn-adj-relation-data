@@ -1,0 +1,14 @@
+(dp0
+Vscary
+p1
+F0.25
+sVcrazy
+p2
+F0.25
+sVhysterical
+p3
+F0.25
+sVstir-crazy
+p4
+F0.25
+s.

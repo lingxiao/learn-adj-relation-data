@@ -1,0 +1,8 @@
+(dp0
+Vtoxic
+p1
+F0.5
+sVpoisonous
+p2
+F0.5
+s.

@@ -1,0 +1,14 @@
+(dp0
+Vquicker
+p1
+F0.25
+sVswifter
+p2
+F0.25
+sVquickest
+p3
+F0.25
+sVtimelier
+p4
+F0.25
+s.

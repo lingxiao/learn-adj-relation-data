@@ -1,0 +1,17 @@
+(dp0
+Vdeposited
+p1
+F0.2
+sVtabling
+p2
+F0.2
+sVself-financing
+p3
+F0.2
+sVself-sustaining
+p4
+F0.2
+sVtabled
+p5
+F0.2
+s.

@@ -1,0 +1,14 @@
+(dp0
+Vpleasant
+p1
+F0.25
+sVpositive
+p2
+F0.25
+sVwelcome
+p3
+F0.25
+sVhappy
+p4
+F0.25
+s.

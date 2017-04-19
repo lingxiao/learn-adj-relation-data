@@ -1,0 +1,17 @@
+(dp0
+Vbetter
+p1
+F0.2
+sVpreferable
+p2
+F0.2
+sVdesirable
+p3
+F0.2
+sVbest
+p4
+F0.2
+sVwiser
+p5
+F0.2
+s.

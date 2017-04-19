@@ -1,0 +1,17 @@
+(dp0
+Vmixed
+p1
+F0.2
+sVshared
+p2
+F0.2
+sVequivalent
+p3
+F0.2
+sVdivided
+p4
+F0.2
+sVequal
+p5
+F0.2
+s.

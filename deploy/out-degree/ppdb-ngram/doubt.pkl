@@ -1,0 +1,11 @@
+(dp0
+Vquestionable
+p1
+F0.3333333333333333
+sVuncertain
+p2
+F0.3333333333333333
+sVdoubtful
+p3
+F0.3333333333333333
+s.

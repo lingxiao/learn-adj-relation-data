@@ -1,0 +1,17 @@
+(dp0
+Vconfrontational
+p1
+F0.16666666666666666
+sVaggressive
+p2
+F0.3333333333333333
+sVstronger
+p3
+F0.16666666666666666
+sVstrongest
+p4
+F0.16666666666666666
+sVproactive
+p5
+F0.16666666666666666
+s.

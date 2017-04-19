@@ -1,0 +1,17 @@
+(dp0
+Vunprotected
+p1
+F0.2
+sVwell-protected
+p2
+F0.2
+sVsafeguarded
+p3
+F0.2
+sVsecure
+p4
+F0.2
+sVprotected
+p5
+F0.2
+s.

@@ -1,0 +1,14 @@
+(dp0
+Vwide
+p1
+F0.16666666666666666
+sVdiverse
+p2
+F0.5
+sVvarious
+p3
+F0.16666666666666666
+sVvaried
+p4
+F0.16666666666666666
+s.

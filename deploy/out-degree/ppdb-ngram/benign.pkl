@@ -1,0 +1,11 @@
+(dp0
+Vbenign
+p1
+F0.5
+sVmild
+p2
+F0.25
+sVpeaceful
+p3
+F0.25
+s.

@@ -1,0 +1,11 @@
+(dp0
+Vuser-friendly
+p1
+F0.3333333333333333
+sVfriendlier
+p2
+F0.3333333333333333
+sVsimpler
+p3
+F0.3333333333333333
+s.

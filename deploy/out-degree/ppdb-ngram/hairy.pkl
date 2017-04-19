@@ -1,0 +1,14 @@
+(dp0
+Vhairy
+p1
+F0.25
+sVdangerous
+p2
+F0.25
+sVhazardous
+p3
+F0.25
+sVperilous
+p4
+F0.25
+s.

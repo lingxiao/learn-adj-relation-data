@@ -1,0 +1,14 @@
+(dp0
+Vgross
+p1
+F0.25
+sVrotten
+p2
+F0.25
+sVfilthy
+p3
+F0.25
+sVdisgusting
+p4
+F0.25
+s.

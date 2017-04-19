@@ -1,0 +1,14 @@
+(dp0
+Vtricky
+p1
+F0.25
+sVchoosy
+p2
+F0.25
+sVfussy
+p3
+F0.25
+sVdifficult
+p4
+F0.25
+s.

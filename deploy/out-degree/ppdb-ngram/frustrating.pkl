@@ -1,0 +1,17 @@
+(dp0
+Vdisappointing
+p1
+F0.2857142857142857
+sVunsatisfactory
+p2
+F0.14285714285714285
+sVfrustrating
+p3
+F0.2857142857142857
+sVpainful
+p4
+F0.14285714285714285
+sVdistressing
+p5
+F0.14285714285714285
+s.

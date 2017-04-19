@@ -1,0 +1,17 @@
+(dp0
+Vanticipated
+p1
+F0.2
+sVplanning
+p2
+F0.2
+sVplanned
+p3
+F0.2
+sVcontemplated
+p4
+F0.2
+sVwell-planned
+p5
+F0.2
+s.

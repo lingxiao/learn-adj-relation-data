@@ -1,0 +1,17 @@
+(dp0
+Vworthy
+p1
+F0.2
+sVcommendable
+p2
+F0.2
+sVworthwhile
+p3
+F0.2
+sVlaudable
+p4
+F0.2
+sVpraiseworthy
+p5
+F0.2
+s.

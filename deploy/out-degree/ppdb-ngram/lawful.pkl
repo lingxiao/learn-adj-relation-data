@@ -1,0 +1,8 @@
+(dp0
+Vpermissible
+p1
+F0.5
+sVlawful
+p2
+F0.5
+s.

@@ -1,0 +1,11 @@
+(dp0
+Vrepresentativeness
+p1
+F0.3333333333333333
+sVbroad-based
+p2
+F0.16666666666666666
+sVrepresentative
+p3
+F0.5
+s.

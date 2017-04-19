@@ -1,0 +1,17 @@
+(dp0
+Vimpartial
+p1
+F0.25
+sVunbiased
+p2
+F0.25
+sVeven-handed
+p3
+F0.25
+sVfair
+p4
+F0.125
+sVnon-partisan
+p5
+F0.125
+s.

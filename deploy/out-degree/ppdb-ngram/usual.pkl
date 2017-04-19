@@ -1,0 +1,14 @@
+(dp0
+Vregular
+p1
+F0.25
+sVcustomary
+p2
+F0.25
+sVtypical
+p3
+F0.25
+sVnormal
+p4
+F0.25
+s.

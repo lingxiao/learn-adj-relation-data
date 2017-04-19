@@ -1,0 +1,11 @@
+(dp0
+Vcalm
+p1
+F0.2
+sVquiet
+p2
+F0.4
+sVpeaceful
+p3
+F0.4
+s.

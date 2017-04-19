@@ -1,0 +1,14 @@
+(dp0
+Voptimal
+p1
+F0.25
+sVoptimum
+p2
+F0.25
+sVbest
+p3
+F0.25
+sVbrighter
+p4
+F0.25
+s.

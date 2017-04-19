@@ -1,0 +1,11 @@
+(dp0
+Vsore
+p1
+F0.5
+sVpainful
+p2
+F0.25
+sVtraumatic
+p3
+F0.25
+s.

@@ -1,0 +1,11 @@
+(dp0
+Vtime-consuming
+p1
+F0.3333333333333333
+sVlengthy
+p2
+F0.3333333333333333
+sVlong
+p3
+F0.3333333333333333
+s.

@@ -1,0 +1,8 @@
+(dp0
+Vjealous
+p1
+F0.625
+sVenvious
+p2
+F0.375
+s.

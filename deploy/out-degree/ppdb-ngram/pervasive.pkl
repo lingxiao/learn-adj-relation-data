@@ -1,0 +1,11 @@
+(dp0
+Vwidespread
+p1
+F0.3333333333333333
+sVomnipresent
+p2
+F0.3333333333333333
+sVubiquitous
+p3
+F0.3333333333333333
+s.

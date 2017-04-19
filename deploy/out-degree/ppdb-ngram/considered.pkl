@@ -1,0 +1,14 @@
+(dp0
+Vcarefully
+p1
+F0.2
+sVbalanced
+p2
+F0.4
+sVcareful
+p3
+F0.2
+sVweighted
+p4
+F0.2
+s.

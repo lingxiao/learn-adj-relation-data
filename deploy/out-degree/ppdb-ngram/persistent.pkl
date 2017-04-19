@@ -1,0 +1,11 @@
+(dp0
+Vstubborn
+p1
+F0.3333333333333333
+sVobstinate
+p2
+F0.3333333333333333
+sVpersistent
+p3
+F0.3333333333333333
+s.

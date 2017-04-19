@@ -1,0 +1,14 @@
+(dp0
+Vsatisfactory
+p1
+F0.25
+sVdelighted
+p2
+F0.25
+sVglad
+p3
+F0.25
+sVpleased
+p4
+F0.25
+s.

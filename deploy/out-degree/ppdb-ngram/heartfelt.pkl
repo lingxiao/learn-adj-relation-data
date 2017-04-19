@@ -1,0 +1,17 @@
+(dp0
+Vgenuine
+p1
+F0.2
+sVsincere
+p2
+F0.2
+sVforthright
+p3
+F0.2
+sVtruthful
+p4
+F0.2
+sVhonest
+p5
+F0.2
+s.
