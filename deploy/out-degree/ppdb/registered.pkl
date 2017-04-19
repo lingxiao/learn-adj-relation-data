@@ -1,0 +1,11 @@
+(dp0
+Vconsistent
+p1
+F0.3333333333333333
+sVlisted
+p2
+F0.3333333333333333
+sVenrolled
+p3
+F0.3333333333333333
+s.

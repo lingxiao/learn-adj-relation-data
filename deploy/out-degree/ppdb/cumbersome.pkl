@@ -1,0 +1,17 @@
+(dp0
+Vcumbersome
+p1
+F0.375
+sVcomplex
+p2
+F0.125
+sVcomplicated
+p3
+F0.125
+sVburdensome
+p4
+F0.125
+sVonerous
+p5
+F0.25
+s.

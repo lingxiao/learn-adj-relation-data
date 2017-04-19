@@ -1,0 +1,17 @@
+(dp0
+Vuninsured
+p1
+F0.2
+sVinsured
+p2
+F0.2
+sVguaranteed
+p3
+F0.2
+sVassured
+p4
+F0.2
+sVprovided
+p5
+F0.2
+s.

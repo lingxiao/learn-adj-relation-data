@@ -1,0 +1,17 @@
+(dp0
+Vreceived
+p1
+F0.2
+sVwelcome
+p2
+F0.2
+sVwell
+p3
+F0.2
+sVwell-received
+p4
+F0.2
+sVpositive
+p5
+F0.2
+s.

@@ -1,0 +1,17 @@
+(dp0
+Vcomprehensive
+p1
+F0.2
+sVexhaustive
+p2
+F0.2
+sVfull
+p3
+F0.2
+sVcomplete
+p4
+F0.2
+sVthorough
+p5
+F0.2
+s.

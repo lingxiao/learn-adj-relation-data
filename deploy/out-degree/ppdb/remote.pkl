@@ -1,0 +1,14 @@
+(dp0
+Voutermost
+p1
+F0.2
+sVremote
+p2
+F0.3
+sVfarther
+p3
+F0.2
+sVdistant
+p4
+F0.3
+s.

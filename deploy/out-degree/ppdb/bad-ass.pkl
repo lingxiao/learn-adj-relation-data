@@ -1,0 +1,8 @@
+(dp0
+Vfirst-class
+p1
+F0.5
+sVfabulous
+p2
+F0.5
+s.

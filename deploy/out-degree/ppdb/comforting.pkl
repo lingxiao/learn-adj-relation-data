@@ -1,0 +1,14 @@
+(dp0
+Vsweet
+p1
+F0.3333333333333333
+sVrefreshing
+p2
+F0.3333333333333333
+sVcomforting
+p3
+F0.16666666666666666
+sVreassuring
+p4
+F0.16666666666666666
+s.

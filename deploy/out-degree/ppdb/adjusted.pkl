@@ -1,0 +1,11 @@
+(dp0
+Vsettled
+p1
+F0.3333333333333333
+sVadequate
+p2
+F0.3333333333333333
+sVregulated
+p3
+F0.3333333333333333
+s.

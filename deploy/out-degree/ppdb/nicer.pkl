@@ -1,0 +1,14 @@
+(dp0
+Vbetter
+p1
+F0.25
+sVbest
+p2
+F0.25
+sVmieux
+p3
+F0.25
+sVnicer
+p4
+F0.25
+s.

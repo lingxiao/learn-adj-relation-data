@@ -1,0 +1,8 @@
+(dp0
+Vscarce
+p1
+F0.5
+sVrare
+p2
+F0.5
+s.

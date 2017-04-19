@@ -1,0 +1,14 @@
+(dp0
+Vcomprehensive
+p1
+F0.25
+sVdeeper
+p2
+F0.25
+sVthorough
+p3
+F0.25
+sVworse
+p4
+F0.25
+s.

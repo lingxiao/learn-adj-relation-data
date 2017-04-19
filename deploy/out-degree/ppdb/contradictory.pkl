@@ -1,0 +1,17 @@
+(dp0
+Vmixed
+p1
+F0.2
+sVconflicting
+p2
+F0.2
+sVcontradictory
+p3
+F0.2
+sVinconsistent
+p4
+F0.2
+sVadversarial
+p5
+F0.2
+s.

@@ -1,0 +1,17 @@
+(dp0
+Vruthless
+p1
+F0.2
+sVunforgiving
+p2
+F0.2
+sVharsh
+p3
+F0.2
+sVmerciless
+p4
+F0.2
+sVrelentless
+p5
+F0.2
+s.

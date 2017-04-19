@@ -1,0 +1,17 @@
+(dp0
+Vlong-term
+p1
+F0.2
+sVrunning
+p2
+F0.2
+sVongoing
+p3
+F0.2
+sVin-flight
+p4
+F0.2
+sVlong
+p5
+F0.2
+s.

@@ -1,0 +1,17 @@
+(dp0
+Vunimaginable
+p1
+F0.2
+sVinconceivable
+p2
+F0.2
+sVunthinkable
+p3
+F0.2
+sVunbelievable
+p4
+F0.2
+sVincredible
+p5
+F0.2
+s.

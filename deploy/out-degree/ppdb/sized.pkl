@@ -1,0 +1,11 @@
+(dp0
+Vmid-sized
+p1
+F0.3333333333333333
+sVmedium
+p2
+F0.3333333333333333
+sVmedium-sized
+p3
+F0.3333333333333333
+s.

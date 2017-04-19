@@ -1,0 +1,17 @@
+(dp0
+Vspecific
+p1
+F0.2
+sVadapted
+p2
+F0.2
+sVsuitable
+p3
+F0.2
+sVspecialized
+p4
+F0.2
+sVresponsive
+p5
+F0.2
+s.

@@ -1,0 +1,11 @@
+(dp0
+Vemotional
+p1
+F0.3333333333333333
+sVmental
+p2
+F0.3333333333333333
+sVpsychogenic
+p3
+F0.3333333333333333
+s.

@@ -1,0 +1,17 @@
+(dp0
+Vcontrolled
+p1
+F0.2
+sVmonitored
+p2
+F0.2
+sVsettled
+p3
+F0.2
+sVstandardized
+p4
+F0.2
+sVscreened
+p5
+F0.2
+s.

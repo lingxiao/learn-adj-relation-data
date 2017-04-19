@@ -1,0 +1,17 @@
+(dp0
+Vmoist
+p1
+F0.2
+sVdamp
+p2
+F0.2
+sVsoaked
+p3
+F0.1
+sVhumid
+p4
+F0.2
+sVwet
+p5
+F0.3
+s.

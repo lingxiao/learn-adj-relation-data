@@ -1,0 +1,8 @@
+(dp0
+Vhardest
+p1
+F0.5
+sVharder
+p2
+F0.5
+s.

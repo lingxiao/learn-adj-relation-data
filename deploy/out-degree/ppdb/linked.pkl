@@ -1,0 +1,14 @@
+(dp0
+Vinterrelated
+p1
+F0.25
+sVinter-linked
+p2
+F0.25
+sVinterdependent
+p3
+F0.25
+sVinter-related
+p4
+F0.25
+s.

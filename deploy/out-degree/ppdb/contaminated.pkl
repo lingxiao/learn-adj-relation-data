@@ -1,0 +1,8 @@
+(dp0
+Vinfected
+p1
+F0.5
+sVcontaminated
+p2
+F0.5
+s.

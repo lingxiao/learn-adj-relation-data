@@ -1,0 +1,11 @@
+(dp0
+Vintermediate
+p1
+F0.3333333333333333
+sVincidental
+p2
+F0.3333333333333333
+sVsecondary
+p3
+F0.3333333333333333
+s.

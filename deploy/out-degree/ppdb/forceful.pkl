@@ -1,0 +1,17 @@
+(dp0
+Vefficient
+p1
+F0.2
+sVstronger
+p2
+F0.2
+sVstrongest
+p3
+F0.2
+sVlouder
+p4
+F0.2
+sVpowerful
+p5
+F0.2
+s.

@@ -1,0 +1,8 @@
+(dp0
+Vvice-chair
+p1
+F0.5
+sVvice-chairman
+p2
+F0.5
+s.

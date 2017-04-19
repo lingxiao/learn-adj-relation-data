@@ -1,0 +1,5 @@
+(dp0
+Vfast-switched
+p1
+F1.0
+s.

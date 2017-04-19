@@ -1,0 +1,8 @@
+(dp0
+Vdrunken
+p1
+F0.125
+sVdrunk
+p2
+F0.875
+s.

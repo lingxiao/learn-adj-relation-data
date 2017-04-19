@@ -1,0 +1,8 @@
+(dp0
+Vstronger
+p1
+F0.5
+sVfirmer
+p2
+F0.5
+s.

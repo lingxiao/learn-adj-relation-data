@@ -1,0 +1,14 @@
+(dp0
+Vgroundless
+p1
+F0.2
+sVbaseless
+p2
+F0.2
+sVunfounded
+p3
+F0.4
+sVunnecessary
+p4
+F0.2
+s.

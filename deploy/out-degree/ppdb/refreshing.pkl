@@ -1,0 +1,17 @@
+(dp0
+Vnoticeable
+p1
+F0.2
+sVsubstantial
+p2
+F0.2
+sVrefreshing
+p3
+F0.2
+sVsignificant
+p4
+F0.2
+sVappreciable
+p5
+F0.2
+s.

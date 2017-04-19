@@ -1,0 +1,14 @@
+(dp0
+Vsuperfluous
+p1
+F0.2
+sVunnecessary
+p2
+F0.2
+sVredundant
+p3
+F0.2
+sVuseless
+p4
+F0.4
+s.

@@ -1,0 +1,11 @@
+(dp0
+Vunabated
+p1
+F0.3333333333333333
+sVcognizant
+p2
+F0.3333333333333333
+sVpresent
+p3
+F0.3333333333333333
+s.

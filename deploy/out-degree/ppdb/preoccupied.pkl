@@ -1,0 +1,14 @@
+(dp0
+Vconcerned
+p1
+F0.25
+sVtroubled
+p2
+F0.25
+sVpreoccupied
+p3
+F0.25
+sVworried
+p4
+F0.25
+s.

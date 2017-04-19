@@ -1,0 +1,14 @@
+(dp0
+Vblind
+p1
+F0.25
+sVskint
+p2
+F0.25
+sVbankrupt
+p3
+F0.25
+sVbroke
+p4
+F0.25
+s.

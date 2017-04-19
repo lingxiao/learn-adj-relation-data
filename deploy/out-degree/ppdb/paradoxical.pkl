@@ -1,0 +1,17 @@
+(dp0
+Vironic
+p1
+F0.2
+sVstrange
+p2
+F0.2
+sVillogical
+p3
+F0.2
+sVabsurd
+p4
+F0.2
+sVparadoxical
+p5
+F0.2
+s.

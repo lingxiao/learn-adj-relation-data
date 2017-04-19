@@ -1,0 +1,14 @@
+(dp0
+Vsensible
+p1
+F0.25
+sVonly
+p2
+F0.25
+sVstreamlined
+p3
+F0.25
+sVrational
+p4
+F0.25
+s.

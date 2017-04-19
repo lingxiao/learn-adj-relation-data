@@ -1,0 +1,17 @@
+(dp0
+Vharmless
+p1
+F0.2222222222222222
+sVinnocuous
+p2
+F0.1111111111111111
+sVbenign
+p3
+F0.2222222222222222
+sVpowerless
+p4
+F0.2222222222222222
+sVinoffensive
+p5
+F0.2222222222222222
+s.

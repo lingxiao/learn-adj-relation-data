@@ -1,0 +1,17 @@
+(dp0
+Vbeautiful
+p1
+F0.2
+sVsexy
+p2
+F0.2
+sVsweetheart
+p3
+F0.2
+sVlovely
+p4
+F0.2
+sVgorgeous
+p5
+F0.2
+s.

@@ -1,0 +1,11 @@
+(dp0
+Vprincipale
+p1
+F0.3333333333333333
+sVclearest
+p2
+F0.3333333333333333
+sVimpressive
+p3
+F0.3333333333333333
+s.

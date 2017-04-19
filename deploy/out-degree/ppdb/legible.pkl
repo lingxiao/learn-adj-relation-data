@@ -1,0 +1,14 @@
+(dp0
+Vlegibly
+p1
+F0.25
+sVlegible
+p2
+F0.25
+sVreadable
+p3
+F0.25
+sVviewable
+p4
+F0.25
+s.

@@ -1,0 +1,14 @@
+(dp0
+Vhot
+p1
+F0.2
+sVexciting
+p2
+F0.4
+sVexcited
+p3
+F0.2
+sVstimulating
+p4
+F0.2
+s.

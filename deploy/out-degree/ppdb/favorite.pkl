@@ -1,0 +1,8 @@
+(dp0
+Vhappier
+p1
+F0.5
+sVfavorite
+p2
+F0.5
+s.

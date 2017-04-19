@@ -1,0 +1,14 @@
+(dp0
+Vresilient
+p1
+F0.25
+sVadaptable
+p2
+F0.25
+sVcommensurate
+p3
+F0.25
+sVsuitable
+p4
+F0.25
+s.

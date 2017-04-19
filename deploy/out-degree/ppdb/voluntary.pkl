@@ -1,0 +1,14 @@
+(dp0
+Vvoluntary
+p1
+F0.4444444444444444
+sVoptional
+p2
+F0.1111111111111111
+sVfacultative
+p3
+F0.2222222222222222
+sVdiscretionary
+p4
+F0.2222222222222222
+s.

@@ -1,0 +1,14 @@
+(dp0
+Vodious
+p1
+F0.25
+sVobnoxious
+p2
+F0.25
+sVhateful
+p3
+F0.25
+sVhorrible
+p4
+F0.25
+s.

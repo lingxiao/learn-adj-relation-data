@@ -1,0 +1,14 @@
+(dp0
+Vperfect
+p1
+F0.25
+sVinfallible
+p2
+F0.25
+sVfaultless
+p3
+F0.25
+sVfoolproof
+p4
+F0.25
+s.

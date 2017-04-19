@@ -1,0 +1,8 @@
+(dp0
+Vpopular
+p1
+F0.5
+sVunpopular
+p2
+F0.5
+s.

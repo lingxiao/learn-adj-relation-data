@@ -1,0 +1,11 @@
+(dp0
+Villegal
+p1
+F0.3333333333333333
+sVimpermissible
+p2
+F0.3333333333333333
+sVunlawful
+p3
+F0.3333333333333333
+s.

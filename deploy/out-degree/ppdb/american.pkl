@@ -1,0 +1,17 @@
+(dp0
+Vmost
+p1
+F0.2
+sVamerican
+p2
+F0.2
+sVamerica
+p3
+F0.2
+sVdomestic
+p4
+F0.2
+sVu.s.
+p5
+F0.2
+s.

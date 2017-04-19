@@ -1,0 +1,17 @@
+(dp0
+Vquestionable
+p1
+F0.2
+sVcommenced
+p2
+F0.2
+sVopen
+p3
+F0.2
+sVcontroversial
+p4
+F0.2
+sVdebatable
+p5
+F0.2
+s.

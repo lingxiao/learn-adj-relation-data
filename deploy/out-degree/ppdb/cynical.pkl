@@ -1,0 +1,11 @@
+(dp0
+Vinsensitive
+p1
+F0.4
+sVsnarky
+p2
+F0.4
+sVcynical
+p3
+F0.2
+s.

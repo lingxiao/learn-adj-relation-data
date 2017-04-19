@@ -1,0 +1,14 @@
+(dp0
+Vweird
+p1
+F0.25
+sVyes
+p2
+F0.25
+sVobscure
+p3
+F0.25
+sVreyes-torrena
+p4
+F0.25
+s.

@@ -1,0 +1,8 @@
+(dp0
+Vfriends
+p1
+F0.5
+sVfriendly
+p2
+F0.5
+s.

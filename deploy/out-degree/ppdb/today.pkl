@@ -1,0 +1,14 @@
+(dp0
+Vhereby
+p1
+F0.25
+sVthere
+p2
+F0.25
+sVaround
+p3
+F0.25
+sVhere
+p4
+F0.25
+s.

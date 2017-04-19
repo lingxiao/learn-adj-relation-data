@@ -1,0 +1,17 @@
+(dp0
+Vapplication
+p1
+F0.2
+sVrequired
+p2
+F0.2
+sVasking
+p3
+F0.2
+sVdemand-driven
+p4
+F0.2
+sVasked
+p5
+F0.2
+s.

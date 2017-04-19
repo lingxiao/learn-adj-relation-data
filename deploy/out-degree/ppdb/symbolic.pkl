@@ -1,0 +1,11 @@
+(dp0
+Vnominal
+p1
+F0.16666666666666666
+sVsymbolic
+p2
+F0.5
+sVemblematic
+p3
+F0.3333333333333333
+s.

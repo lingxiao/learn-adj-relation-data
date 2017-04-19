@@ -1,0 +1,17 @@
+(dp0
+Vsympathetic
+p1
+F0.2
+sVpleasant
+p2
+F0.2
+sVlikable
+p3
+F0.2
+sVfriendly
+p4
+F0.2
+sVsociable
+p5
+F0.2
+s.

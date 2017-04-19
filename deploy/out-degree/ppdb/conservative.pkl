@@ -1,0 +1,14 @@
+(dp0
+Vcautious
+p1
+F0.16666666666666666
+sVcareful
+p2
+F0.16666666666666666
+sVprudent
+p3
+F0.16666666666666666
+sVconservative
+p4
+F0.5
+s.

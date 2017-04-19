@@ -1,0 +1,14 @@
+(dp0
+Vco-funding
+p1
+F0.25
+sVco-financed
+p2
+F0.25
+sVco-funded
+p3
+F0.25
+sVco-financing
+p4
+F0.25
+s.

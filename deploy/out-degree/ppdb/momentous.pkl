@@ -1,0 +1,11 @@
+(dp0
+Vmajor
+p1
+F0.3333333333333333
+sVsubstantial
+p2
+F0.3333333333333333
+sVsignificant
+p3
+F0.3333333333333333
+s.

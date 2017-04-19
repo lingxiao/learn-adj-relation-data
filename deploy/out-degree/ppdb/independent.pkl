@@ -1,0 +1,14 @@
+(dp0
+Vindependent
+p1
+F0.5
+sVindividual
+p2
+F0.16666666666666666
+sVself-sustaining
+p3
+F0.16666666666666666
+sVself-employed
+p4
+F0.16666666666666666
+s.

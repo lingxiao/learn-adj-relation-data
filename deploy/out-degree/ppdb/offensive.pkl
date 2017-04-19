@@ -1,0 +1,11 @@
+(dp0
+Voffensive
+p1
+F0.4
+sVinsulted
+p2
+F0.2
+sVinsulting
+p3
+F0.4
+s.

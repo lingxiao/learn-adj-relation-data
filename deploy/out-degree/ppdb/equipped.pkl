@@ -1,0 +1,14 @@
+(dp0
+Vill-equipped
+p1
+F0.25
+sVcomprehensive
+p2
+F0.25
+sVcomplete
+p3
+F0.25
+sVequipped
+p4
+F0.25
+s.

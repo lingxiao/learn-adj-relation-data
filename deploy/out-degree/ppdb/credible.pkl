@@ -1,0 +1,11 @@
+(dp0
+Vcredible
+p1
+F0.375
+sVplausible
+p2
+F0.375
+sVbelievable
+p3
+F0.25
+s.

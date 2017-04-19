@@ -1,0 +1,11 @@
+(dp0
+Vpalpable
+p1
+F0.3333333333333333
+sVtangible
+p2
+F0.3333333333333333
+sVvisible
+p3
+F0.3333333333333333
+s.

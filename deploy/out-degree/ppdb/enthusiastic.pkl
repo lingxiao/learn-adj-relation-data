@@ -1,0 +1,11 @@
+(dp0
+Venthusiastic
+p1
+F0.3333333333333333
+sVoverwhelming
+p2
+F0.3333333333333333
+sVexcited
+p3
+F0.3333333333333333
+s.

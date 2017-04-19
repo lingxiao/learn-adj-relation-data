@@ -1,0 +1,17 @@
+(dp0
+Vdisabled
+p1
+F0.2
+sVsocio-economically
+p2
+F0.2
+sVcost-effective
+p3
+F0.2
+sVmental
+p4
+F0.2
+sVeconomically
+p5
+F0.2
+s.

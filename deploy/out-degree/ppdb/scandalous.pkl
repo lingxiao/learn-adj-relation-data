@@ -1,0 +1,17 @@
+(dp0
+Voutrageous
+p1
+F0.25
+sVshocking
+p2
+F0.1875
+sVappalling
+p3
+F0.0625
+sVdisgraceful
+p4
+F0.25
+sVscandalous
+p5
+F0.25
+s.

@@ -1,0 +1,17 @@
+(dp0
+Vavailable
+p1
+F0.2
+sVaccessed
+p2
+F0.2
+sVconsulted
+p3
+F0.2
+sVaccessible
+p4
+F0.2
+sVsearchable
+p5
+F0.2
+s.

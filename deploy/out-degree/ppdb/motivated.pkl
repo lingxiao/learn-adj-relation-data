@@ -1,0 +1,17 @@
+(dp0
+Vpsyched
+p1
+F0.2
+sVmotivation
+p2
+F0.2
+sVreasoned
+p3
+F0.2
+sVmotivated
+p4
+F0.2
+sVpolitical
+p5
+F0.2
+s.

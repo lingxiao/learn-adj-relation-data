@@ -1,0 +1,17 @@
+(dp0
+Vlong-term
+p1
+F0.2
+sVlong
+p2
+F0.2
+sVlongstanding
+p3
+F0.2
+sVlong-standing
+p4
+F0.2
+sVlong-lasting
+p5
+F0.2
+s.

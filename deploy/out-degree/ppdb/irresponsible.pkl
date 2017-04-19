@@ -1,0 +1,14 @@
+(dp0
+Virresponsible
+p1
+F0.25
+sVunconscionable
+p2
+F0.25
+sVreckless
+p3
+F0.25
+sVindefensible
+p4
+F0.25
+s.

@@ -1,0 +1,17 @@
+(dp0
+Vmiserable
+p1
+F0.2
+sVlousy
+p2
+F0.2
+sVterrible
+p3
+F0.2
+sVpathetic
+p4
+F0.2
+sVhorrible
+p5
+F0.2
+s.

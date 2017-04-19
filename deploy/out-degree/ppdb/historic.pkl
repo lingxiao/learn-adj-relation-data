@@ -1,0 +1,11 @@
+(dp0
+Vhistoric
+p1
+F0.42857142857142855
+sVhistorical
+p2
+F0.42857142857142855
+sVhistory
+p3
+F0.14285714285714285
+s.

@@ -1,0 +1,17 @@
+(dp0
+Vworst
+p1
+F0.125
+sVdramatic
+p2
+F0.125
+sVtragic
+p3
+F0.5
+sVdire
+p4
+F0.125
+sVpathetic
+p5
+F0.125
+s.

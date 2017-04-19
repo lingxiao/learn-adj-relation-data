@@ -1,0 +1,14 @@
+(dp0
+Vextraordinary
+p1
+F0.25
+sVamazing
+p2
+F0.25
+sVoutstanding
+p3
+F0.25
+sVexceptional
+p4
+F0.25
+s.

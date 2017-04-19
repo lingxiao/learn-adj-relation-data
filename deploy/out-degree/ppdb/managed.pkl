@@ -1,0 +1,14 @@
+(dp0
+Vwell-managed
+p1
+F0.2
+sVoperated
+p2
+F0.2
+sVmanageable
+p3
+F0.4
+sVmanaged
+p4
+F0.2
+s.

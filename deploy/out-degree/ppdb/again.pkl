@@ -1,0 +1,14 @@
+(dp0
+Veven
+p1
+F0.25
+sVagain
+p2
+F0.25
+sVstill
+p3
+F0.25
+sVyet
+p4
+F0.25
+s.

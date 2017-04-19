@@ -1,0 +1,17 @@
+(dp0
+Vscary
+p1
+F0.2
+sVfrightening
+p2
+F0.2
+sVkinda
+p3
+F0.2
+sVfrightened
+p4
+F0.2
+sVsacred
+p5
+F0.2
+s.

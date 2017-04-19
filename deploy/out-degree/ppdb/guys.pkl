@@ -1,0 +1,17 @@
+(dp0
+Vdistressed
+p1
+F0.2
+sVsorry
+p2
+F0.2
+sVs-sorry
+p3
+F0.2
+sVinexcusable
+p4
+F0.2
+sVsorr
+p5
+F0.2
+s.

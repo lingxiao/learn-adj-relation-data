@@ -1,0 +1,17 @@
+(dp0
+Vready
+p1
+F0.2
+sVreadyto
+p2
+F0.2
+sVwilling
+p3
+F0.2
+sV-ready
+p4
+F0.2
+sVprepared
+p5
+F0.2
+s.

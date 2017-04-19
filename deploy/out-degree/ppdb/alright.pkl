@@ -1,0 +1,8 @@
+(dp0
+Vnothing
+p1
+F0.5
+sVanything
+p2
+F0.5
+s.
