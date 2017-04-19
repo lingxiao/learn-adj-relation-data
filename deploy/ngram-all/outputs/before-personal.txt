@@ -1,0 +1,6 @@
+=== before > personal
+personal even before i	207
+personal even before i had	207
+
+=== before < personal
+=== END

@@ -1,0 +1,22 @@
+=== alive > human
+human fully alive	210
+human fully alive	60
+human , fully alive	190
+human fully alive "	81
+human fully alive :	74
+human , fully alive	155
+human and fully alive	189
+human , fully alive :	59
+human , fully alive </s>	42
+human fully alive " by	81
+human fully alive : a	69
+human , fully alive .	52
+human and fully alive .	88
+
+=== alive < human
+alive , fully human	137
+alive , fully human	86
+alive and fully human	74
+alive , fully human ,	42
+alive and fully human .	51
+=== END

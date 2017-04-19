@@ -1,0 +1,5 @@
+=== by > dark
+dark , even by	65
+
+=== by < dark
+=== END

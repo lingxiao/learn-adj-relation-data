@@ -1,0 +1,5 @@
+=== curious > nothing
+nothing if not curious	45
+
+=== curious < nothing
+=== END

@@ -1,0 +1,5 @@
+=== beautiful > elegant
+elegant , even beautiful	48
+
+=== beautiful < elegant
+=== END

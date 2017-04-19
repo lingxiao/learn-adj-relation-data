@@ -1,0 +1,6 @@
+=== sweet > yet
+
+=== sweet < yet
+sweet , but not yet	70
+sweet , but not yet	70
+=== END

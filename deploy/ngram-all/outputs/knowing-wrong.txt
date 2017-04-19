@@ -1,0 +1,8 @@
+=== knowing > wrong
+wrong but not knowing	62
+wrong , but not knowing	144
+wrong but not knowing	62
+wrong , but not knowing	144
+
+=== knowing < wrong
+=== END

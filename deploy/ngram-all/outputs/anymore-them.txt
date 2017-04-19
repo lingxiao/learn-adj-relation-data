@@ -1,0 +1,10 @@
+=== anymore > them
+them but not anymore	107
+them , but not anymore	137
+them but not anymore .	57
+them but not anymore	107
+them , but not anymore	137
+them but not anymore .	57
+
+=== anymore < them
+=== END

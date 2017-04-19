@@ -1,0 +1,10 @@
+=== okay > too
+
+=== okay < too
+okay but not too	107
+okay , but not too	67
+okay , but not too	170
+okay but not too	107
+okay , but not too	67
+okay , but not too	170
+=== END

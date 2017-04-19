@@ -1,0 +1,8 @@
+=== sore > stiff
+stiff but not sore	67
+stiff but not sore ,	63
+stiff but not sore	67
+stiff but not sore ,	63
+
+=== sore < stiff
+=== END

@@ -1,0 +1,6 @@
+=== present > recognized
+
+=== present < recognized
+present but not recognized	64
+present but not recognized	64
+=== END

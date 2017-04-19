@@ -1,0 +1,7 @@
+=== by > resolved
+resolved , even by	55
+resolved even by the	54
+resolved fully by	54
+
+=== by < resolved
+=== END

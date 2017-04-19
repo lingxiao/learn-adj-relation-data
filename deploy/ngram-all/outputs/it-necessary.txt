@@ -1,0 +1,26 @@
+=== it > necessary
+not only necessary but it	44
+not only necessary but it	44
+
+=== it < necessary
+it almost necessary for	45
+it almost necessary to	195
+it almost necessary to say	48
+it even necessary ,	111
+it even necessary .	45
+it even necessary ?	448
+it even necessary for	145
+it even necessary that	47
+it even necessary to	921
+it even necessary , or	72
+it even necessary ? </s>	426
+it even necessary for the	40
+it even necessary to do	43
+it even necessary to have	71
+it even necessary to mention	57
+it if not necessary	69
+it but not necessary	45
+it , but not necessary	120
+it but not necessary	45
+it , but not necessary	120
+=== END

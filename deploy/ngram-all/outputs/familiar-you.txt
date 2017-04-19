@@ -1,0 +1,7 @@
+=== familiar > you
+you even familiar with	140
+you even familiar with his	40
+you even familiar with the	46
+
+=== familiar < you
+=== END

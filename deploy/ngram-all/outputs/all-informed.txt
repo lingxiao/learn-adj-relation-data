@@ -1,0 +1,7 @@
+=== all > informed
+
+=== all < informed
+all fully informed	197
+all fully informed ,	67
+all fully informed , that	55
+=== END

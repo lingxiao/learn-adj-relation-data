@@ -1,0 +1,8 @@
+=== as > personally
+personally , even as	83
+personally , even as	150
+personally , even as a	48
+personally , even as a	115
+
+=== as < personally
+=== END

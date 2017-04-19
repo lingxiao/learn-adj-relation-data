@@ -1,0 +1,12 @@
+=== back > three
+
+=== back < three
+back almost three decades	171
+back almost three hundred	44
+back almost three thousand	45
+back almost three years	157
+back almost three decades ,	70
+back almost three decades .	42
+back almost three thousand years	43
+back almost three years .	43
+=== END

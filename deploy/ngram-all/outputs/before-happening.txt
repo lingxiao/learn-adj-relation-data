@@ -1,0 +1,8 @@
+=== before > happening
+happening , even before	67
+happening even before i	69
+happening even before the	212
+happening even before the slump	73
+
+=== before < happening
+=== END

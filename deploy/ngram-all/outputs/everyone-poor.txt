@@ -1,0 +1,5 @@
+=== everyone > poor
+
+=== everyone < poor
+everyone , even the poor	85
+=== END

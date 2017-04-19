@@ -1,0 +1,12 @@
+=== it > sound
+not it just sound	283
+not it just sound like	84
+
+=== it < sound
+it almost sound like	52
+it almost sound as	88
+it almost sound like	230
+it almost sound as if	82
+it almost sound like a	57
+it even sound like	58
+=== END

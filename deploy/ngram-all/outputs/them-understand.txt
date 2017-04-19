@@ -1,0 +1,13 @@
+=== them > understand
+
+=== them < understand
+them or even understand	86
+them , or even understand	43
+them or even understand them	58
+them fully understand	707
+them and fully understand	81
+them fully understand and	42
+them fully understand the	332
+them fully understand their	44
+them fully understand what	47
+=== END

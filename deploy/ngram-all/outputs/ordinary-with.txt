@@ -1,0 +1,6 @@
+=== ordinary > with
+with even ordinary mushrooms	800
+with even ordinary mushrooms and	800
+
+=== ordinary < with
+=== END

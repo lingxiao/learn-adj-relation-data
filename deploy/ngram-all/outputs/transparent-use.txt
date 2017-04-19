@@ -1,0 +1,5 @@
+=== transparent > use
+use fully transparent	40
+
+=== transparent < use
+=== END

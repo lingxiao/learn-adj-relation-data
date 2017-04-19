@@ -1,0 +1,7 @@
+=== dedicated > yet
+yet fully dedicated	76
+yet fully dedicated to	59
+yet fully dedicated to breaking	53
+
+=== dedicated < yet
+=== END

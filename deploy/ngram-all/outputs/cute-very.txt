@@ -1,0 +1,16 @@
+=== cute > very
+
+=== cute < very
+not only cute but very	40
+cute but not very	208
+cute , but not very	71
+cute , but not very	310
+not only cute but very	40
+cute but not very	208
+cute , but not very	71
+cute , but not very	310
+cute but not very	208
+cute , but not very	71
+cute , but not very	310
+not only cute but very	40
+=== END

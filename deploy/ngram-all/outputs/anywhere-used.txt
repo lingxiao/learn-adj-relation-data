@@ -1,0 +1,38 @@
+=== anywhere > used
+used almost anywhere !	63
+used almost anywhere ,	667
+used almost anywhere -	137
+used almost anywhere --	70
+used almost anywhere .	1204
+used almost anywhere :	95
+used almost anywhere </s>	99
+used almost anywhere a	48
+used almost anywhere an	40
+used almost anywhere and	279
+used almost anywhere due	147
+used almost anywhere extra	192
+used almost anywhere for	47
+used almost anywhere in	627
+used almost anywhere on	105
+used almost anywhere that	55
+used almost anywhere the	83
+used almost anywhere to	64
+used almost anywhere without	115
+used almost anywhere you	94
+used almost anywhere ! </s>	63
+used almost anywhere , inside	40
+used almost anywhere , on	233
+used almost anywhere , the	61
+used almost anywhere - from	54
+used almost anywhere -- this	41
+used almost anywhere and you	58
+used almost anywhere due to	147
+used almost anywhere extra heat	191
+used almost anywhere in the	489
+used almost anywhere in your	46
+used almost anywhere on the	67
+used almost anywhere the professional	60
+used almost anywhere without a	93
+
+=== anywhere < used
+=== END

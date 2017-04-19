@@ -1,0 +1,30 @@
+=== all > know
+know almost all of	101
+know , almost all	1022
+know almost all about	41
+know almost all admin	511
+know almost all of	1912
+know almost all the	993
+know almost all there	142
+know almost all of the	101
+know , almost all of	206
+know , almost all the	407
+know almost all admin are	511
+know almost all of my	50
+know almost all of our	835
+know almost all of the	482
+know almost all of them	214
+know almost all of you	88
+know almost all the important	74
+know almost all the songs	52
+know almost all the words	94
+know almost all there is	129
+know , if not all	47
+know fully all	74
+know but not all	66
+know , but not all	187
+know but not all	66
+know , but not all	187
+
+=== all < know
+=== END

@@ -1,0 +1,6 @@
+=== active > transparent
+transparent if not active	110
+transparent if not active (	56
+
+=== active < transparent
+=== END

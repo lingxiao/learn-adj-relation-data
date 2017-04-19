@@ -1,0 +1,6 @@
+=== used > work
+work but not used	40
+work but not used	40
+
+=== used < work
+=== END

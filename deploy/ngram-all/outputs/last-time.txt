@@ -1,0 +1,10 @@
+=== last > time
+time even the last	83
+time even the last moleskine	65
+time but not the last	43
+time but not the last	210
+time but not the last	43
+time but not the last	210
+
+=== last < time
+=== END

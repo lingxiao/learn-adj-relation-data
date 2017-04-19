@@ -1,0 +1,6 @@
+=== as > polished
+
+=== as < polished
+as fully polished	47
+as fully polished as	40
+=== END

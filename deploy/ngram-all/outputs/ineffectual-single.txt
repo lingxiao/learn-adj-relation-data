@@ -1,0 +1,6 @@
+=== ineffectual > single
+single even ineffectual chemical	47
+single even ineffectual chemical weapon	47
+
+=== ineffectual < single
+=== END

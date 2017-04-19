@@ -1,0 +1,5 @@
+=== met > partially
+partially or fully met	92
+
+=== met < partially
+=== END

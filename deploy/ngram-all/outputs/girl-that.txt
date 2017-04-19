@@ -1,0 +1,6 @@
+=== girl > that
+that even a girl	90
+that even the girl	77
+
+=== girl < that
+=== END

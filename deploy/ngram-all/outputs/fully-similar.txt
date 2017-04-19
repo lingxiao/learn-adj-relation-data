@@ -1,0 +1,10 @@
+=== fully > similar
+similar but not fully	65
+similar but not fully compatible	50
+similar but not fully	65
+similar but not fully compatible	50
+similar but not fully	65
+similar but not fully compatible	50
+
+=== fully < similar
+=== END

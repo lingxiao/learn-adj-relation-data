@@ -1,0 +1,8 @@
+=== a > liberal
+liberal but not a	118
+a liberal but not a	53
+liberal , but not a	101
+
+=== a < liberal
+a fully liberal	133
+=== END

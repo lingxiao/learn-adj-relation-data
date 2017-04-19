@@ -1,0 +1,6 @@
+=== double > stellar
+stellar or fully double	43
+stellar or fully double novelty	43
+
+=== double < stellar
+=== END

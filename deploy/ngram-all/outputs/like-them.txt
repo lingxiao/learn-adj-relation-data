@@ -1,0 +1,19 @@
+=== like > them
+them , almost like	554
+them almost like a	243
+them almost like dolls	60
+them almost like they	48
+them , almost like a	146
+them , almost like they	48
+them almost like dolls ,	60
+them even like to	56
+them or even like	91
+them , or even like	44
+them or even like them	79
+them but not like	65
+them , but not like	196
+them but not like	65
+them , but not like	196
+
+=== like < them
+=== END

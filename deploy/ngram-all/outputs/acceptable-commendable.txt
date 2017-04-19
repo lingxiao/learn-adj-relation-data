@@ -1,0 +1,5 @@
+=== acceptable > commendable
+
+=== acceptable < commendable
+acceptable , even commendable	52
+=== END

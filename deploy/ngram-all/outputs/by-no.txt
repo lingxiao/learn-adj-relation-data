@@ -1,0 +1,15 @@
+=== by > no
+no , but not by	42
+no , but not by	42
+
+=== by < no
+by almost no -	51
+by almost no african	62
+by almost no one	733
+by almost no other	88
+by almost no - one	51
+by almost no african -	62
+by almost no one ,	103
+by almost no one .	354
+by almost no one in	49
+=== END

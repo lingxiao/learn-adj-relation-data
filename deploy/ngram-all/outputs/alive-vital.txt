@@ -1,0 +1,6 @@
+=== alive > vital
+vital and fully alive	61
+vital and fully alive .	57
+
+=== alive < vital
+=== END

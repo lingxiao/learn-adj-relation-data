@@ -1,0 +1,7 @@
+=== previously > required
+required if not previously	55
+required if not previously	108
+required if not previously taken	45
+
+=== previously < required
+=== END

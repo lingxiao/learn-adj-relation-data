@@ -1,0 +1,13 @@
+=== school > that
+that even a school	84
+that even school children	52
+that even the school	194
+that even the school ' s	40
+that even the school of	43
+
+=== school < that
+school , and even that	43
+school , or even that	44
+school , but not that	47
+school , but not that	47
+=== END

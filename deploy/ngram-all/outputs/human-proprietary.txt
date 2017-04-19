@@ -1,0 +1,5 @@
+=== human > proprietary
+proprietary fully human	54
+
+=== human < proprietary
+=== END

@@ -1,0 +1,7 @@
+=== every > start
+start almost every monday	41
+start almost every month	64
+start almost every month .	58
+
+=== every < start
+=== END

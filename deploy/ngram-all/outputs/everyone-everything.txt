@@ -1,0 +1,8 @@
+=== everyone > everything
+everything and almost everyone	66
+everything , but not everyone	52
+everything , but not everyone	52
+
+=== everyone < everything
+everyone and almost everything	42
+=== END

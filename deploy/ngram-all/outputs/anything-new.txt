@@ -1,0 +1,6 @@
+=== anything > new
+
+=== anything < new
+anything , even new	317
+anything , even new york	82
+=== END

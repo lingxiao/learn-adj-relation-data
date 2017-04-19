@@ -1,0 +1,7 @@
+=== by > long
+long , even by	170
+long , but not by	43
+long , but not by	43
+
+=== by < long
+=== END

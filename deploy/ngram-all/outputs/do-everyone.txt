@@ -1,0 +1,9 @@
+=== do > everyone
+
+=== do < everyone
+do but not everyone	70
+do , but not everyone	173
+not everyone just do	91
+do but not everyone	70
+do , but not everyone	173
+=== END

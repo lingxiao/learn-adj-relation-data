@@ -1,0 +1,5 @@
+=== know > need
+need or even know	40
+
+=== know < need
+=== END

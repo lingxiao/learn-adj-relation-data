@@ -1,0 +1,15 @@
+=== compatible > to
+to fully compatible	191
+to fully compatible mp3	70
+to fully compatible with	82
+to fully compatible mp3 tracks	70
+to fully compatible with the	51
+to but not compatible	88
+to , but not compatible	77
+to but not compatible with	87
+to but not compatible	88
+to , but not compatible	77
+to but not compatible with	87
+
+=== compatible < to
+=== END

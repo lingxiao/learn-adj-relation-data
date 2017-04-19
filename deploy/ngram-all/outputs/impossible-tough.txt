@@ -1,0 +1,28 @@
+=== impossible > tough
+tough , almost impossible	60
+tough , though not impossible	46
+tough if not impossible	253
+tough , if not impossible	439
+tough if not impossible .	57
+tough if not impossible to	120
+tough but not impossible	166
+tough but not impossible	556
+tough , but not impossible	89
+tough but not impossible 6th	127
+tough , but not impossible	664
+tough but not impossible ,	55
+tough but not impossible .	224
+tough but not impossible <unk>	75
+tough but not impossible to	61
+tough but not impossible	166
+tough but not impossible	556
+tough , but not impossible	89
+tough but not impossible 6th	127
+tough , but not impossible	664
+tough but not impossible ,	55
+tough but not impossible .	224
+tough but not impossible <unk>	75
+tough but not impossible to	61
+
+=== impossible < tough
+=== END

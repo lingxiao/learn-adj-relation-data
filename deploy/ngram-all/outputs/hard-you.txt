@@ -1,0 +1,5 @@
+=== hard > you
+not hard but still you	102
+
+=== hard < you
+=== END

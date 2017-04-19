@@ -1,0 +1,7 @@
+=== american > now
+now even the american	249
+now even the american	41
+now even the american command	239
+
+=== american < now
+=== END

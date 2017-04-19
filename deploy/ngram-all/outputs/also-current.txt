@@ -1,0 +1,6 @@
+=== also > current
+not only current but also	150
+not only current but also	150
+
+=== also < current
+=== END

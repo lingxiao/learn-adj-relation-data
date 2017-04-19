@@ -1,0 +1,5 @@
+=== automatic > up
+up fully automatic	61
+
+=== automatic < up
+=== END

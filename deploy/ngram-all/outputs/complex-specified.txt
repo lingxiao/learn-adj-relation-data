@@ -1,0 +1,6 @@
+=== complex > specified
+
+=== complex < specified
+complex but not specified	55
+complex but not specified	55
+=== END

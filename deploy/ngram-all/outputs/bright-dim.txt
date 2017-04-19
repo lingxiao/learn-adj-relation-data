@@ -1,0 +1,5 @@
+=== bright > dim
+
+=== bright < dim
+dim or very bright	75
+=== END

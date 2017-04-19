@@ -1,0 +1,12 @@
+=== deeper > going
+going even deeper ,	49
+going even deeper into	66
+going even deeper ,	63
+going even deeper .	70
+going even deeper in	49
+going even deeper into	177
+going even deeper into the	45
+going even deeper into the	55
+
+=== deeper < going
+=== END

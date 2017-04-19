@@ -1,0 +1,5 @@
+=== before > conscious
+
+=== before < conscious
+before fully conscious	42
+=== END

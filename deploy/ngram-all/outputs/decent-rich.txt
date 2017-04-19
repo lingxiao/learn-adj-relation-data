@@ -1,0 +1,6 @@
+=== decent > rich
+
+=== decent < rich
+decent if not rich	41
+decent if not rich retirement	41
+=== END

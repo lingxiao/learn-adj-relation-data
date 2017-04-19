@@ -1,0 +1,6 @@
+=== before > vulnerable
+vulnerable even before a	99
+vulnerable even before the	229
+
+=== before < vulnerable
+=== END

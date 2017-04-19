@@ -1,0 +1,6 @@
+=== exciting > solid
+solid but not exciting	56
+solid but not exciting	56
+
+=== exciting < solid
+=== END

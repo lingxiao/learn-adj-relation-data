@@ -1,0 +1,9 @@
+=== everywhere > me
+me almost everywhere ,	113
+me almost everywhere .	188
+me almost everywhere i	303
+me almost everywhere i go	240
+me almost everywhere i went	40
+
+=== everywhere < me
+=== END

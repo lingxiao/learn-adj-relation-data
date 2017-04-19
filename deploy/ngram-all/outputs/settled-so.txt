@@ -1,0 +1,5 @@
+=== settled > so
+so fully settled	71
+
+=== settled < so
+=== END

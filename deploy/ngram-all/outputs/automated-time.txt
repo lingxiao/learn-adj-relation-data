@@ -1,0 +1,9 @@
+=== automated > time
+time fully automated	74
+time , fully automated	94
+time and fully automated	47
+time fully automated by	53
+time fully automated by i4time	53
+
+=== automated < time
+=== END

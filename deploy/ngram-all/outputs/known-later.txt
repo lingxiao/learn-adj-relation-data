@@ -1,0 +1,6 @@
+=== known > later
+
+=== known < later
+known , but not later	75
+known , but not later	75
+=== END

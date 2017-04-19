@@ -1,0 +1,21 @@
+=== inevitable > natural
+natural , almost inevitable	104
+natural and almost inevitable	138
+natural , almost inevitable ,	46
+natural and almost inevitable .	40
+natural , though not inevitable	47
+natural , even inevitable	176
+natural and even inevitable	78
+natural , even inevitable ,	76
+natural , even inevitable .	56
+natural and even inevitable .	40
+not only natural but inevitable	57
+natural , if not inevitable	155
+natural but not inevitable	74
+natural but not inevitable .	66
+natural but not inevitable	74
+natural but not inevitable .	66
+not only natural but inevitable	57
+
+=== inevitable < natural
+=== END

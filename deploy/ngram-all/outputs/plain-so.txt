@@ -1,0 +1,7 @@
+=== plain > so
+
+=== plain < so
+plain , even so	288
+plain , even so did	197
+plain , even so fast	52
+=== END

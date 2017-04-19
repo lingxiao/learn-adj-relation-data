@@ -1,0 +1,13 @@
+=== applied > yet
+yet fully applied	134
+
+=== applied < yet
+applied but not yet	123
+applied but not yet	212
+applied but not yet enrolled	120
+applied but not yet granted	58
+applied but not yet	123
+applied but not yet	212
+applied but not yet enrolled	120
+applied but not yet granted	58
+=== END

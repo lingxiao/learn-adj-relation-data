@@ -1,0 +1,8 @@
+=== readable > searchable
+
+=== readable < searchable
+readable but not searchable	80
+readable but not searchable ?	80
+readable but not searchable	80
+readable but not searchable ?	80
+=== END

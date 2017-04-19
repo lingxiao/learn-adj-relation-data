@@ -1,0 +1,8 @@
+=== accurate > easier
+easier , but not accurate	98
+easier , but not accurate	98
+
+=== accurate < easier
+accurate and even easier	55
+accurate and even easier than	51
+=== END

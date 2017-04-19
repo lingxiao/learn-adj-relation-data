@@ -1,0 +1,867 @@
+=== any > to
+to almost any destination	2420
+to almost any song	99
+to , almost any	46
+to almost any classroom	45
+to almost any sound	57
+to almost any "	88
+to almost any '	43
+to almost any -	65
+to almost any .	134
+to almost any ...	165
+to almost any 10baset	61
+to almost any </s>	1223
+to almost any <unk>	233
+to almost any >	79
+to almost any american	53
+to almost any country	78
+to almost any dtv	45
+to almost any dvd	48
+to almost any fm	223
+to almost any gtk	58
+to almost any html	244
+to almost any i	56
+to almost any it	56
+to almost any internet	70
+to almost any linux	63
+to almost any pc	516
+to almost any pc/104	42
+to almost any star	48
+to almost any tv	275
+to almost any uk	57
+to almost any us	80
+to almost any web	230
+to almost any windows	356
+to almost any action	59
+to almost any activity	206
+to almost any address	936
+to almost any adjective	83
+to almost any adult	163
+to almost any age	157
+to almost any airport	104
+to almost any ambience	58
+to almost any amount	61
+to almost any and	76
+to almost any angle	638
+to almost any animal	61
+to almost any application	1567
+to almost any area	561
+to almost any aspect	216
+to almost any assembly	49
+to almost any audience	156
+to almost any audio	121
+to almost any available	51
+to almost any back	92
+to almost any bank	43
+to almost any bed	51
+to almost any bedroom	42
+to almost any bicycle	281
+to almost any bike	62
+to almost any blog	43
+to almost any boat	55
+to almost any body	187
+to almost any book	516
+to almost any bookstore	72
+to almost any brand	65
+to almost any browser	114
+to almost any budget	145
+to almost any building	99
+to almost any business	865
+to almost any cage	184
+to almost any camera	81
+to almost any car	289
+to almost any career	454
+to almost any case	64
+to almost any cd	167
+to almost any cell	184
+to almost any chair	65
+to almost any challenge	107
+to almost any change	102
+to almost any character	59
+to almost any charity	107
+to almost any chemical	58
+to almost any chicken	42
+to almost any child	78
+to almost any circumstance	148
+to almost any city	447
+to almost any class	47
+to almost any classroom	51
+to almost any clean	376
+to almost any client	62
+to almost any climate	126
+to almost any clinical	204
+to almost any cloth	317
+to almost any collection	52
+to almost any college	512
+to almost any color	292
+to almost any colour	205
+to almost any combination	77
+to almost any command	51
+to almost any commercial	114
+to almost any community	69
+to almost any company	198
+to almost any compatible	41
+to almost any component	48
+to almost any computer	1760
+to almost any conceivable	166
+to almost any condition	128
+to almost any conditions	68
+to almost any configuration	125
+to almost any conflict	59
+to almost any construction	48
+to almost any content	49
+to almost any contour	149
+to almost any control	64
+to almost any corner	68
+to almost any country	939
+to almost any course	67
+to almost any craft	197
+to almost any crib	92
+to almost any criteria	45
+to almost any customer	76
+to almost any data	185
+to almost any database	446
+to almost any decor	80
+to almost any decorating	43
+to almost any degree	331
+to almost any depth	83
+to almost any design	187
+to almost any desired	448
+to almost any desktop	121
+to almost any dessert	43
+to almost any destination	1269
+to almost any development	41
+to almost any device	538
+to almost any digital	133
+to almost any dimension	45
+to almost any dimensions	42
+to almost any discipline	99
+to almost any disease	72
+to almost any dish	417
+to almost any display	111
+to almost any distro	1448
+to almost any document	66
+to almost any domain	42
+to almost any door	85
+to almost any drug	60
+to almost any dry	73
+to almost any dvd	881
+to almost any décor	54
+to almost any electronic	79
+to almost any element	100
+to almost any email	158
+to almost any emergency	65
+to almost any end	51
+to almost any enterprise	380
+to almost any environment	522
+to almost any environmental	52
+to almost any event	469
+to almost any exercise	97
+to almost any existing	344
+to almost any extent	561
+to almost any extreme	107
+to almost any fabric	124
+to almost any face	60
+to almost any factory	120
+to almost any family	78
+to almost any fan	53
+to almost any faucet	50
+to almost any fax	58
+to almost any feature	48
+to almost any fest	78
+to almost any field	239
+to almost any figure	53
+to almost any file	174
+to almost any flash	157
+to almost any flat	358
+to almost any flavor	42
+to almost any food	196
+to almost any foreign	107
+to almost any form	346
+to almost any format	228
+to almost any ftp	58
+to almost any function	51
+to almost any functionality	329
+to almost any game	280
+to almost any garden	55
+to almost any genre	110
+to almost any given	86
+to almost any golf	53
+to almost any good	54
+to almost any government	62
+to almost any graphic	160
+to almost any group	230
+to almost any hand	61
+to almost any hard	491
+to almost any hardware	61
+to almost any head	50
+to almost any health	85
+to almost any height	199
+to almost any high	55
+to almost any holiday	133
+to almost any home	372
+to almost any host	81
+to almost any hotel	70
+to almost any house	59
+to almost any household	167
+to almost any human	118
+to almost any idea	55
+to almost any image	67
+to almost any imaginable	80
+to almost any individual	121
+to almost any industrial	85
+to almost any industry	291
+to almost any information	289
+to almost any instrument	110
+to almost any interior	123
+to almost any interpretation	111
+to almost any issue	154
+to almost any item	219
+to almost any job	245
+to almost any key	98
+to almost any kind	3301
+to almost any language	165
+to almost any laptop	45
+to almost any large	53
+to almost any law	44
+to almost any legal	50
+to almost any length	1126
+to almost any lengths	994
+to almost any level	1375
+to almost any lie	53
+to almost any lifestyle	89
+to almost any living	57
+to almost any local	105
+to almost any location	1498
+to almost any machine	126
+to almost any major	289
+to almost any man	65
+to almost any market	68
+to almost any marketing	169
+to almost any material	572
+to almost any mathematical	44
+to almost any meal	444
+to almost any means	67
+to almost any meat	377
+to almost any media	222
+to almost any medical	50
+to almost any medium	42
+to almost any menu	86
+to almost any metal	141
+to almost any microscope	66
+to almost any mission	98
+to almost any mobile	388
+to almost any model	76
+to almost any modern	97
+to almost any movie	48
+to almost any multimedia	62
+to almost any music	210
+to almost any musical	112
+to almost any musician	107
+to almost any name	60
+to almost any nation	47
+to almost any neck	56
+to almost any need	425
+to almost any network	157
+to almost any new	153
+to almost any news	52
+to almost any non	78
+to almost any notebook	88
+to almost any number	157
+to almost any nurse	41
+to almost any object	382
+to almost any occasion	302
+to almost any of	1171
+to almost any office	80
+to almost any one	299
+to almost any online	63
+to almost any open	50
+to almost any organ	225
+to almost any organization	167
+to almost any other	3759
+to almost any outdoor	57
+to almost any outfit	519
+to almost any outlet	176
+to almost any package	55
+to almost any page	428
+to almost any parameter	45
+to almost any part	1016
+to almost any pedestal	42
+to almost any person	151
+to almost any personal	62
+to almost any phone	298
+to almost any photographic	265
+to almost any physical	62
+to almost any piece	216
+to almost any pitch	40
+to almost any place	709
+to almost any plasma	59
+to almost any platform	326
+to almost any point	451
+to almost any policy	40
+to almost any political	82
+to almost any popular	1008
+to almost any portable	465
+to almost any position	962
+to almost any possible	52
+to almost any printer	108
+to almost any private	42
+to almost any problem	1487
+to almost any process	59
+to almost any product	319
+to almost any production	73
+to almost any profession	46
+to almost any professional	96
+to almost any program	134
+to almost any programming	108
+to almost any project	302
+to almost any property	45
+to almost any proposal	45
+to almost any proposition	43
+to almost any protocol	43
+to almost any public	77
+to almost any purpose	77
+to almost any pursuit	55
+to almost any query	95
+to almost any question	1885
+to almost any questions	56
+to almost any rack	100
+to almost any radio	42
+to almost any reader	156
+to almost any reasonable	94
+to almost any recipe	123
+to almost any region	81
+to almost any removable	40
+to almost any request	109
+to almost any required	52
+to almost any requirement	154
+to almost any restaurant	40
+to almost any rigid	71
+to almost any rock	44
+to almost any role	44
+to almost any roof	41
+to almost any room	988
+to almost any rule	56
+to almost any savory	41
+to almost any scale	76
+to almost any scenario	43
+to almost any scene	41
+to almost any school	84
+to almost any search	103
+to almost any seat	66
+to almost any secret	53
+to almost any section	55
+to almost any security	40
+to almost any self	139
+to almost any serial	89
+to almost any service	61
+to almost any set	100
+to almost any setting	546
+to almost any sexual	53
+to almost any shape	759
+to almost any show	85
+to almost any shower	85
+to almost any site	275
+to almost any situation	2086
+to almost any size	4498
+to almost any sized	342
+to almost any skill	264
+to almost any small	94
+to almost any smooth	431
+to almost any social	89
+to almost any software	119
+to almost any soil	146
+to almost any solid	45
+to almost any song	1908
+to almost any sort	223
+to almost any sound	84
+to almost any source	53
+to almost any space	70
+to almost any specific	49
+to almost any specification	440
+to almost any specifications	41
+to almost any sponge	119
+to almost any sport	100
+to almost any spot	78
+to almost any standard	110
+to almost any state	90
+to almost any statement	76
+to almost any stereo	115
+to almost any stock	41
+to almost any store	41
+to almost any story	74
+to almost any strap	143
+to almost any stroller	48
+to almost any structure	108
+to almost any student	105
+to almost any style	464
+to almost any subject	371
+to almost any substance	57
+to almost any substrate	232
+to almost any successful	61
+to almost any suggestion	107
+to almost any surface	4754
+to almost any system	429
+to almost any table	98
+to almost any target	92
+to almost any task	173
+to almost any taste	117
+to almost any team	55
+to almost any technical	72
+to almost any technology	55
+to almost any telephone	82
+to almost any text	86
+to almost any theme	60
+to almost any thing	164
+to almost any time	201
+to almost any tissue	112
+to almost any topic	363
+to almost any town	63
+to almost any track	113
+to almost any training	58
+to almost any transom	146
+to almost any tune	41
+to almost any type	4075
+to almost any university	55
+to almost any use	98
+to almost any useful	40
+to almost any user	182
+to almost any value	56
+to almost any vehicle	291
+to almost any vertical	96
+to almost any video	90
+to almost any viewing	149
+to almost any voice	71
+to almost any wall	70
+to almost any wardrobe	60
+to almost any water	282
+to almost any weapon	41
+to almost any web	221
+to almost any website	135
+to almost any where	64
+to almost any width	55
+to almost any window	47
+to almost any wireless	534
+to almost any woman	61
+to almost any word	108
+to almost any work	127
+to almost any destination !	2419
+to almost any song for	96
+to almost any classroom challenge	45
+to almost any sound </s>	52
+to almost any - </s>	53
+to almost any ... </s>	62
+to almost any 10baset or	61
+to almost any <unk> for	56
+to almost any country in	69
+to almost any dtv -	45
+to almost any fm station	217
+to almost any gtk -	58
+to almost any html element	221
+to almost any pc ,	65
+to almost any pc .	183
+to almost any pc </s>	41
+to almost any pc/104 ,	42
+to almost any star trek	47
+to almost any tv so	130
+to almost any web environment	121
+to almost any windows application	212
+to almost any windows program	57
+to almost any activity .	90
+to almost any address !	137
+to almost any address .	532
+to almost any address in	215
+to almost any adjective .	53
+to almost any adult bike	128
+to almost any age group	82
+to almost any airport in	78
+to almost any ambience .	42
+to almost any angle .	191
+to almost any angle </s>	135
+to almost any application ,	108
+to almost any application .	954
+to almost any application </s>	55
+to almost any application and	69
+to almost any application that	146
+to almost any area .	48
+to almost any area of	322
+to almost any area with	73
+to almost any aspect of	206
+to almost any assembly of	46
+to almost any audience .	74
+to almost any audio video	50
+to almost any back -	87
+to almost any bed .	41
+to almost any bicycle and	176
+to almost any bicycle design	79
+to almost any body part	102
+to almost any book at	435
+to almost any bookstore will	43
+to almost any browser .	95
+to almost any budget .	72
+to almost any budget with	46
+to almost any business ,	56
+to almost any business .	196
+to almost any business ...	59
+to almost any business need	103
+to almost any business or	53
+to almost any cage ,	80
+to almost any cage ...	67
+to almost any car .	149
+to almost any career -	333
+to almost any career .	40
+to almost any cd or	164
+to almost any cell phone	115
+to almost any challenge .	54
+to almost any charity by	80
+to almost any chicken -	40
+to almost any circumstance at	68
+to almost any city in	155
+to almost any city worldwide	205
+to almost any clean ,	92
+to almost any clean flat	113
+to almost any clean smooth	40
+to almost any clean surface	94
+to almost any climate and	40
+to almost any clinical specimen	195
+to almost any cloth like	315
+to almost any college coach	377
+to almost any color .	119
+to almost any color and	54
+to almost any colour scheme	124
+to almost any combination of	56
+to almost any company .	56
+to almost any computer .	113
+to almost any computer </s>	124
+to almost any computer for	711
+to almost any computer system	43
+to almost any computer with	254
+to almost any condition .	40
+to almost any configuration .	46
+to almost any conflict -	41
+to almost any contour ,	68
+to almost any contour </s>	44
+to almost any corner of	47
+to almost any country ,	73
+to almost any country .	136
+to almost any country in	472
+to almost any craft project	173
+to almost any crib including	87
+to almost any data source	60
+to almost any database access	207
+to almost any decor .	54
+to almost any degree ,	85
+to almost any degree .	58
+to almost any degree of	79
+to almost any design .	64
+to almost any desired level	43
+to almost any desired specification	163
+to almost any desktop ,	77
+to almost any destination .	497
+to almost any destination in	394
+to almost any destination worldwide	50
+to almost any device ,	53
+to almost any device .	170
+to almost any device on	48
+to almost any device or	42
+to almost any device with	104
+to almost any digital camera	44
+to almost any disease .	60
+to almost any dish ,	40
+to almost any dish .	175
+to almost any dish a	60
+to almost any display ,	76
+to almost any distro .	1447
+to almost any dry ,	40
+to almost any dvd or	881
+to almost any email or	123
+to almost any enterprise data	233
+to almost any environment ,	87
+to almost any environment .	277
+to almost any event ,	69
+to almost any event .	95
+to almost any event in	179
+to almost any exercise !	76
+to almost any extent ,	175
+to almost any extent .	111
+to almost any extent in	66
+to almost any extent to	46
+to almost any extent was	44
+to almost any extreme to	67
+to almost any fabric by	72
+to almost any face .	45
+to almost any factory rack	53
+to almost any fax machine	56
+to almost any fest ...	78
+to almost any field .	47
+to almost any field of	104
+to almost any file ,	76
+to almost any flash card	138
+to almost any flat /	103
+to almost any flat surface	212
+to almost any food .	66
+to almost any foreign country	44
+to almost any form of	305
+to almost any format .	65
+to almost any ftp site	57
+to almost any functionality you	329
+to almost any game !	132
+to almost any genre of	44
+to almost any graphic project	83
+to almost any group of	110
+to almost any hard surface	406
+to almost any height </s>	82
+to almost any holiday ...	94
+to almost any home .	127
+to almost any home or	42
+to almost any home situation	55
+to almost any household project	116
+to almost any industry ,	62
+to almost any industry .	117
+to almost any information available	88
+to almost any information contained	42
+to almost any instrument as	65
+to almost any interior wall	76
+to almost any interpretation of	47
+to almost any issue .	41
+to almost any item .	77
+to almost any job .	94
+to almost any kind of	3270
+to almost any language .	85
+to almost any length ,	85
+to almost any length .	93
+to almost any length to	668
+to almost any lengths in	40
+to almost any lengths on	101
+to almost any lengths to	759
+to almost any level .	90
+to almost any level of	1154
+to almost any lie and	53
+to almost any lifestyle or	42
+to almost any local or	55
+to almost any location ,	87
+to almost any location .	178
+to almost any location and	41
+to almost any location in	450
+to almost any location including	290
+to almost any location on	180
+to almost any location within	53
+to almost any major city	57
+to almost any marketing statement	126
+to almost any material ,	345
+to almost any material .	77
+to almost any mathematical formula	40
+to almost any meal ,	42
+to almost any meal .	342
+to almost any means to	46
+to almost any meat or	353
+to almost any media ,	164
+to almost any menu or	50
+to almost any metal surface	88
+to almost any mission worldwide	89
+to almost any mobile in	140
+to almost any mobile phone	83
+to almost any mobile printer	46
+to almost any musical style	55
+to almost any musician who	95
+to almost any neck .	51
+to almost any need -	138
+to almost any need .	142
+to almost any need or	54
+to almost any new corporate	48
+to almost any non -	73
+to almost any notebook or	79
+to almost any number of	99
+to almost any object ,	47
+to almost any object .	116
+to almost any object with	44
+to almost any occasion ,	93
+to almost any occasion .	91
+to almost any of our	67
+to almost any of the	742
+to almost any of them	45
+to almost any of us	42
+to almost any of your	57
+to almost any one of	59
+to almost any one who	65
+to almost any open racking	48
+to almost any organ in	54
+to almost any organ or	122
+to almost any organization .	63
+to almost any other -	40
+to almost any other .	99
+to almost any other </s>	48
+to almost any other country	78
+to almost any other form	49
+to almost any other format	72
+to almost any other kind	57
+to almost any other one	89
+to almost any other part	98
+to almost any other place	43
+to almost any other type	82
+to almost any outfit .	466
+to almost any outlet ,	172
+to almost any package accross	41
+to almost any page ,	61
+to almost any page and	146
+to almost any page in	76
+to almost any part of	994
+to almost any pedestal (	42
+to almost any phone in	189
+to almost any photographic question	256
+to almost any piece of	210
+to almost any place in	179
+to almost any place on	200
+to almost any place where	47
+to almost any place you	61
+to almost any plasma display	55
+to almost any platform .	237
+to almost any point in	178
+to almost any point on	176
+to almost any popular video	955
+to almost any portable mp3	323
+to almost any portable sewing	116
+to almost any position ,	51
+to almost any position .	245
+to almost any position and	42
+to almost any position on	42
+to almost any position you	455
+to almost any problem ,	52
+to almost any problem .	1108
+to almost any product .	97
+to almost any product on	48
+to almost any programming language	57
+to almost any project .	145
+to almost any pursuit .	45
+to almost any query .	62
+to almost any question ,	83
+to almost any question .	315
+to almost any question ;	56
+to almost any question about	124
+to almost any question can	46
+to almost any question in	45
+to almost any question or	75
+to almost any question that	116
+to almost any question you	558
+to almost any rack thanks	41
+to almost any reader .	95
+to almost any recipe .	62
+to almost any requirement .	63
+to almost any rigid ,	57
+to almost any room ,	74
+to almost any room .	266
+to almost any room in	387
+to almost any room of	99
+to almost any savory dish	41
+to almost any scale figure	47
+to almost any search engine	69
+to almost any seat in	48
+to almost any section of	49
+to almost any self employed	125
+to almost any serial device	60
+to almost any set of	90
+to almost any setting .	436
+to almost any sexual position	46
+to almost any shape ,	103
+to almost any shape .	185
+to almost any shape and	94
+to almost any shape or	111
+to almost any shape to	40
+to almost any show i	44
+to almost any shower enclosure	69
+to almost any site .	75
+to almost any situation ,	237
+to almost any situation .	948
+to almost any situation and	109
+to almost any situation in	71
+to almost any situation is	149
+to almost any situation that	41
+to almost any situation to	84
+to almost any situation where	70
+to almost any situation you	51
+to almost any size ,	143
+to almost any size .	306
+to almost any size </s>	64
+to almost any size and	260
+to almost any size construction	50
+to almost any size ebusiness	2667
+to almost any size of	61
+to almost any size or	82
+to almost any size requested	161
+to almost any size without	40
+to almost any size you	69
+to almost any sized company	297
+to almost any skill level	259
+to almost any smooth surface	379
+to almost any soil type	40
+to almost any song </s>	139
+to almost any song for	1573
+to almost any song you	43
+to almost any sort of	220
+to almost any specification .	185
+to almost any specification and	144
+to almost any sponge ball	119
+to almost any stereo or	98
+to almost any strap or	143
+to almost any structure that	52
+to almost any style ,	55
+to almost any style of	264
+to almost any subject ,	46
+to almost any subject .	81
+to almost any substrate .	63
+to almost any suggestion ,	71
+to almost any surface !	67
+to almost any surface ,	666
+to almost any surface -	46
+to almost any surface .	1859
+to almost any surface </s>	126
+to almost any surface and	428
+to almost any surface in	56
+to almost any surface including	335
+to almost any surface or	109
+to almost any surface with	132
+to almost any surface without	187
+to almost any surface you	79
+to almost any system .	90
+to almost any system and	66
+to almost any system designs	64
+to almost any system you	46
+to almost any task .	58
+to almost any taste .	80
+to almost any thing .	40
+to almost any thing that	41
+to almost any time and	71
+to almost any tissue or	101
+to almost any topic ,	86
+to almost any topic .	110
+to almost any track .	68
+to almost any transom .	143
+to almost any type of	3981
+to almost any use .	41
+to almost any user .	57
+to almost any vehicle .	77
+to almost any vertical surface	76
+to almost any viewing angle	56
+to almost any viewing position	81
+to almost any voice communications	54
+to almost any wardrobe .	49
+to almost any water or	234
+to almost any web site	116
+to almost any website .	46
+to almost any wireless device	497
+to almost any word in	48
+to but not any	272
+to , but not any	188
+to but not any more	254
+to but not any	272
+to , but not any	188
+to but not any more	254
+
+=== any < to
+any , even to	251
+any even to me	42
+any , even to most	174
+any , even to the	48
+any even to me ,	42
+not to just any	254
+=== END

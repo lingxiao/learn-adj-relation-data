@@ -1,0 +1,14 @@
+=== essential > ideal
+ideal but not essential	716
+ideal , but not essential	213
+ideal but not essential )	41
+ideal but not essential .	415
+ideal but not essential </s>	80
+ideal but not essential	716
+ideal , but not essential	213
+ideal but not essential )	41
+ideal but not essential .	415
+ideal but not essential </s>	80
+
+=== essential < ideal
+=== END

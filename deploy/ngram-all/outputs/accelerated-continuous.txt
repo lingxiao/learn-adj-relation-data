@@ -1,0 +1,5 @@
+=== accelerated > continuous
+continuous if not accelerated	40
+
+=== accelerated < continuous
+=== END

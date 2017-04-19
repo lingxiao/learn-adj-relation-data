@@ -1,0 +1,12 @@
+=== but > relatively
+
+=== but < relatively
+but even a relatively	147
+but even relatively light	42
+but even the relatively	94
+but even a relatively	138
+but even relatively low	80
+but even relatively small	81
+but even the relatively	124
+but even relatively light smoking	42
+=== END

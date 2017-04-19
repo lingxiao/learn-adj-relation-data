@@ -1,0 +1,6 @@
+=== affected > only
+
+=== affected < only
+affected if not only	45
+affected if not only some	45
+=== END

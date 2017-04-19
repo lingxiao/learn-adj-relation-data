@@ -1,0 +1,8 @@
+=== committed > modified
+modified but not committed	77
+modified but not committed ,	42
+modified but not committed	77
+modified but not committed ,	42
+
+=== committed < modified
+=== END

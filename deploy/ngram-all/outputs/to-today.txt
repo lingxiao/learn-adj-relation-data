@@ -1,0 +1,19 @@
+=== to > today
+today , almost to	86
+today , almost to the	62
+today , even to	386
+today , even to the	142
+today but not to	54
+today , but not to	229
+today but not to	54
+today , but not to	229
+
+=== to < today
+to , even today	96
+to even today ' s	99
+to even today ,	80
+to even today .	198
+to , even today .	51
+to , but not today	56
+to , but not today	56
+=== END

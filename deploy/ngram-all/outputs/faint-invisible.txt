@@ -1,0 +1,5 @@
+=== faint > invisible
+
+=== faint < invisible
+faint , almost invisible	40
+=== END

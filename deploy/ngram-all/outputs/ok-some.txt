@@ -1,0 +1,6 @@
+=== ok > some
+
+=== ok < some
+ok , but not some	61
+ok , but not some	61
+=== END

@@ -1,0 +1,18 @@
+=== brief > that
+that even a brief	930
+that even brief advice	71
+that even brief counseling	48
+that even brief counselling	43
+that even brief exposure	160
+that even brief periods	86
+that even the brief	60
+that even a brief exposure	115
+that even a brief interruption	203
+that even a brief period	73
+that even brief advice from	57
+that even brief counselling by	41
+that even brief exposure to	150
+that even brief periods of	84
+
+=== brief < that
+=== END

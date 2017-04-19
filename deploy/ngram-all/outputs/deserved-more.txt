@@ -1,0 +1,8 @@
+=== deserved > more
+
+=== deserved < more
+deserved even more .	40
+deserved even more :	45
+deserved even more than	55
+deserved even more : their	45
+=== END

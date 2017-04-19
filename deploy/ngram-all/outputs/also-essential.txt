@@ -1,0 +1,10 @@
+=== also > essential
+not only essential but also	213
+not only essential but also	213
+
+=== also < essential
+also but not essential	91
+also but not essential </s>	69
+also but not essential	91
+also but not essential </s>	69
+=== END

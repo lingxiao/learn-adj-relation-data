@@ -1,0 +1,14 @@
+=== detailed > with
+with fully detailed	849
+with fully detailed and	40
+with fully detailed engine	59
+with fully detailed interior	47
+with fully detailed interiors	40
+with fully detailed weather	81
+with fully detailed weather and	81
+
+=== detailed < with
+with unbelievably detailed	60
+with unbelievably detailed graphics	60
+with unbelievably detailed graphics and	57
+=== END

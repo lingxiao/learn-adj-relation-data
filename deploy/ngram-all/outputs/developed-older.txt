@@ -1,0 +1,6 @@
+=== developed > older
+older and fully developed	238
+older and fully developed .	227
+
+=== developed < older
+=== END

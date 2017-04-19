@@ -1,0 +1,7 @@
+=== her > yet
+
+=== her < yet
+her , but not yet	64
+her but not yet	73
+her , but not yet	64
+=== END

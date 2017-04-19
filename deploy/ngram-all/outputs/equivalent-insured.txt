@@ -1,0 +1,6 @@
+=== equivalent > insured
+
+=== equivalent < insured
+equivalent , fully insured	125
+equivalent , fully insured and	79
+=== END

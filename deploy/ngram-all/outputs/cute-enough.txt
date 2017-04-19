@@ -1,0 +1,6 @@
+=== cute > enough
+
+=== cute < enough
+cute , but not enough	40
+cute , but not enough	40
+=== END

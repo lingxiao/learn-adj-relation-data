@@ -1,0 +1,8 @@
+=== greatest > to
+to even the greatest	297
+to even the greatest of	115
+
+=== greatest < to
+greatest even to the	363
+greatest even to the least	349
+=== END

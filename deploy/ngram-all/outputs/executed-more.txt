@@ -1,0 +1,5 @@
+=== executed > more
+more fully executed	41
+
+=== executed < more
+=== END

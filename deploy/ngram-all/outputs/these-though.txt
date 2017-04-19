@@ -1,0 +1,26 @@
+=== these > though
+though , even these	175
+though even these are	217
+though even these can	41
+though even these seem	57
+though even these were	55
+though even these will	99
+though even these seem like	53
+though even these will admit	89
+
+=== these < though
+these , even though	1452
+these even though i	204
+these even though it	55
+these even though the	149
+these even though they	280
+these even though we	46
+these , even though i	177
+these , even though it	115
+these , even though the	125
+these , even though they	350
+these , even though we	190
+these , even though you	56
+these even though the timeframe	41
+these even though they are	117
+=== END

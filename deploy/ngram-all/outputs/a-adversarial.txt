@@ -1,0 +1,5 @@
+=== a > adversarial
+
+=== a < adversarial
+a fully adversarial	58
+=== END

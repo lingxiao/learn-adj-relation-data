@@ -1,0 +1,8 @@
+=== greatest > only
+
+=== greatest < only
+greatest , and almost only	42
+greatest and almost the only	62
+greatest , but not only	51
+greatest , but not only	51
+=== END

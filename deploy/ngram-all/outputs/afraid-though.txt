@@ -1,0 +1,8 @@
+=== afraid > though
+
+=== afraid < though
+afraid , even though	380
+afraid even though i	57
+afraid , even though i	55
+afraid , even though they	42
+=== END

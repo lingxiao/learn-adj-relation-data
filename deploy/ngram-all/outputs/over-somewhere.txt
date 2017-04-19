@@ -1,0 +1,6 @@
+=== over > somewhere
+somewhere , but not over	46
+somewhere , but not over	46
+
+=== over < somewhere
+=== END

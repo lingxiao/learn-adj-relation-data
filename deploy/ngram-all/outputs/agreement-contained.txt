@@ -1,0 +1,6 @@
+=== agreement > contained
+
+=== agreement < contained
+agreement if not contained	69
+agreement if not contained in	69
+=== END

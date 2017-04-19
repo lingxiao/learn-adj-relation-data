@@ -1,0 +1,55 @@
+=== helpful > necessary
+necessary or even helpful	322
+necessary , or even helpful	94
+necessary or even helpful .	75
+necessary or even helpful in	55
+necessary or even helpful to	92
+
+=== helpful < necessary
+helpful , although not necessary	112
+helpful , though not necessary	144
+helpful though not necessary .	48
+helpful , even necessary ,	129
+helpful , or even necessary	63
+helpful and even necessary for	69
+helpful and even necessary to	58
+helpful or even necessary .	40
+helpful or even necessary to	62
+not only helpful but necessary	100
+helpful , if not necessary	174
+helpful but not necessary	67
+helpful , but not necessary	178
+helpful , but not necessary	4972
+helpful but not necessary .	508
+helpful but not necessary (	60
+helpful but not necessary )	213
+helpful but not necessary ,	267
+helpful but not necessary -	79
+helpful but not necessary .	4835
+helpful but not necessary ;	88
+helpful but not necessary </s>	282
+helpful but not necessary commission	44
+helpful but not necessary as	56
+helpful but not necessary for	213
+helpful but not necessary if	68
+helpful but not necessary to	318
+helpful but not necessary	67
+helpful but not necessary	514
+helpful but not necessary	6877
+helpful , but not necessary	178
+helpful , but not necessary	4972
+helpful but not necessary .	508
+helpful but not necessary (	60
+helpful but not necessary )	213
+helpful but not necessary ,	267
+helpful but not necessary -	79
+helpful but not necessary .	4835
+helpful but not necessary ;	88
+helpful but not necessary </s>	282
+helpful but not necessary commission	44
+helpful but not necessary as	56
+helpful but not necessary for	213
+helpful but not necessary if	68
+helpful but not necessary to	318
+not only helpful but necessary	100
+=== END

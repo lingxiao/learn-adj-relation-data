@@ -1,0 +1,14 @@
+=== a > myself
+myself almost a corpse	47
+myself almost a year	103
+myself almost a corpse .	47
+myself almost a year ago	95
+myself even a little	103
+myself even a little bit	55
+not only myself but a	52
+myself but not a	62
+myself , but not a	118
+not only myself but a	52
+
+=== a < myself
+=== END

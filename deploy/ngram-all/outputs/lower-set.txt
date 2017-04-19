@@ -1,0 +1,7 @@
+=== lower > set
+set even lower .	95
+set even lower limits	43
+set even lower than	44
+
+=== lower < set
+=== END

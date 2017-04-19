@@ -1,0 +1,7 @@
+=== close > middle
+
+=== close < middle
+middle or very close	61
+middle or very close to	61
+the middle or very close	61
+=== END

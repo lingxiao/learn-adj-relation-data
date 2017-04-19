@@ -1,0 +1,8 @@
+=== only > way
+way , but not only	71
+way but not the only	69
+way , but not only	71
+way but not the only	69
+
+=== only < way
+=== END

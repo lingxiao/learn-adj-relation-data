@@ -1,0 +1,15 @@
+=== identified > yet
+yet fully identified	361
+yet fully identified ,	56
+yet fully identified .	79
+yet fully identified or	58
+
+=== identified < yet
+identified , although not yet	122
+identified but not yet	555
+identified , but not yet	168
+identified but not yet </s>	50
+identified but not yet	555
+identified , but not yet	168
+identified but not yet </s>	50
+=== END

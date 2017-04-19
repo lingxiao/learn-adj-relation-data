@@ -1,0 +1,5 @@
+=== glowing > more
+
+=== glowing < more
+glowing even more brightly	45
+=== END

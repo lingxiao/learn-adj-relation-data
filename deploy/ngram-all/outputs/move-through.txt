@@ -1,0 +1,5 @@
+=== move > through
+
+=== move < through
+move fully through	40
+=== END

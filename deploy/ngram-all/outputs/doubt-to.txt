@@ -1,0 +1,8 @@
+=== doubt > to
+to even doubt the	50
+
+=== doubt < to
+doubt , even to	80
+doubt , but not to	92
+doubt , but not to	92
+=== END

@@ -1,0 +1,10 @@
+=== excessive > some
+some but not excessive	85
+some , but not excessive	62
+some but not excessive delay	41
+some but not excessive	85
+some , but not excessive	62
+some but not excessive delay	41
+
+=== excessive < some
+=== END

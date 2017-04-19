@@ -1,0 +1,11 @@
+=== close > of
+of even close allies	106
+of even close to	91
+of even close allies ,	98
+of even close to this	43
+
+=== close < of
+of or very close	62
+of , or very close	110
+of or very close to	62
+=== END

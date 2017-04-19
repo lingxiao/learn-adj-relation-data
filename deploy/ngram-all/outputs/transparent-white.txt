@@ -1,0 +1,5 @@
+=== transparent > white
+white , almost transparent	119
+
+=== transparent < white
+=== END

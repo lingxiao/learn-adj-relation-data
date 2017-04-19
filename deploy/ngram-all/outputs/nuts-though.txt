@@ -1,0 +1,6 @@
+=== nuts > though
+
+=== nuts < though
+nuts , even though	210
+nuts , even though i	41
+=== END

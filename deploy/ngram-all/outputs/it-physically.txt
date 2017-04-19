@@ -1,0 +1,7 @@
+=== it > physically
+
+=== it < physically
+it almost physically impossible	55
+it almost physically impossible to	44
+it even physically possible	63
+=== END

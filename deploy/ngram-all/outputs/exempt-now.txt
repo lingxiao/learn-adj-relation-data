@@ -1,0 +1,5 @@
+=== exempt > now
+now fully exempt	51
+
+=== exempt < now
+=== END

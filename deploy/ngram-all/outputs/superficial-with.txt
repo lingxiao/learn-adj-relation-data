@@ -1,0 +1,6 @@
+=== superficial > with
+with even a superficial	122
+with even a superficial knowledge	55
+
+=== superficial < with
+=== END

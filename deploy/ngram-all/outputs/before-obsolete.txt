@@ -1,0 +1,12 @@
+=== before > obsolete
+obsolete almost before it	62
+obsolete almost before they	41
+obsolete even before it	181
+obsolete even before its	176
+obsolete even before the	120
+obsolete even before they	191
+obsolete even before its completions	159
+obsolete even before they are	52
+
+=== before < obsolete
+=== END

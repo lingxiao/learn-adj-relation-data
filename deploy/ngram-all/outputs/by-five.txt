@@ -1,0 +1,30 @@
+=== by > five
+
+=== by < five
+by almost five -	52
+by almost five </s>	41
+by almost five days	42
+by almost five feet	41
+by almost five lengths	63
+by almost five million	126
+by almost five minutes	96
+by almost five months	55
+by almost five per	209
+by almost five percent	305
+by almost five percentage	153
+by almost five points	66
+by almost five seconds	168
+by almost five times	361
+by almost five to	105
+by almost five years	151
+by almost five lengths .	54
+by almost five per cent	204
+by almost five percent .	88
+by almost five percent in	81
+by almost five percentage points	141
+by almost five seconds .	100
+by almost five times ,	96
+by almost five times .	92
+by almost five to one	96
+by almost five years .	44
+=== END

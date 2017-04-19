@@ -1,0 +1,15 @@
+=== acceptable > though
+
+=== acceptable < though
+acceptable , even though	1221
+acceptable even though it	234
+acceptable even though the	197
+acceptable even though they	126
+acceptable , even though both	92
+acceptable , even though it	270
+acceptable , even though the	219
+acceptable , even though there	46
+acceptable , even though they	77
+acceptable , even though we	66
+acceptable even though it is	57
+=== END

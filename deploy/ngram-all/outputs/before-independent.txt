@@ -1,0 +1,6 @@
+=== before > independent
+independent , but not before	45
+independent , but not before	45
+
+=== before < independent
+=== END

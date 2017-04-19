@@ -1,0 +1,5 @@
+=== anything > south
+
+=== anything < south
+anything , even south	45
+=== END

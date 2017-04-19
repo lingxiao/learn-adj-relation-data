@@ -1,0 +1,15 @@
+=== good > okay
+okay , even good	91
+okay or even good	40
+okay , even good ,	47
+okay but not good	211
+okay , but not good	449
+okay , but not good	172
+okay but not good enough	165
+okay but not good	211
+okay , but not good	449
+okay , but not good	172
+okay but not good enough	165
+
+=== good < okay
+=== END

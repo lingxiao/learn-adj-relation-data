@@ -1,0 +1,7 @@
+=== by > encouraged
+encouraged , even by	51
+
+=== by < encouraged
+by , even encouraged	43
+by , even encouraged by	43
+=== END

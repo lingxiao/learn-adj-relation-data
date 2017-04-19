@@ -1,0 +1,5 @@
+=== as > obvious
+obvious , even as	77
+
+=== as < obvious
+=== END

@@ -1,0 +1,11 @@
+=== accuracy > automatic
+
+=== accuracy < automatic
+accuracy fully automatic	150
+accuracy fully automatic	64
+accuracy , fully automatic	41
+accuracy fully automatic unit	114
+accuracy fully automatic ac	51
+accuracy fully automatic unit compact	113
+accuracy fully automatic ac voltage	51
+=== END

@@ -1,0 +1,6 @@
+=== mighty > something
+something even the mighty	181
+something even the mighty queen	158
+
+=== mighty < something
+=== END

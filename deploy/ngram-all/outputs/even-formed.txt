@@ -1,0 +1,9 @@
+=== even > formed
+
+=== even < formed
+even fully formed	305
+even fully formed .	47
+even fully formed while	59
+even fully formed yet	44
+even fully formed while the	59
+=== END

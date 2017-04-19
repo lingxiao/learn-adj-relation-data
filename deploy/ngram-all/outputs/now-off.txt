@@ -1,0 +1,10 @@
+=== now > off
+off , even now	58
+off even now ,	44
+off even now .	78
+off even now if	44
+off even now if we	44
+
+=== now < off
+now almost off the	44
+=== END

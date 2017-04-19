@@ -1,0 +1,14 @@
+=== a > home
+home almost a year ago	98
+home almost a year before	128
+home , even a cmhc	68
+home even a penny of	54
+home or even a cubicle	60
+home or even a new	47
+home but not a	154
+home , but not a	392
+
+=== a < home
+a fully home	95
+a fully home -	52
+=== END

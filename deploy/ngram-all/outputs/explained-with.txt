@@ -1,0 +1,22 @@
+=== explained > with
+with fully explained	47
+with fully explained	1850
+with fully explained examples	44
+with fully explained answers	234
+with fully explained solutions	1143
+with fully explained step	307
+with fully explained symbols	85
+with fully explained examples ,	44
+with fully explained answers .	49
+with fully explained solutions ,	364
+with fully explained solutions </s>	469
+with fully explained solutions os	96
+with fully explained step -	78
+with fully explained step by	229
+with fully explained symbols .	85
+
+=== explained < with
+explained , even with	53
+explained even with bad	53
+explained fully with	74
+=== END

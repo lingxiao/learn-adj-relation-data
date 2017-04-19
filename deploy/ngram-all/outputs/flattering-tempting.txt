@@ -1,0 +1,6 @@
+=== flattering > tempting
+tempting and even flattering	58
+tempting and even flattering ,	58
+
+=== flattering < tempting
+=== END

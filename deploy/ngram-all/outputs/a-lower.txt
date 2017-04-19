@@ -1,0 +1,8 @@
+=== a > lower
+lower , but not a	65
+
+=== a < lower
+a even lower latency	57
+a even lower price	59
+a even lower latency than	57
+=== END

@@ -1,0 +1,328 @@
+=== more > now
+now even more pictures	57
+now even more tax	59
+now even more packing	73
+now , even more	189
+now , even more	1200
+now even more affordable	80
+now even more cds	82
+now even more elite	87
+now even more minis	102
+now even more self	644
+now even more very	60
+now even more ?	390
+now even more pg	40
+now even more depressing	42
+now even more evil	435
+now even more exciting	91
+now even more of	102
+now even more people	139
+now even more powerful	52
+now even more realistic	89
+now even more robust	40
+now even more so	111
+now even more than	94
+now even more things	46
+now even more tightly	57
+now even more user	44
+now , even more	1855
+now and even more	648
+now even more !	91
+now even more ,	149
+now even more .	400
+now even more ...	50
+now even more </s>	371
+now even more <unk>	96
+now even more a	62
+now even more absorbing	71
+now even more accessible	276
+now even more accurate	170
+now even more adopted	48
+now even more adorable	41
+now even more advanced	49
+now even more affordable	410
+now even more afraid	56
+now even more amazed	52
+now even more amusing	101
+now even more apparent	104
+now even more appealing	49
+now even more ashamed	105
+now even more attractive	312
+now even more aware	107
+now even more beautiful	131
+now even more because	42
+now even more broken	50
+now even more certain	62
+now even more clear	64
+now even more clearly	80
+now even more closely	58
+now even more comfortable	834
+now even more committed	77
+now even more compact	66
+now even more compelling	94
+now even more competitive	45
+now even more complete	148
+now even more complex	60
+now even more complicated	50
+now even more comprehensive	136
+now even more concerned	108
+now even more confident	109
+now even more confused	529
+now even more convenient	198
+now even more convinced	433
+now even more creative	48
+now even more critical	293
+now even more crucial	87
+now even more curious	83
+now even more dangerous	132
+now even more delicious	43
+now even more dependent	58
+now even more desirable	69
+now even more determined	360
+now even more difficult	275
+now even more durable	122
+now even more eager	63
+now even more effective	226
+now even more efficient	174
+now even more essential	121
+now even more evident	69
+now even more excited	200
+now even more exciting	77
+now even more expensive	64
+now even more famous	140
+now even more firmly	109
+now even more flexible	99
+now even more focused	50
+now even more fun	177
+now even more imperative	73
+now even more important	1395
+now even more impressed	135
+now even more impressive	79
+now even more in	212
+now even more intense	45
+now even more interactive	139
+now even more interested	100
+now even more interesting	76
+now even more inviting	95
+now even more jealous	126
+now even more likely	190
+now even more luxurious	53
+now even more motivated	82
+now even more necessary	60
+now even more obvious	63
+now even more obviously	45
+now even more of	408
+now even more opportunities	47
+now even more options	46
+now even more organized	123
+now even more out	47
+now even more painful	62
+now even more paranoid	222
+now even more passionate	44
+now even more people	263
+now even more perfect	95
+now even more popular	197
+now even more portable	84
+now even more powerful	1538
+now even more present	117
+now even more pressing	87
+now even more pronounced	76
+now even more reason	83
+now even more reasons	75
+now even more relevant	182
+now even more rewarding	40
+now even more robust	68
+now even more secure	275
+now even more serious	49
+now even more significant	53
+now even more so	1521
+now even more strongly	132
+now even more sure	42
+now even more than	833
+now even more the	60
+now even more tightly	43
+now even more to	109
+now even more true	64
+now even more uncertain	42
+now even more unequivocally	51
+now even more urgent	125
+now even more useful	126
+now even more useless	54
+now even more user	190
+now even more valuable	117
+now even more versatile	242
+now even more vital	91
+now even more vulnerable	62
+now even more ways	61
+now even more with	55
+now even more worried	50
+now or even more	45
+now even more pictures tunes	56
+now even more tax efficient	59
+now even more packing peanuts	73
+now , even more ultimate	173
+now , even more powerful	47
+now , even more so	61
+now , even more than	359
+now even more cds for	82
+now even more elite )	87
+now even more minis :	51
+now even more self -	644
+now even more very ot	60
+now even more ? </s>	390
+now even more pg ebooks	40
+now even more depressing than	42
+now even more evil !	435
+now even more exciting with	88
+now even more people can	43
+now even more people will	48
+now even more realistic training	84
+now even more so .	47
+now even more things to	46
+now even more tightly integrated	57
+now even more user -	43
+now , and even more	619
+now , even more ,	50
+now , even more .	40
+now , even more so	333
+now , even more than	608
+now , or even more	79
+now and even more in	90
+now and even more so	248
+now even more ! </s>	80
+now even more absorbing and	69
+now even more accessible .	54
+now even more accessible to	52
+now even more accurate .	131
+now even more adopted animals	48
+now even more affordable !	48
+now even more affordable ,	45
+now even more affordable .	53
+now even more affordable with	81
+now even more amazed at	43
+now even more amusing thanks	101
+now even more ashamed and	99
+now even more attractive :	82
+now even more aware of	68
+now even more beautiful than	62
+now even more certain that	41
+now even more comfortable !	46
+now even more comfortable (	192
+now even more comfortable ,	75
+now even more comfortable .	43
+now even more comfortable </s>	300
+now even more committed to	64
+now even more compelling evidence	40
+now even more complete than	103
+now even more comprehensive the	51
+now even more concerned about	41
+now even more confident that	53
+now even more confused .	123
+now even more confused <unk>	141
+now even more confused than	68
+now even more convenient .	50
+now even more convinced of	74
+now even more convinced that	257
+now even more creative and	47
+now even more critical to	74
+now even more crucial to	40
+now even more determined to	293
+now even more difficult to	108
+now even more difficult with	53
+now even more durable ,	40
+now even more durable without	46
+now even more eager to	61
+now even more effective four	44
+now even more effective than	74
+now even more efficient and	43
+now even more efficient with	43
+now even more excited about	72
+now even more exciting with	40
+now even more focused on	44
+now even more important ,	48
+now even more important .	127
+now even more important because	61
+now even more important for	126
+now even more important in	95
+now even more important than	177
+now even more important that	188
+now even more important to	281
+now even more important with	93
+now even more impressed ,	45
+now even more in love	60
+now even more interactive .	131
+now even more interested in	78
+now even more inviting .	50
+now even more jealous !	112
+now even more likely to	110
+now even more motivated to	58
+now even more of a	254
+now even more of an	45
+now even more organized !	118
+now even more out of	40
+now even more paranoid after	196
+now even more passionate about	42
+now even more people are	70
+now even more people can	46
+now even more people will	63
+now even more perfect with	88
+now even more popular than	129
+now even more portable !	76
+now even more powerful ,	45
+now even more powerful .	977
+now even more powerful but	48
+now even more powerful than	78
+now even more powerful with	180
+now even more present than	111
+now even more reason to	56
+now even more reasons to	61
+now even more relevant than	40
+now even more secure .	96
+now even more secure and	59
+now even more so !	48
+now even more so ,	196
+now even more so .	479
+now even more so after	41
+now even more so as	54
+now even more so because	90
+now even more so since	44
+now even more so than	65
+now even more so with	127
+now even more than i	114
+now even more than before	202
+now even more than ever	113
+now even more than in	50
+now even more than when	67
+now even more true :	45
+now even more unequivocally than	51
+now even more user -	136
+now even more user friendly	52
+now even more versatile ,	50
+now even more versatile .	82
+now even more ways to	42
+now if not more	134
+now , if not more	492
+now if not more .	50
+now even more very	60
+now even more very ot	60
+now , but not more	58
+now , but not more	58
+
+=== more < now
+more even now fight	61
+more , even now	61
+more even now ,	56
+more even now .	146
+more even now they	72
+more even now fight to	61
+more even now they dwell	69
+more fully now	477
+more fully now ,	73
+more fully now .	141
+more fully now than	59
+more fully now that	45
+more but not now	42
+more , but not now	61
+more but not now	42
+more , but not now	61
+=== END

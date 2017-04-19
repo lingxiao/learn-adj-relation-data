@@ -1,0 +1,6 @@
+=== double > multiple
+
+=== double < multiple
+double or even multiple	135
+double or even multiple standards	56
+=== END

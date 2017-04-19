@@ -1,0 +1,5 @@
+=== contaminated > outdated
+outdated , if not contaminated	74
+
+=== contaminated < outdated
+=== END

@@ -1,0 +1,5 @@
+=== sound > stupider
+
+=== sound < stupider
+sound even stupider than	40
+=== END

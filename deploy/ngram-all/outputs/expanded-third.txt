@@ -1,0 +1,5 @@
+=== expanded > third
+third fully expanded	50
+
+=== expanded < third
+=== END

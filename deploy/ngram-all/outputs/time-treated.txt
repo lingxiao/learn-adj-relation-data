@@ -1,0 +1,6 @@
+=== time > treated
+
+=== time < treated
+time if not treated	158
+time if not treated .	73
+=== END

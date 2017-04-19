@@ -1,0 +1,6 @@
+=== myself > recently
+recently even myself sent	142
+recently even myself sent some	142
+
+=== myself < recently
+=== END

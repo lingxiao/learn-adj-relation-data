@@ -1,0 +1,7 @@
+=== enough > only
+only if not enough	61
+
+=== enough < only
+enough , but not only	47
+enough , but not only	47
+=== END

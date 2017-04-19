@@ -1,0 +1,9 @@
+=== but > strong
+
+=== but < strong
+but even a strong	77
+but even a strong	51
+but even strong men	46
+but even the strong	53
+but even strong men had	42
+=== END

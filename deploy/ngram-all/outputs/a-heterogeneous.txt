@@ -1,0 +1,5 @@
+=== a > heterogeneous
+
+=== a < heterogeneous
+a fully heterogeneous	123
+=== END

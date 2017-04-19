@@ -1,0 +1,5 @@
+=== compliant > found
+found fully compliant	53
+
+=== compliant < found
+=== END

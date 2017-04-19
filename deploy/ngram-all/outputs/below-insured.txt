@@ -1,0 +1,6 @@
+=== below > insured
+
+=== below < insured
+below if not insured	40
+below if not insured or	40
+=== END

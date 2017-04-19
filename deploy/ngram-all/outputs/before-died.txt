@@ -1,0 +1,16 @@
+=== before > died
+died almost before it	42
+died , even before	51
+died even before eleanor	52
+died even before he	48
+died even before it	54
+died even before the	167
+died even before they	73
+died even before eleanor ,	52
+died but not before	76
+died , but not before	535
+died but not before	76
+died , but not before	535
+
+=== before < died
+=== END

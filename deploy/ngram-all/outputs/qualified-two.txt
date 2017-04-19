@@ -1,0 +1,8 @@
+=== qualified > two
+two fully qualified	53
+two fully qualified	686
+two fully qualified medics	71
+two fully qualified medics on	70
+
+=== qualified < two
+=== END

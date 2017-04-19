@@ -1,0 +1,9 @@
+=== all > generally
+generally , almost all	215
+generally , almost all	175
+generally , almost all	70
+generally , almost all ingres	215
+generally , if not all	54
+
+=== all < generally
+=== END

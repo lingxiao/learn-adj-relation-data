@@ -1,0 +1,8 @@
+=== precisely > to
+to almost precisely double	56
+to almost precisely double :	54
+to , but not precisely	124
+to , but not precisely	124
+
+=== precisely < to
+=== END

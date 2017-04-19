@@ -1,0 +1,6 @@
+=== hateful > objectionable
+objectionable or even hateful	173
+objectionable or even hateful or	170
+
+=== hateful < objectionable
+=== END

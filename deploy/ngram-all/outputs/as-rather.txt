@@ -1,0 +1,6 @@
+=== as > rather
+rather , even as	79
+rather , even as impure	67
+
+=== as < rather
+=== END

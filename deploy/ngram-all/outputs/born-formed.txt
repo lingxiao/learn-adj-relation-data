@@ -1,0 +1,8 @@
+=== born > formed
+
+=== born < formed
+born fully formed	279
+born fully formed ,	73
+born fully formed .	40
+born fully formed and	51
+=== END

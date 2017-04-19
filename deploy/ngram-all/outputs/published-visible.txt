@@ -1,0 +1,10 @@
+=== published > visible
+visible but not published	200
+visible but not published	43
+visible but not published waiting	134
+visible but not published	200
+visible but not published	43
+visible but not published waiting	134
+
+=== published < visible
+=== END

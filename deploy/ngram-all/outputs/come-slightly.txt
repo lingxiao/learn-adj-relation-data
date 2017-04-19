@@ -1,0 +1,8 @@
+=== come > slightly
+slightly or even come	75
+slightly or even come to	73
+
+=== come < slightly
+come even slightly close	48
+come even slightly close to	47
+=== END

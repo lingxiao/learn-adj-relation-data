@@ -1,0 +1,12 @@
+=== completely > interesting
+not only interesting but completely	48
+interesting if not completely	59
+interesting , if not completely	98
+interesting but not completely	54
+interesting , but not completely	61
+interesting but not completely	54
+interesting , but not completely	61
+not only interesting but completely	48
+
+=== completely < interesting
+=== END

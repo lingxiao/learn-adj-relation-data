@@ -1,0 +1,5 @@
+=== dedicated > own
+own fully dedicated	44
+
+=== dedicated < own
+=== END

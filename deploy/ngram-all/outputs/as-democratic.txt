@@ -1,0 +1,6 @@
+=== as > democratic
+
+=== as < democratic
+as fully democratic	207
+as fully democratic .	92
+=== END

@@ -1,0 +1,22 @@
+=== simple > so
+so even a simple	67
+so even a simple	128
+so even simple devices	40
+so even the simple	41
+so even simple devices can	40
+
+=== simple < so
+so unbelievably simple	204
+so unbelievably simple to	60
+so unbelievably simple to do	48
+simple but not so	256
+simple , but not so	295
+simple but not so clear	61
+simple but not so easy	52
+simple but not so simple	54
+simple but not so	256
+simple , but not so	295
+simple but not so clear	61
+simple but not so easy	52
+simple but not so simple	54
+=== END

@@ -1,0 +1,6 @@
+=== awake > me
+me fully awake	248
+me fully awake .	105
+
+=== awake < me
+=== END

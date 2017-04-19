@@ -1,0 +1,5 @@
+=== fast > more
+
+=== fast < more
+fast and even more	120
+=== END

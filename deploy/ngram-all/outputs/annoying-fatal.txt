@@ -1,0 +1,10 @@
+=== annoying > fatal
+
+=== annoying < fatal
+annoying but not fatal	119
+annoying , but not fatal	126
+annoying but not fatal .	75
+annoying but not fatal	119
+annoying , but not fatal	126
+annoying but not fatal .	75
+=== END

@@ -1,0 +1,8 @@
+=== registered > sponsored
+
+=== registered < sponsored
+registered but not sponsored	48
+registered but not sponsored ,	48
+registered but not sponsored	48
+registered but not sponsored ,	48
+=== END

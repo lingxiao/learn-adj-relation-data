@@ -1,0 +1,7 @@
+=== comprehensive > nothing
+nothing if not comprehensive	170
+nothing if not comprehensive ,	43
+nothing if not comprehensive .	69
+
+=== comprehensive < nothing
+=== END

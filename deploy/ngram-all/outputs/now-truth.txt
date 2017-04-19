@@ -1,0 +1,5 @@
+=== now > truth
+truth , even now	53
+
+=== now < truth
+=== END

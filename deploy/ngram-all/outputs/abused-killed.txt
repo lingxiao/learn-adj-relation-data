@@ -1,0 +1,10 @@
+=== abused > killed
+
+=== abused < killed
+abused , even killed	64
+abused and even killed	176
+abused or even killed	92
+abused , and even killed	99
+abused , even killed ,	47
+abused and even killed by	42
+=== END

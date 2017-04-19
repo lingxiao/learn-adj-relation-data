@@ -1,0 +1,6 @@
+=== as > gross
+gross , but not as	49
+gross , but not as	49
+
+=== as < gross
+=== END

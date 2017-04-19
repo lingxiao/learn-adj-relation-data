@@ -1,0 +1,6 @@
+=== patient > too
+
+=== patient < too
+patient , but not too	101
+patient , but not too	101
+=== END

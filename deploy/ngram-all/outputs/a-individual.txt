@@ -1,0 +1,10 @@
+=== a > individual
+individual or even a group	133
+individual or even a single	57
+individual or even a small	109
+individual but not a	76
+individual , but not a	139
+
+=== a < individual
+a fully individual	70
+=== END

@@ -1,0 +1,10 @@
+=== as > valued
+valued almost as much	70
+valued almost as much as	49
+valued even as a	44
+valued even as individual	57
+valued even as individual wealth	57
+
+=== as < valued
+as fully valued	109
+=== END

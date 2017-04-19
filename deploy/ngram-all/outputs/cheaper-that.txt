@@ -1,0 +1,6 @@
+=== cheaper > that
+that even the cheaper	65
+that even the cheaper brands	45
+
+=== cheaper < that
+=== END

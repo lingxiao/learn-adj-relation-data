@@ -1,0 +1,5 @@
+=== intricate > more
+
+=== intricate < more
+intricate , if not more	212
+=== END

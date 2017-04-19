@@ -1,0 +1,6 @@
+=== exactly > started
+started almost exactly on	54
+started almost exactly on time	53
+
+=== exactly < started
+=== END

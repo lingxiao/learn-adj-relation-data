@@ -1,0 +1,14 @@
+=== excessive > sufficient
+sufficient but not excessive	620
+sufficient , but not excessive	414
+sufficient but not excessive ,	73
+sufficient but not excessive .	51
+sufficient but not excessive to	94
+sufficient but not excessive	620
+sufficient , but not excessive	414
+sufficient but not excessive ,	73
+sufficient but not excessive .	51
+sufficient but not excessive to	94
+
+=== excessive < sufficient
+=== END

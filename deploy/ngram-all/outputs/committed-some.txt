@@ -1,0 +1,6 @@
+=== committed > some
+some even committed suicide	71
+some even committed suicide .	46
+
+=== committed < some
+=== END

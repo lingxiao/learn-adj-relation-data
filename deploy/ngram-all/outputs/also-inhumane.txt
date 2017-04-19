@@ -1,0 +1,6 @@
+=== also > inhumane
+not only inhumane but also	81
+not only inhumane but also	81
+
+=== also < inhumane
+=== END

@@ -1,0 +1,6 @@
+=== gifted > weird
+
+=== gifted < weird
+not weird just gifted	138
+not weird just gifted <	137
+=== END

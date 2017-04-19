@@ -1,0 +1,10 @@
+=== too > worried
+worried but not too	89
+worried , but not too	85
+worried but not too much	62
+worried but not too	89
+worried , but not too	85
+worried but not too much	62
+
+=== too < worried
+=== END

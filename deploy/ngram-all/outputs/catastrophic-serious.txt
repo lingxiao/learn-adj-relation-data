@@ -1,0 +1,10 @@
+=== catastrophic > serious
+serious , even catastrophic	86
+serious or even catastrophic	68
+serious , even catastrophic ,	41
+serious , if not catastrophic	46
+serious but not catastrophic	42
+serious but not catastrophic	42
+
+=== catastrophic < serious
+=== END

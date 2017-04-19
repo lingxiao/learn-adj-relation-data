@@ -1,0 +1,7 @@
+=== 10 > a
+a fully 10	127
+a fully 10 percent	88
+a fully 10 percent in	88
+
+=== 10 < a
+=== END

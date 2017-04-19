@@ -1,0 +1,6 @@
+=== cheerful > with
+
+=== cheerful < with
+cheerful even with the	41
+cheerful even with the juice	40
+=== END

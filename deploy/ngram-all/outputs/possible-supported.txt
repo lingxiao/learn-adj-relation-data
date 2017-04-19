@@ -1,0 +1,8 @@
+=== possible > supported
+
+=== possible < supported
+possible but not supported	60
+possible , but not supported	99
+possible but not supported	60
+possible , but not supported	99
+=== END

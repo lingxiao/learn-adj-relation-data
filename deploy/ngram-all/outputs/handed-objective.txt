@@ -1,0 +1,5 @@
+=== handed > objective
+objective and even handed	49
+
+=== handed < objective
+=== END

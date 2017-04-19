@@ -1,0 +1,8 @@
+=== lovely > that
+
+=== lovely < that
+not that just lovely	305
+not that just a lovely	48
+not that just lovely .	69
+not that just lovely ?	173
+=== END

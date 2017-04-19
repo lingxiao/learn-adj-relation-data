@@ -1,0 +1,6 @@
+=== everyone > favorable
+favorable , but not everyone	44
+favorable , but not everyone	44
+
+=== everyone < favorable
+=== END

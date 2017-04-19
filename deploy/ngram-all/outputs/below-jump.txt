@@ -1,0 +1,10 @@
+=== below > jump
+jump if not below	293
+jump if not below	63
+jump if not below	88
+jump if not below jnbe	83
+jump if not below or	132
+jump if not below or	58
+
+=== below < jump
+=== END

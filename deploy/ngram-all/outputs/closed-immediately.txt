@@ -1,0 +1,6 @@
+=== closed > immediately
+
+=== closed < immediately
+closed almost immediately ,	52
+closed almost immediately .	134
+=== END

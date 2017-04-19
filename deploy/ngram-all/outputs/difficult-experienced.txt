@@ -1,0 +1,5 @@
+=== difficult > experienced
+
+=== difficult < experienced
+difficult , and even experienced	70
+=== END

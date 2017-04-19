@@ -1,0 +1,16 @@
+=== before > enough
+enough , even before	225
+enough even before the	90
+enough even before you	44
+enough , even before the	50
+enough , but not before	53
+enough , but not before	53
+
+=== before < enough
+before but not enough	79
+before , but not enough	165
+before but not enough to	46
+before but not enough	79
+before , but not enough	165
+before but not enough to	46
+=== END

@@ -1,0 +1,6 @@
+=== fit > really
+really almost fit in	87
+really almost fit in your	87
+
+=== fit < really
+=== END

@@ -1,0 +1,5 @@
+=== leave > small
+
+=== leave < small
+leave even a small	58
+=== END

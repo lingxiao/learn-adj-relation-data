@@ -1,0 +1,10 @@
+=== better > faster
+faster , even better	45
+faster and even better	189
+faster and even better than	120
+faster but not better	89
+faster but not better	89
+
+=== better < faster
+better and even faster	56
+=== END

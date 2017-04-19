@@ -1,0 +1,6 @@
+=== all > try
+try almost all of	358
+try almost all of our	312
+
+=== all < try
+=== END

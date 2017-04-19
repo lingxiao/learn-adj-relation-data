@@ -1,0 +1,6 @@
+=== listed > needed
+needed but not listed	42
+needed but not listed	42
+
+=== listed < needed
+=== END

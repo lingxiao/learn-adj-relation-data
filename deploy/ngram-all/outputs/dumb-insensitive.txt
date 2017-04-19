@@ -1,0 +1,6 @@
+=== dumb > insensitive
+
+=== dumb < insensitive
+dumb , but not insensitive	56
+dumb , but not insensitive	56
+=== END

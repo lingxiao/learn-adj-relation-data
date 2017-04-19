@@ -1,0 +1,10 @@
+=== middle > school
+school and even middle	176
+school or even middle	138
+school , and even middle	41
+school , or even middle	108
+school and even middle school	166
+school or even middle school	126
+
+=== middle < school
+=== END

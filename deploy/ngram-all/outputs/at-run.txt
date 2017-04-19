@@ -1,0 +1,10 @@
+=== at > run
+run , even at	152
+run , even at the	71
+run , but not at	81
+run , but not at	81
+
+=== at < run
+at almost a run	225
+at almost a run a	118
+=== END

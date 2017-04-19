@@ -1,0 +1,8 @@
+=== defined > part
+part but not defined	53
+part but not defined in	53
+part but not defined	53
+part but not defined in	53
+
+=== defined < part
+=== END

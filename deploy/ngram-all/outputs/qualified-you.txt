@@ -1,0 +1,7 @@
+=== qualified > you
+you even qualified to	45
+you fully qualified	173
+you fully qualified to	57
+
+=== qualified < you
+=== END

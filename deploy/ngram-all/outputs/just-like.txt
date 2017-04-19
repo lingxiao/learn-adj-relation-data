@@ -1,0 +1,9 @@
+=== just > like
+like , even just	70
+like , or even just	50
+like , but not just	40
+like , but not just	40
+
+=== just < like
+just almost like a	86
+=== END

@@ -1,0 +1,6 @@
+=== neighbours > out
+
+=== neighbours < out
+neighbours , but not out	83
+neighbours , but not out	83
+=== END

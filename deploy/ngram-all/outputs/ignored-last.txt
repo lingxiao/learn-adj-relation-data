@@ -1,0 +1,6 @@
+=== ignored > last
+
+=== ignored < last
+ignored if not last	55
+ignored if not last part	48
+=== END

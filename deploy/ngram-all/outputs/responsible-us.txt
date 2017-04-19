@@ -1,0 +1,10 @@
+=== responsible > us
+us fully responsible	40
+us but not responsible	111
+us but not responsible for	111
+us but not responsible	111
+us but not responsible for	111
+the us but not responsible	111
+
+=== responsible < us
+=== END

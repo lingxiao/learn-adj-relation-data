@@ -1,0 +1,12 @@
+=== poor > to
+to even the poor	50
+
+=== poor < to
+poor , even to	242
+poor even to afford	54
+poor , even to the	142
+poor but not to	51
+poor , but not to	69
+poor but not to	51
+poor , but not to	69
+=== END

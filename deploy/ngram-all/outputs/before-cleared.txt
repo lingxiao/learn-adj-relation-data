@@ -1,0 +1,8 @@
+=== before > cleared
+cleared but not before	64
+cleared but not before thousands	54
+cleared but not before	64
+cleared but not before thousands	54
+
+=== before < cleared
+=== END

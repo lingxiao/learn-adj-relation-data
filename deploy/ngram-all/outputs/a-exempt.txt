@@ -1,0 +1,7 @@
+=== a > exempt
+
+=== a < exempt
+a fully exempt	194
+a fully exempt combined	40
+a fully exempt combined heat	40
+=== END

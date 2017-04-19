@@ -1,0 +1,11 @@
+=== gone > to
+
+=== gone < to
+gone almost to the	95
+gone , even to	59
+gone even to the	84
+gone , and even to	140
+gone fully to	48
+gone , but not to	73
+gone , but not to	73
+=== END

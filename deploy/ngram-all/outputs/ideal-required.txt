@@ -1,0 +1,10 @@
+=== ideal > required
+
+=== ideal < required
+ideal but not required	223
+ideal , but not required	192
+ideal but not required .	173
+ideal but not required	223
+ideal , but not required	192
+ideal but not required .	173
+=== END

@@ -1,0 +1,5 @@
+=== away > but
+but even away from	71
+
+=== away < but
+=== END

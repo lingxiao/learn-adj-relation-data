@@ -1,0 +1,6 @@
+=== childish > simplistic
+simplistic , even childish	47
+simplistic , even childish ,	42
+
+=== childish < simplistic
+=== END

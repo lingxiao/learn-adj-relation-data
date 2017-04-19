@@ -1,0 +1,5 @@
+=== bizarre > interesting
+interesting , if not bizarre	51
+
+=== bizarre < interesting
+=== END

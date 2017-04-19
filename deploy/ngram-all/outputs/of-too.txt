@@ -1,0 +1,14 @@
+=== of > too
+too , even of	97
+too , but not of	95
+too , but not of	95
+
+=== of < too
+of almost too much	62
+of almost too much	121
+of almost too much love	62
+of but not too	65
+of , but not too	79
+of but not too	65
+of , but not too	79
+=== END

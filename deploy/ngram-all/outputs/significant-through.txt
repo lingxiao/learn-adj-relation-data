@@ -1,0 +1,6 @@
+=== significant > through
+
+=== significant < through
+significant even through it	63
+significant even through it is	63
+=== END

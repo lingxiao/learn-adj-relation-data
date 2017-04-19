@@ -1,0 +1,6 @@
+=== consistent > reasonable
+reasonable , but not consistent	84
+reasonable , but not consistent	84
+
+=== consistent < reasonable
+=== END

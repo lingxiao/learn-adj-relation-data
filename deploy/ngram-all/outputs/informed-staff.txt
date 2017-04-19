@@ -1,0 +1,11 @@
+=== informed > staff
+staff fully informed	598
+staff fully informed .	54
+staff fully informed about	82
+staff fully informed and	44
+staff fully informed of	283
+staff fully informed of all	47
+staff fully informed of the	102
+
+=== informed < staff
+=== END

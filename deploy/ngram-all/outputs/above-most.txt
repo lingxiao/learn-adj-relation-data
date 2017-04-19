@@ -1,0 +1,9 @@
+=== above > most
+
+=== above < most
+above even the most	534
+above , even the most	101
+above even the most difficult	47
+above even the most impossible	96
+above even the most optimistic	85
+=== END

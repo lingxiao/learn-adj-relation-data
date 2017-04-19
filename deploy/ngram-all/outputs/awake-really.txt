@@ -1,0 +1,9 @@
+=== awake > really
+really fully awake	61
+
+=== awake < really
+awake but not really	63
+awake , but not really	47
+awake but not really	63
+awake , but not really	47
+=== END

@@ -1,0 +1,5 @@
+=== healthy > to
+to fully healthy	48
+
+=== healthy < to
+=== END

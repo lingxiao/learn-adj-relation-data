@@ -1,0 +1,8 @@
+=== desirable > permitted
+permitted but not desirable	97
+permitted but not desirable .	95
+permitted but not desirable	97
+permitted but not desirable .	95
+
+=== desirable < permitted
+=== END

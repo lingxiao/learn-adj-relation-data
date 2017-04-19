@@ -1,0 +1,8 @@
+=== more > shoot
+shoot even more video	343
+shoot even more without	70
+shoot even more video ,	343
+shoot even more without an	70
+
+=== more < shoot
+=== END

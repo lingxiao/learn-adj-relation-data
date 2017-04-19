@@ -1,0 +1,6 @@
+=== new > taller
+
+=== new < taller
+new , even taller	56
+new , even taller twin	45
+=== END

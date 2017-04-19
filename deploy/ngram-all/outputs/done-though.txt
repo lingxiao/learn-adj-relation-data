@@ -1,0 +1,42 @@
+=== done > though
+
+=== done < though
+done , even though	63
+done , even though	4821
+done and even though	239
+done even though </s>	40
+done even though i	352
+done even though a	60
+done even though he	100
+done even though it	484
+done even though my	41
+done even though she	41
+done even though the	818
+done even though there	138
+done even though they	292
+done even though we	165
+done even though you	153
+done , and even though	286
+done , even though i	645
+done , even though a	40
+done , even though he	190
+done , even though it	890
+done , even though multiple	66
+done , even though she	131
+done , even though some	48
+done , even though that	109
+done , even though the	575
+done , even though there	188
+done , even though they	317
+done , even though this	70
+done , even though we	290
+done , even though you	147
+done and even though i	59
+done and even though it	46
+done even though i have	40
+done even though it ' s	62
+done even though it is	91
+done even though it was	112
+done even though the </s>	43
+done even though there is	40
+=== END

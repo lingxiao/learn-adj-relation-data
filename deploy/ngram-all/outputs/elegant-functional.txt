@@ -1,0 +1,10 @@
+=== elegant > functional
+functional , but not elegant	51
+functional , but not elegant	51
+
+=== elegant < functional
+not only elegant but functional	51
+elegant and fully functional	132
+elegant and fully functional .	99
+not only elegant but functional	51
+=== END

@@ -1,0 +1,11 @@
+=== eleven > for
+for almost eleven hours	57
+for almost eleven months	89
+for almost eleven years	612
+for almost eleven years ,	119
+for almost eleven years .	253
+for almost eleven years and	49
+for almost eleven years now	78
+
+=== eleven < for
+=== END

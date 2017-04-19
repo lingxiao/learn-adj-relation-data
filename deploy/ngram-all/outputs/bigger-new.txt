@@ -1,0 +1,6 @@
+=== bigger > new
+new , even bigger	114
+new and even bigger	96
+
+=== bigger < new
+=== END

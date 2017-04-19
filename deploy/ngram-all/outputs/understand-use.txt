@@ -1,0 +1,7 @@
+=== understand > use
+use or even understand	124
+use or even understand .	56
+
+=== understand < use
+understand and even use	47
+=== END

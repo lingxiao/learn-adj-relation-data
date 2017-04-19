@@ -1,0 +1,7 @@
+=== flexible > to
+to fully flexible	110
+
+=== flexible < to
+flexible , but not to	42
+flexible , but not to	42
+=== END

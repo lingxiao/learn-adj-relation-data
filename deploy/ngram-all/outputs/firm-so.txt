@@ -1,0 +1,9 @@
+=== firm > so
+
+=== firm < so
+firm , but not so	111
+firm but not so tight	61
+firm but not so	106
+firm , but not so	111
+firm but not so tight	61
+=== END

@@ -1,0 +1,7 @@
+=== almost > doubled
+
+=== almost < doubled
+almost fully doubled	86
+almost fully doubled ,	86
+almost fully doubled , and	86
+=== END

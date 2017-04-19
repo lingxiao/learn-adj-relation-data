@@ -1,0 +1,8 @@
+=== all > average
+average , almost all	111
+average and almost all	60
+average , but not all	45
+average , but not all	45
+
+=== all < average
+=== END

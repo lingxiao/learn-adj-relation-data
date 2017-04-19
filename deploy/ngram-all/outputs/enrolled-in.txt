@@ -1,0 +1,6 @@
+=== enrolled > in
+
+=== enrolled < in
+enrolled but not in	71
+enrolled but not in	71
+=== END

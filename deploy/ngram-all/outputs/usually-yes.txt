@@ -1,0 +1,6 @@
+=== usually > yes
+yes , but not usually	42
+yes , but not usually	42
+
+=== usually < yes
+=== END

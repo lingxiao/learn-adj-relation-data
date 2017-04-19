@@ -1,0 +1,6 @@
+=== as > minute
+minute , almost as	57
+minute , even as	134
+
+=== as < minute
+=== END

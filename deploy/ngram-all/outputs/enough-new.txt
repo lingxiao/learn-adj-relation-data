@@ -1,0 +1,6 @@
+=== enough > new
+new , but not enough	76
+new , but not enough	76
+
+=== enough < new
+=== END

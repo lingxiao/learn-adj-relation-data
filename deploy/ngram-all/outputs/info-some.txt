@@ -1,0 +1,5 @@
+=== info > some
+
+=== info < some
+info and even some	82
+=== END

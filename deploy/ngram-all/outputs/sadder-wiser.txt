@@ -1,0 +1,6 @@
+=== sadder > wiser
+
+=== sadder < wiser
+sadder if not wiser	60
+sadder if not a wiser	61
+=== END

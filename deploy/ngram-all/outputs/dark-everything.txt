@@ -1,0 +1,5 @@
+=== dark > everything
+
+=== dark < everything
+dark , and almost everything	41
+=== END

@@ -1,0 +1,7 @@
+=== before > small
+small , even before	44
+
+=== before < small
+before even a small	121
+before even a small percentage	48
+=== END

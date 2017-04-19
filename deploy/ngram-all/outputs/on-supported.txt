@@ -1,0 +1,7 @@
+=== on > supported
+supported , even on	58
+supported fully on	68
+
+=== on < supported
+on fully supported	92
+=== END

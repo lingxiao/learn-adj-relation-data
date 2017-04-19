@@ -1,0 +1,6 @@
+=== everywhere > good
+good almost everywhere ,	45
+good almost everywhere .	47
+
+=== everywhere < good
+=== END

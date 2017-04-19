@@ -1,0 +1,8 @@
+=== active > alive
+alive but not active	105
+alive but not active dead	102
+alive but not active	105
+alive but not active dead	102
+
+=== active < alive
+=== END

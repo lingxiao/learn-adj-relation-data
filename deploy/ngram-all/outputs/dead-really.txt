@@ -1,0 +1,8 @@
+=== dead > really
+
+=== dead < really
+dead but not really	63
+dead , but not really	67
+dead but not really	63
+dead , but not really	67
+=== END

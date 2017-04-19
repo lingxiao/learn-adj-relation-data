@@ -1,0 +1,5 @@
+=== first > flexible
+
+=== first < flexible
+first fully flexible	60
+=== END

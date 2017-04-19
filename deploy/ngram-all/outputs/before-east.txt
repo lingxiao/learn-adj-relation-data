@@ -1,0 +1,8 @@
+=== before > east
+east , even before	49
+east even before the	46
+east , even before	254
+east , even before the	249
+
+=== before < east
+=== END

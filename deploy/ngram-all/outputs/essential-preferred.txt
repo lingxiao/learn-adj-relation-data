@@ -1,0 +1,51 @@
+=== essential > preferred
+preferred although not essential	362
+preferred , although not essential	175
+preferred although not essential .	187
+preferred although not essential as	43
+preferred though not essential	197
+preferred , though not essential	54
+preferred though not essential .	144
+preferred but not essential	45
+preferred but not essential	70
+preferred but not essential	143
+preferred but not essential	10686
+preferred , but not essential	2183
+preferred but not essential )	451
+preferred but not essential *	45
+preferred but not essential ,	684
+preferred but not essential -	130
+preferred but not essential .	6290
+preferred but not essential :	40
+preferred but not essential ;	91
+preferred but not essential </s>	545
+preferred but not essential <unk>	159
+preferred but not essential although	75
+preferred but not essential and	81
+preferred but not essential as	1100
+preferred but not essential for	193
+preferred but not essential if	72
+preferred but not essential in	67
+preferred but not essential	45
+preferred but not essential	70
+preferred but not essential	143
+preferred but not essential	10686
+preferred , but not essential	2183
+preferred but not essential )	451
+preferred but not essential *	45
+preferred but not essential ,	684
+preferred but not essential -	130
+preferred but not essential .	6290
+preferred but not essential :	40
+preferred but not essential ;	91
+preferred but not essential </s>	545
+preferred but not essential <unk>	159
+preferred but not essential although	75
+preferred but not essential and	81
+preferred but not essential as	1100
+preferred but not essential for	193
+preferred but not essential if	72
+preferred but not essential in	67
+
+=== essential < preferred
+=== END

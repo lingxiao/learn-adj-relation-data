@@ -1,0 +1,11 @@
+=== successful > to
+to fully successful	42
+to fully successful	119
+to fully successful managers	51
+
+=== successful < to
+successful , even to	77
+successful , even to the	50
+successful , but not to	64
+successful , but not to	64
+=== END

@@ -1,0 +1,7 @@
+=== for > require
+require , even for	41
+
+=== for < require
+for , but not require	71
+for , but not require	71
+=== END

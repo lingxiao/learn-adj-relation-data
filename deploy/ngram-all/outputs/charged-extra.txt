@@ -1,0 +1,7 @@
+=== charged > extra
+extra fully charged	64
+extra , fully charged	48
+extra fully charged battery	41
+
+=== charged < extra
+=== END

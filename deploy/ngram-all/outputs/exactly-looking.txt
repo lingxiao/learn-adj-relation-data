@@ -1,0 +1,9 @@
+=== exactly > looking
+looking almost exactly as	68
+looking almost exactly like	239
+looking almost exactly the	101
+looking almost exactly like the	60
+looking almost exactly the same	95
+
+=== exactly < looking
+=== END

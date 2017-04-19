@@ -1,0 +1,5 @@
+=== natural > right
+
+=== natural < right
+natural , if not right	150
+=== END

@@ -1,0 +1,7 @@
+=== larger > possibly
+possibly even larger .	77
+possibly even larger than	90
+possibly even larger than the	45
+
+=== larger < possibly
+=== END

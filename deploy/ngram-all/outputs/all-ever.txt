@@ -1,0 +1,6 @@
+=== all > ever
+ever , almost all	116
+ever , almost all of	51
+
+=== all < ever
+=== END

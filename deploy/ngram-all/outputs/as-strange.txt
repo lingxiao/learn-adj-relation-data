@@ -1,0 +1,13 @@
+=== as > strange
+strange , almost as	130
+strange , almost as if	97
+strange , even as	42
+strange but not as	45
+strange , but not as	80
+strange , but not as	106
+strange but not as	45
+strange , but not as	80
+strange , but not as	106
+
+=== as < strange
+=== END

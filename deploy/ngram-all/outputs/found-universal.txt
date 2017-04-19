@@ -1,0 +1,5 @@
+=== found > universal
+
+=== found < universal
+found almost universal acceptance	40
+=== END

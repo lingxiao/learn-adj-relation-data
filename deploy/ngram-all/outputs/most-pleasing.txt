@@ -1,0 +1,6 @@
+=== most > pleasing
+pleasing even the most	192
+pleasing even the most discriminating	72
+
+=== most < pleasing
+=== END

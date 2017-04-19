@@ -1,0 +1,5 @@
+=== only > worse
+
+=== only < worse
+only even worse .	43
+=== END

@@ -1,0 +1,6 @@
+=== only > right
+right , but not only	59
+right , but not only	59
+
+=== only < right
+=== END

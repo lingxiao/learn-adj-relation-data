@@ -1,0 +1,5 @@
+=== in > ordinary
+ordinary , even in	50
+
+=== in < ordinary
+=== END

@@ -1,0 +1,19 @@
+=== at > maintained
+maintained , even at	228
+maintained even at a	43
+maintained even at high	150
+maintained even at higher	48
+maintained even at low	62
+maintained even at the	171
+maintained even at very	41
+maintained , even at the	57
+maintained even at very	41
+maintained but not at	44
+maintained , but not at	56
+maintained but not at the	41
+maintained but not at	44
+maintained , but not at	56
+maintained but not at the	41
+
+=== at < maintained
+=== END

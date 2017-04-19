@@ -1,0 +1,7 @@
+=== moving > too
+
+=== moving < too
+moving almost too fast	77
+moving , but not too	70
+moving , but not too	70
+=== END

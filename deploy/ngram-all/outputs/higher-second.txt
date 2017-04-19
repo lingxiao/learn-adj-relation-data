@@ -1,0 +1,5 @@
+=== higher > second
+second or even higher	62
+
+=== higher < second
+=== END

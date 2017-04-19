@@ -1,0 +1,5 @@
+=== them > worthless
+
+=== them < worthless
+them almost worthless .	45
+=== END

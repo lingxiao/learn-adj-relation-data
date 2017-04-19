@@ -1,0 +1,5 @@
+=== tenuous > with
+with even a tenuous	60
+
+=== tenuous < with
+=== END

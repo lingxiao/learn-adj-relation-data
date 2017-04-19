@@ -1,0 +1,8 @@
+=== exclusive > predominant
+predominant , if not exclusive	75
+predominant but not exclusive	78
+predominant but not exclusive	78
+the predominant but not exclusive	45
+
+=== exclusive < predominant
+=== END

@@ -1,0 +1,44 @@
+=== more > set
+set even more inviting	63
+set , even more	69
+set and even more	99
+set even more .	97
+set even more ambitious	77
+set even more stringent	62
+set even more than	65
+set even more versatile	51
+set even more inviting ,	59
+set , and even more	87
+set and even more stuff	44
+set if not more	123
+set if not more are	115
+
+=== more < set
+more fully set	123
+more fully set	17116
+more fully set forth	94
+more fully set </s>	226
+more fully set forth	14925
+more fully set out	1816
+more fully set forth in	77
+more fully set forth ,	56
+more fully set forth .	90
+more fully set forth </s>	140
+more fully set forth above	147
+more fully set forth and	51
+more fully set forth below	847
+more fully set forth by	66
+more fully set forth each	88
+more fully set forth elsewhere	114
+more fully set forth herein	747
+more fully set forth hereinafter	54
+more fully set forth in	11575
+more fully set forth on	364
+more fully set forth the	171
+more fully set forth therein	41
+more fully set forth under	48
+more fully set out below	123
+more fully set out herein	54
+more fully set out in	1131
+more fully set out on	240
+=== END

@@ -1,0 +1,16 @@
+=== paid > reported
+reported but not paid	385
+reported but not paid ,	49
+reported but not paid ;	158
+reported but not paid </s>	50
+reported but not paid and	44
+reported but not paid	385
+reported but not paid ,	49
+reported but not paid ;	158
+reported but not paid </s>	50
+reported but not paid and	44
+
+=== paid < reported
+paid but not reported	44
+paid but not reported	44
+=== END

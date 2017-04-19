@@ -1,0 +1,9 @@
+=== term > with
+
+=== term < with
+term , even with	279
+term even with the	44
+term , even with the	88
+term but not with	47
+term but not with	47
+=== END

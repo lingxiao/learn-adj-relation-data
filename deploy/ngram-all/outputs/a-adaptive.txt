@@ -1,0 +1,10 @@
+=== a > adaptive
+
+=== a < adaptive
+a fully adaptive	151
+a fully adaptive	135
+a fully adaptive	800
+a fully adaptive fault	50
+a fully adaptive </s>	44
+a fully adaptive fault -	49
+=== END

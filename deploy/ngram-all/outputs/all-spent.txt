@@ -1,0 +1,54 @@
+=== all > spent
+spent almost all four	44
+spent almost all of	47
+spent almost all day	659
+spent almost all her	288
+spent almost all his	1007
+spent almost all its	53
+spent almost all morning	72
+spent almost all my	931
+spent almost all night	65
+spent almost all of	4893
+spent almost all our	170
+spent almost all that	62
+spent almost all the	411
+spent almost all their	382
+spent almost all your	43
+spent almost all four years	44
+spent almost all day at	49
+spent almost all day in	48
+spent almost all day on	60
+spent almost all day yesterday	65
+spent almost all her life	104
+spent almost all her time	93
+spent almost all his adult	56
+spent almost all his career	67
+spent almost all his life	285
+spent almost all his time	267
+spent almost all his working	47
+spent almost all my free	82
+spent almost all my life	94
+spent almost all my money	57
+spent almost all my paycheck	100
+spent almost all my time	307
+spent almost all of saturday	46
+spent almost all of her	479
+spent almost all of his	1118
+spent almost all of it	252
+spent almost all of its	169
+spent almost all of last	128
+spent almost all of my	848
+spent almost all of our	238
+spent almost all of that	62
+spent almost all of the	608
+spent almost all of their	264
+spent almost all of today	64
+spent almost all of yesterday	82
+spent almost all our time	106
+spent almost all that time	46
+spent almost all the money	107
+spent almost all the time	136
+spent almost all their time	202
+
+=== all < spent
+=== END

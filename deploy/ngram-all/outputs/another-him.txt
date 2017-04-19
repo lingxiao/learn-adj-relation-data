@@ -1,0 +1,6 @@
+=== another > him
+him , but not another	44
+him , but not another	44
+
+=== another < him
+=== END

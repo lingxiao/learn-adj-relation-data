@@ -1,0 +1,13 @@
+=== away > with
+
+=== away < with
+away , even with	1197
+away and even with	57
+away even with a	96
+away even with the	273
+away , and even with	64
+away , even with a	94
+away , even with the	445
+away , but not with	75
+away , but not with	75
+=== END

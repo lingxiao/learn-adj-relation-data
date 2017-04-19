@@ -1,0 +1,14 @@
+=== faster > get
+get even faster !	41
+get even faster ,	84
+get even faster .	357
+get even faster and	56
+get even faster as	59
+get even faster results	54
+get even faster than	43
+get even faster with	121
+get even faster ! </s>	40
+get even faster with heavy	78
+
+=== faster < get
+=== END

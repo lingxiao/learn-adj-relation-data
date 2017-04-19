@@ -1,0 +1,8 @@
+=== at > term
+term , even at	104
+term , even at the	57
+term , but not at	57
+term , but not at	57
+
+=== at < term
+=== END

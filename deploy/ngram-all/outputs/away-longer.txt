@@ -1,0 +1,5 @@
+=== away > longer
+
+=== away < longer
+away , if not longer	40
+=== END

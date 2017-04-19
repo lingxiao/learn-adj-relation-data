@@ -1,0 +1,12 @@
+=== innocent > unaware
+
+=== innocent < unaware
+innocent but not unaware	100
+innocent but not unaware	137
+innocent but not unaware :	72
+innocent but not unaware </s>	103
+innocent but not unaware	100
+innocent but not unaware	137
+innocent but not unaware :	72
+innocent but not unaware </s>	103
+=== END

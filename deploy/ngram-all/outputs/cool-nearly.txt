@@ -1,0 +1,10 @@
+=== cool > nearly
+
+=== cool < nearly
+cool but not nearly	90
+cool , but not nearly	199
+cool but not nearly so	57
+cool but not nearly	90
+cool , but not nearly	199
+cool but not nearly so	57
+=== END

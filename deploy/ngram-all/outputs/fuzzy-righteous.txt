@@ -1,0 +1,6 @@
+=== fuzzy > righteous
+
+=== fuzzy < righteous
+fuzzy or even righteous	160
+fuzzy or even righteous man	159
+=== END

@@ -1,0 +1,5 @@
+=== of > selected
+
+=== of < selected
+of fully selected	47
+=== END

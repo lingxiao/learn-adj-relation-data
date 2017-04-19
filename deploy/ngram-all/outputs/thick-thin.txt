@@ -1,0 +1,6 @@
+=== thick > thin
+thick or very thin	105
+
+=== thick < thin
+thin or very thick	158
+=== END

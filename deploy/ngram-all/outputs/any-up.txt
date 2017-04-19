@@ -1,0 +1,21 @@
+=== any > up
+up almost any color	316
+up almost any <unk>	214
+up almost any book	101
+up almost any dish	54
+up almost any kind	179
+up almost any magazine	57
+up almost any newspaper	75
+up almost any other	78
+up almost any surface	55
+up almost any time	94
+up almost any type	55
+up almost any color from	316
+up almost any <unk> more	210
+up almost any kind of	179
+up almost any type of	53
+up , but not any	93
+up , but not any	93
+
+=== any < up
+=== END

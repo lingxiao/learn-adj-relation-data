@@ -1,0 +1,9 @@
+=== a > classic
+classic but not a war	57
+classic but not a	126
+a classic but not a	87
+classic , but not a	76
+classic but not a war	57
+
+=== a < classic
+=== END

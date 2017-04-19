@@ -1,0 +1,10 @@
+=== loud > very
+
+=== loud < very
+loud but not very	49
+loud , but not very	41
+loud but not very	49
+loud , but not very	41
+loud but not very	49
+loud , but not very	41
+=== END

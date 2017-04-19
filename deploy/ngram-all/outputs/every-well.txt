@@ -1,0 +1,28 @@
+=== every > well
+well , almost every	869
+well , almost every	953
+well almost every )	42
+well almost every :-)	90
+well almost every day	69
+well almost every minute	53
+well almost every night	57
+well almost every season	466
+well almost every thing	64
+well almost every time	96
+well , almost every ...	62
+well , almost every day	96
+well , almost every minute	56
+well , almost every one	56
+well , almost every time	69
+well , almost every )	101
+well , almost every day	81
+well , almost every minute	63
+well , almost every time	41
+well almost every :-) </s>	43
+well almost every season </s>	464
+well almost every thing </s>	60
+well , but not every	72
+well , but not every	72
+
+=== every < well
+=== END

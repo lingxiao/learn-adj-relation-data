@@ -1,0 +1,19 @@
+=== amazing > good
+good , if not amazing	58
+good but not amazing	82
+good but not amazing	498
+good , but not amazing	46
+good , but not amazing	504
+good but not amazing "	40
+good but not amazing ,	63
+good but not amazing .	229
+good but not amazing	82
+good but not amazing	498
+good , but not amazing	46
+good , but not amazing	504
+good but not amazing "	40
+good but not amazing ,	63
+good but not amazing .	229
+
+=== amazing < good
+=== END

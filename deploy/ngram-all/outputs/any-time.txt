@@ -1,0 +1,14 @@
+=== any > time
+time , almost any	188
+time and almost any	43
+time or even any	99
+time or even any money	55
+time but not any	130
+time , but not any	223
+time but not any more	89
+time but not any	130
+time , but not any	223
+time but not any more	89
+
+=== any < time
+=== END

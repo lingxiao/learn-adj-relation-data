@@ -1,0 +1,10 @@
+=== many > work
+work , but not many	91
+work , but not many	91
+
+=== many < work
+many even work well	642
+many even work on	73
+many even work well for	640
+many even work on a	69
+=== END

@@ -1,0 +1,28 @@
+=== back > satisfied
+
+=== back < satisfied
+back if not satisfied	1381
+back if not satisfied	66
+back if not satisfied	359
+back if not satisfied	3565
+back if not satisfied !	189
+back if not satisfied ,	92
+back if not satisfied .	312
+back if not satisfied ....	44
+back if not satisfied </s>	404
+back if not satisfied for	56
+back if not satisfied with	57
+back if not satisfied .	321
+back if not satisfied !	145
+back if not satisfied "	42
+back if not satisfied (	69
+back if not satisfied ,	264
+back if not satisfied .	1465
+back if not satisfied </s>	553
+back if not satisfied and	77
+back if not satisfied for	60
+back if not satisfied guarantee	214
+back if not satisfied provided	60
+back if not satisfied return	43
+back if not satisfied with	179
+=== END

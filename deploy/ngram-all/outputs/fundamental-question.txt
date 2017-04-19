@@ -1,0 +1,6 @@
+=== fundamental > question
+question even the fundamental	95
+question even the fundamental principles	79
+
+=== fundamental < question
+=== END

@@ -1,0 +1,6 @@
+=== born > young
+born or very young	65
+born , or very young	46
+
+=== born < young
+=== END

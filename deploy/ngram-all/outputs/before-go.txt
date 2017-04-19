@@ -1,0 +1,14 @@
+=== before > go
+go , though not before	49
+go , even before	128
+go even before the	148
+go even before you	145
+go even before the area	74
+go even before you are	93
+go but not before	80
+go , but not before	373
+go but not before	80
+go , but not before	373
+
+=== before < go
+=== END

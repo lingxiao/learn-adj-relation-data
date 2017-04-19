@@ -1,0 +1,6 @@
+=== disgusting > wrong
+wrong , but not disgusting	66
+wrong , but not disgusting	66
+
+=== disgusting < wrong
+=== END

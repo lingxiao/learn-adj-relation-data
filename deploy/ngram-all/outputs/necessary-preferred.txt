@@ -1,0 +1,39 @@
+=== necessary > preferred
+preferred , though not necessary	57
+preferred but not necessary	116
+preferred but not necessary	51
+preferred but not necessary	5528
+preferred but not necessary .	99
+preferred , but not necessary	44
+preferred , but not necessary	2691
+preferred but not necessary )	179
+preferred but not necessary ,	203
+preferred but not necessary -	72
+preferred but not necessary .	3709
+preferred but not necessary ...	42
+preferred but not necessary ;	53
+preferred but not necessary </s>	259
+preferred but not necessary <unk>	55
+preferred but not necessary self	378
+preferred but not necessary as	57
+preferred but not necessary for	60
+preferred but not necessary	116
+preferred but not necessary	51
+preferred but not necessary	5528
+preferred but not necessary .	99
+preferred , but not necessary	44
+preferred , but not necessary	2691
+preferred but not necessary )	179
+preferred but not necessary ,	203
+preferred but not necessary -	72
+preferred but not necessary .	3709
+preferred but not necessary ...	42
+preferred but not necessary ;	53
+preferred but not necessary </s>	259
+preferred but not necessary <unk>	55
+preferred but not necessary self	378
+preferred but not necessary as	57
+preferred but not necessary for	60
+
+=== necessary < preferred
+=== END

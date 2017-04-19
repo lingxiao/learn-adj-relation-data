@@ -1,0 +1,6 @@
+=== enough > shot
+shot , but not enough	42
+shot , but not enough	42
+
+=== enough < shot
+=== END

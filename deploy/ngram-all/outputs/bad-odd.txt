@@ -1,0 +1,9 @@
+=== bad > odd
+odd but not bad	46
+odd , but not bad	64
+not bad , just odd	55
+odd but not bad	46
+odd , but not bad	64
+
+=== bad < odd
+=== END

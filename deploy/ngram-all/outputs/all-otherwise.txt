@@ -1,0 +1,5 @@
+=== all > otherwise
+otherwise , almost all	95
+
+=== all < otherwise
+=== END

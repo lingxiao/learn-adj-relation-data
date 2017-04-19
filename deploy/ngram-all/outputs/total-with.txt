@@ -1,0 +1,26 @@
+=== total > with
+with almost a total	102
+with almost the total	80
+with almost total </s>	47
+with almost total absence	41
+with almost total accuracy	44
+with almost total certainty	99
+with almost total control	111
+with almost total deformity	63
+with almost total disregard	107
+with almost total freedom	68
+with almost total impunity	353
+with almost total indifference	48
+with almost total loss	49
+with almost total official	44
+with almost total silence	54
+with almost the total sacrifice	64
+with almost total deformity of	63
+with almost total disregard for	79
+with almost total impunity ,	99
+with almost total impunity .	194
+with almost total loss of	48
+with almost total official silence	44
+
+=== total < with
+=== END

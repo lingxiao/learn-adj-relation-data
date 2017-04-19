@@ -1,0 +1,8 @@
+=== connected > more
+more fully connected	257
+more fully connected to	95
+more fully connected with	45
+more fully connected to the	56
+
+=== connected < more
+=== END

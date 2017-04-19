@@ -1,0 +1,42 @@
+=== a > appointed
+
+=== a < appointed
+a fully appointed	49
+a fully appointed	66
+a fully appointed	305
+a fully appointed	3220
+a fully appointed ,	43
+a fully appointed kitchen	84
+a fully appointed luxury	42
+a fully appointed 2	41
+a fully appointed house	98
+a fully appointed and	64
+a fully appointed bath	50
+a fully appointed bathroom	114
+a fully appointed cocktail	61
+a fully appointed design	69
+a fully appointed en	50
+a fully appointed exercise	43
+a fully appointed health	154
+a fully appointed home	116
+a fully appointed kitchen	1020
+a fully appointed sailboat	58
+a fully appointed teaching	75
+a fully appointed university	41
+a fully appointed luxury bed	42
+a fully appointed 2 bedroom	41
+a fully appointed house of	49
+a fully appointed bathroom ,	44
+a fully appointed cocktail bar	61
+a fully appointed design ...	69
+a fully appointed en -	45
+a fully appointed exercise and	43
+a fully appointed health club	149
+a fully appointed home away	108
+a fully appointed kitchen ,	354
+a fully appointed kitchen .	156
+a fully appointed kitchen and	74
+a fully appointed kitchen for	52
+a fully appointed kitchen with	240
+a fully appointed teaching facility	75
+=== END

@@ -1,0 +1,11 @@
+=== negative > significantly
+
+=== negative < significantly
+negative , although not significantly	41
+negative but not significantly	117
+negative , but not significantly	69
+negative but not significantly different	80
+negative but not significantly	117
+negative , but not significantly	69
+negative but not significantly different	80
+=== END

@@ -1,0 +1,5 @@
+=== as > globalization
+globalization , even as	72
+
+=== as < globalization
+=== END

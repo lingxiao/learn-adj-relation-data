@@ -1,0 +1,21 @@
+=== complete > integrated
+
+=== complete < integrated
+complete fully integrated	76
+complete , fully integrated	44
+complete , fully integrated	1806
+complete and fully integrated	801
+complete , fully integrated ,	84
+complete , fully integrated and	66
+complete , fully integrated digital	109
+complete , fully integrated hardware	583
+complete , fully integrated infrastructure	42
+complete , fully integrated power	40
+complete , fully integrated resource	45
+complete , fully integrated set	80
+complete , fully integrated solution	111
+complete , fully integrated suite	52
+complete , fully integrated system	41
+complete and fully integrated solution	121
+complete and fully integrated solutions	46
+=== END

@@ -1,0 +1,7 @@
+=== going > religious
+
+=== going < religious
+going fully religious	50
+going fully religious ,	50
+going fully religious , seeking	50
+=== END

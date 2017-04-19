@@ -1,0 +1,5 @@
+=== blessed > in
+
+=== blessed < in
+blessed , even in	64
+=== END

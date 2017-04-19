@@ -1,0 +1,8 @@
+=== a > founded
+founded almost a century	104
+founded almost a decade	78
+founded almost a century ago	86
+founded almost a decade ago	50
+
+=== a < founded
+=== END

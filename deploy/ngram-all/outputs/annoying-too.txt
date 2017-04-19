@@ -1,0 +1,10 @@
+=== annoying > too
+
+=== annoying < too
+annoying but not too	114
+annoying , but not too	168
+annoying but not too bad	59
+annoying but not too	114
+annoying , but not too	168
+annoying but not too bad	59
+=== END

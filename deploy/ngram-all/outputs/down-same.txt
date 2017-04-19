@@ -1,0 +1,7 @@
+=== down > same
+same , even down	139
+same , even down to	137
+
+=== down < same
+down almost the same	60
+=== END

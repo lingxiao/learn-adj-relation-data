@@ -1,0 +1,8 @@
+=== mum > though
+
+=== mum < though
+mum , even though	46
+mum , even though	113
+mum even though there	73
+mum even though there is	73
+=== END

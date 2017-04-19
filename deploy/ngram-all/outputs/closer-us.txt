@@ -1,0 +1,18 @@
+=== closer > us
+us even closer ,	136
+us even closer .	456
+us even closer and	62
+us even closer as	50
+us even closer than	40
+us even closer to	1441
+us even closer together	701
+us even closer to a	93
+us even closer to our	282
+us even closer to the	423
+us even closer together ,	64
+us even closer together .	395
+us even closer together and	72
+us even closer together as	58
+
+=== closer < us
+=== END

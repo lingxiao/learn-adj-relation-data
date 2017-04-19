@@ -1,0 +1,5 @@
+=== any > conscious
+
+=== any < conscious
+any fully conscious	58
+=== END

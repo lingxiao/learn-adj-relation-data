@@ -1,0 +1,7 @@
+=== empty > only
+only if not empty	227
+only if not empty </s>	104
+only if not empty }	57
+
+=== empty < only
+=== END

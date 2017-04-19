@@ -1,0 +1,80 @@
+=== get > worse
+
+=== get < worse
+get even worse </s>	54
+get even worse !	277
+get even worse (	116
+get even worse ,	1398
+get even worse -	132
+get even worse --	49
+get even worse .	5958
+get even worse ...	220
+get even worse :	324
+get even worse ;	64
+get even worse </s>	139
+get even worse ?	261
+get even worse after	109
+get even worse and	247
+get even worse as	529
+get even worse at	68
+get even worse because	151
+get even worse before	264
+get even worse depending	65
+get even worse during	61
+get even worse for	755
+get even worse if	723
+get even worse in	613
+get even worse next	58
+get even worse now	60
+get even worse on	62
+get even worse once	60
+get even worse over	63
+get even worse than	488
+get even worse this	56
+get even worse though	40
+get even worse under	82
+get even worse unless	70
+get even worse when	1515
+get even worse with	314
+get even worse word	59
+get even worse ! </s>	268
+get even worse , "	86
+get even worse , academics	64
+get even worse , and	128
+get even worse , as	169
+get even worse , because	80
+get even worse , but	45
+get even worse , if	78
+get even worse , with	55
+get even worse . "	85
+get even worse ... </s>	68
+get even worse : </s>	41
+get even worse : drew	88
+get even worse ; </s>	64
+get even worse ? </s>	253
+get even worse as the	167
+get even worse before it	102
+get even worse depending on	65
+get even worse for the	238
+get even worse if the	192
+get even worse if we	55
+get even worse if you	97
+get even worse in the	341
+get even worse next year	41
+get even worse over the	41
+get even worse than it	100
+get even worse than that	106
+get even worse than they	70
+get even worse than this	79
+get even worse when i	59
+get even worse when a	70
+get even worse when he	64
+get even worse when it	40
+get even worse when she	79
+get even worse when the	224
+get even worse when they	48
+get even worse when we	62
+get even worse when you	268
+get even worse with the	114
+get even worse word to	59
+=== END

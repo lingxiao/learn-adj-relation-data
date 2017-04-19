@@ -1,0 +1,9 @@
+=== best > this
+this even the best	85
+this , even the best	83
+
+=== best < this
+best , but not this	105
+not this just the best	115
+best , but not this	105
+=== END

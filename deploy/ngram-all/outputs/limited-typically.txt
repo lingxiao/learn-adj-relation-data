@@ -1,0 +1,10 @@
+=== limited > typically
+typically but not limited	115
+typically , but not limited	168
+typically but not limited to	113
+typically but not limited	115
+typically , but not limited	168
+typically but not limited to	113
+
+=== limited < typically
+=== END

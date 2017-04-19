@@ -1,0 +1,7 @@
+=== non > possibly
+possibly even a non	44
+possibly even non -	222
+possibly even a non -	41
+
+=== non < possibly
+=== END

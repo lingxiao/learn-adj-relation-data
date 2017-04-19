@@ -1,0 +1,8 @@
+=== distinct > opposite
+
+=== distinct < opposite
+distinct but not opposite	47
+distinct but not opposite ,	42
+distinct but not opposite	47
+distinct but not opposite ,	42
+=== END

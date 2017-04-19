@@ -1,0 +1,5 @@
+=== manifest > yet
+yet fully manifest	54
+
+=== manifest < yet
+=== END

@@ -1,0 +1,18 @@
+=== in > perplexed
+perplexed but not in	447
+perplexed but not in	146
+perplexed , but not in	71
+perplexed but not in despair	402
+perplexed but not in despair	45
+perplexed , but not in	2316
+perplexed but not in despair	134
+perplexed but not in	447
+perplexed but not in	146
+perplexed , but not in	71
+perplexed but not in despair	402
+perplexed but not in despair	45
+perplexed , but not in	2316
+perplexed but not in despair	134
+
+=== in < perplexed
+=== END

@@ -1,0 +1,8 @@
+=== difficult > long
+long but not difficult	79
+long , but not difficult	47
+long but not difficult	79
+long , but not difficult	47
+
+=== difficult < long
+=== END

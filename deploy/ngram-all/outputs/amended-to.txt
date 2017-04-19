@@ -1,0 +1,6 @@
+=== amended > to
+
+=== amended < to
+amended , but not to	54
+amended , but not to	54
+=== END

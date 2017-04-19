@@ -1,0 +1,9 @@
+=== a > around
+around almost a decade	61
+around almost a year	41
+around even a little	80
+around but not a	184
+around , but not a	253
+
+=== a < around
+=== END

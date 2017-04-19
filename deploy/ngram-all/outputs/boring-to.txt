@@ -1,0 +1,11 @@
+=== boring > to
+
+=== boring < to
+boring , even to	132
+boring even to explain	52
+boring even to me	88
+boring even to the	40
+boring , even to me	50
+boring even to explain why	52
+boring even to me .	51
+=== END

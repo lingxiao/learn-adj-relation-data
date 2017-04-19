@@ -1,0 +1,5 @@
+=== amazing > little
+
+=== amazing < little
+amazing if not a little	41
+=== END

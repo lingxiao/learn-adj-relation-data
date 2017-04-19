@@ -1,0 +1,71 @@
+=== but > every
+
+=== but < every
+but , almost every	100
+but almost every article	184
+but almost every day	103
+but almost every entry	47
+but almost every night	73
+but almost every one	184
+but almost every other	150
+but almost every religion	74
+but almost every single	106
+but almost every time	206
+but , almost every	44
+but almost every </s>	77
+but almost every indian	40
+but almost every aspect	141
+but almost every company	41
+but almost every country	157
+but almost every day	393
+but almost every fascist	52
+but almost every game	60
+but almost every major	94
+but almost every man	57
+but almost every mode	67
+but almost every mouthful	74
+but almost every new	48
+but almost every night	94
+but almost every one	655
+but almost every other	678
+but almost every page	103
+but almost every person	75
+but almost every place	44
+but almost every point	223
+but almost every post	51
+but almost every scene	66
+but almost every section	62
+but almost every single	347
+but almost every song	223
+but almost every state	76
+but almost every time	616
+but almost every track	47
+but almost every week	68
+but almost every word	57
+but almost every year	71
+but almost every article also	178
+but almost every entry in	44
+but almost every night ,	48
+but almost every one of	119
+but almost every religion shares	67
+but almost every single issue	60
+but almost every time i	72
+but almost every aspect of	132
+but almost every country has	89
+but almost every day ,	46
+but almost every day i	58
+but almost every fascist terrorist	52
+but almost every mode is	67
+but almost every mouthful she	73
+but almost every one has	68
+but almost every one is	40
+but almost every one of	300
+but almost every point ....	72
+but almost every point is	141
+but almost every section in	54
+but almost every single one	55
+but almost every song on	89
+but almost every time ,	63
+but almost every time i	230
+but almost every time he	46
+=== END

@@ -1,0 +1,15 @@
+=== stated > though
+though fully stated	120
+though fully stated herein	62
+though fully stated in	54
+though fully stated herein .	54
+though fully stated in this	54
+
+=== stated < though
+stated , even though	380
+stated even though it	47
+stated even though the	160
+stated , even though the	60
+stated , even though they	43
+stated , even though watch	43
+=== END

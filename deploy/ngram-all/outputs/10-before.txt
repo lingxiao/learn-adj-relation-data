@@ -1,0 +1,5 @@
+=== 10 > before
+
+=== 10 < before
+10 , but not before	50
+=== END

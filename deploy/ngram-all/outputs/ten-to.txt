@@ -1,0 +1,13 @@
+=== ten > to
+to almost ten million	102
+to almost ten minutes	49
+to almost ten percent	68
+to almost ten thousand	85
+to almost ten times	153
+to almost ten years	157
+to almost ten years of	50
+to even ten years	82
+to even ten years ago	68
+
+=== ten < to
+=== END

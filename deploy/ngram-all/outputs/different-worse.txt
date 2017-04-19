@@ -1,0 +1,14 @@
+=== different > worse
+
+=== different < worse
+different , if not worse	56
+different but not worse	80
+different , but not worse	54
+different but not worse !	58
+not worse just different	52
+not worse , just different	63
+not worse , just different	695
+different but not worse	80
+different , but not worse	54
+different but not worse !	58
+=== END

@@ -1,0 +1,8 @@
+=== classy > overpriced
+
+=== classy < overpriced
+classy but not overpriced	42
+classy but not overpriced and	41
+classy but not overpriced	42
+classy but not overpriced and	41
+=== END

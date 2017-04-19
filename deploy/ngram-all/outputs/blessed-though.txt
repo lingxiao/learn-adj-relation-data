@@ -1,0 +1,5 @@
+=== blessed > though
+
+=== blessed < though
+blessed , even though	106
+=== END

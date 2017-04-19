@@ -1,0 +1,5 @@
+=== for > satisfied
+satisfied even for the	52
+
+=== for < satisfied
+=== END

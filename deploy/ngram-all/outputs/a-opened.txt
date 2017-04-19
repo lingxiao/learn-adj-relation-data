@@ -1,0 +1,13 @@
+=== a > opened
+opened almost a year	136
+opened almost a year ago	112
+opened even a crack	344
+opened even a little	48
+opened even a crack ,	335
+
+=== a < opened
+a fully opened	62
+a fully opened	980
+a fully opened position	187
+a fully opened position .	56
+=== END

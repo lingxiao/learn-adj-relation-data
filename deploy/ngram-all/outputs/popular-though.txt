@@ -1,0 +1,14 @@
+=== popular > though
+
+=== popular < though
+popular , even though	834
+popular even though it	228
+popular even though the	112
+popular even though there	42
+popular even though they	136
+popular , even though it	222
+popular , even though the	89
+popular , even though they	113
+popular even though it is	60
+popular even though they are	42
+=== END

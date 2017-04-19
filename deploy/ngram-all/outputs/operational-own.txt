@@ -1,0 +1,7 @@
+=== operational > own
+own fully operational	172
+own fully operational train	43
+own fully operational train set	43
+
+=== operational < own
+=== END

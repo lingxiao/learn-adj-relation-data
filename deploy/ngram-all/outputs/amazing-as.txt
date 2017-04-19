@@ -1,0 +1,12 @@
+=== amazing > as
+
+=== amazing < as
+amazing , almost as	84
+amazing , almost as	114
+amazing , almost as good	80
+amazing , almost as good	40
+amazing but not as	62
+amazing , but not as	109
+amazing but not as	62
+amazing , but not as	109
+=== END

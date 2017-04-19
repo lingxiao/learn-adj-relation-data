@@ -1,0 +1,6 @@
+=== as > interoperable
+
+=== as < interoperable
+as fully interoperable	87
+as fully interoperable with	51
+=== END

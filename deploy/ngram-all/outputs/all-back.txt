@@ -1,0 +1,24 @@
+=== all > back
+back , almost all	179
+back almost all by	725
+back almost all of	425
+back almost all the	464
+back and almost all	54
+back , almost all of	56
+back , almost all the	69
+back almost all by himself	725
+back almost all of it	54
+back almost all of the	199
+back almost all the way	208
+back but not all	163
+back , but not all	321
+back but not all of	46
+back but not all the	47
+back but not all	163
+back , but not all	321
+back but not all of	46
+back but not all the	47
+
+=== all < back
+all , even back	42
+=== END

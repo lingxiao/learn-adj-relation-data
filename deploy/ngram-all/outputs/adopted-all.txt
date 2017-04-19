@@ -1,0 +1,6 @@
+=== adopted > all
+
+=== adopted < all
+adopted almost all of	131
+adopted almost all of the	69
+=== END

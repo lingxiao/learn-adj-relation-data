@@ -1,0 +1,10 @@
+=== over > well
+well , almost over	56
+well , even over	159
+well even over a	119
+well , even over the	42
+well but not over	43
+well but not over	43
+
+=== over < well
+=== END

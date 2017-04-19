@@ -1,0 +1,16 @@
+=== quiet > too
+
+=== quiet < too
+quiet , almost too	133
+quiet , almost too quiet	123
+quiet but not too	211
+quiet , but not too	50
+quiet , but not too	157
+quiet but not too far	63
+quiet but not too quiet	45
+quiet but not too	211
+quiet , but not too	50
+quiet , but not too	157
+quiet but not too far	63
+quiet but not too quiet	45
+=== END

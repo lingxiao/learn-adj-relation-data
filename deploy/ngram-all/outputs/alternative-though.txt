@@ -1,0 +1,9 @@
+=== alternative > though
+
+=== alternative < though
+alternative , even though	547
+alternative even though it	75
+alternative , even though it	120
+alternative , even though the	120
+alternative , even though they	53
+=== END

@@ -1,0 +1,7 @@
+=== difficult > expensive
+difficult or very expensive	178
+difficult or very expensive .	46
+difficult or very expensive to	86
+
+=== difficult < expensive
+=== END

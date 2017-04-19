@@ -1,0 +1,9 @@
+=== available > of
+of fully available	66
+
+=== available < of
+available but not of	87
+available but not of satisfactory	68
+available but not of	87
+available but not of satisfactory	68
+=== END

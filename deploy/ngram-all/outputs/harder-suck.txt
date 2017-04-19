@@ -1,0 +1,9 @@
+=== harder > suck
+suck even harder ,	63
+suck even harder .	241
+suck even harder and	85
+suck even harder on	52
+suck even harder than	52
+
+=== harder < suck
+=== END

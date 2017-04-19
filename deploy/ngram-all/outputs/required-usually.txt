@@ -1,0 +1,6 @@
+=== required > usually
+usually , but not required	90
+usually , but not required	90
+
+=== required < usually
+=== END

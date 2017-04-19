@@ -1,0 +1,6 @@
+=== faster > really
+
+=== faster < really
+faster , but not really	57
+faster , but not really	57
+=== END

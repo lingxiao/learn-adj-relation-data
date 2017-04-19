@@ -1,0 +1,20 @@
+=== a > discrete
+
+=== a < discrete
+a fully discrete	106
+a fully discrete	305
+a fully discrete	1339
+a fully discrete model	60
+a fully discrete numerical	43
+a fully discrete </s>	56
+a fully discrete approximation	97
+a fully discrete finite	82
+a fully discrete method	60
+a fully discrete scheme	104
+a fully discrete system	45
+a fully discrete whole	67
+a fully discrete model of	56
+a fully discrete numerical scheme	42
+a fully discrete finite element	65
+a fully discrete whole life	67
+=== END

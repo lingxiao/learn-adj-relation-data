@@ -1,0 +1,11 @@
+=== for > therefore
+therefore , even for	858
+therefore , even for	95
+therefore , even for a	119
+therefore , even for individuals	71
+therefore , even for the	159
+therefore , if not for	43
+therefore , if not for	48
+
+=== for < therefore
+=== END

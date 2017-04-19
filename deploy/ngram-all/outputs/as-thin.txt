@@ -1,0 +1,11 @@
+=== as > thin
+thin , almost as	68
+thin , almost as thin	42
+thin , even as	46
+thin but not as	44
+thin , but not as	61
+thin but not as	44
+thin , but not as	61
+
+=== as < thin
+=== END

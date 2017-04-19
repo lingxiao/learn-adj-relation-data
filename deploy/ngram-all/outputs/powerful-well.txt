@@ -1,0 +1,6 @@
+=== powerful > well
+
+=== powerful < well
+powerful but not well	62
+powerful but not well	62
+=== END

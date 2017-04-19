@@ -1,0 +1,17 @@
+=== strong > that
+that even a strong	408
+that even strong ,	43
+that even strong men	116
+that even strong military	105
+that even the strong	204
+that even strong men kept	82
+that even strong military allies	105
+
+=== strong < that
+strong but not that	132
+strong , but not that	140
+strong but not that strong	104
+strong but not that	132
+strong , but not that	140
+strong but not that strong	104
+=== END

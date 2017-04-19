@@ -1,0 +1,9 @@
+=== last > more
+more fully last	76
+more fully last week	59
+more fully last week when	52
+
+=== last < more
+last , and even more	47
+last , if not more	45
+=== END

@@ -1,0 +1,10 @@
+=== necessarily > valid
+not necessarily still valid	161
+not necessarily still valid today	140
+valid but not necessarily	79
+valid , but not necessarily	82
+valid but not necessarily	79
+valid , but not necessarily	82
+
+=== necessarily < valid
+=== END

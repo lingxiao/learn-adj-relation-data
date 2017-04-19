@@ -1,0 +1,5 @@
+=== forever > you
+you almost forever .	46
+
+=== forever < you
+=== END

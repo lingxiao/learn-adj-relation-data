@@ -1,0 +1,8 @@
+=== before > own
+own , even before	165
+own even before the	46
+own , but not before	73
+own , but not before	73
+
+=== before < own
+=== END

@@ -1,0 +1,6 @@
+=== lost > too
+
+=== lost < too
+lost , but not too	47
+lost , but not too	47
+=== END

@@ -1,0 +1,10 @@
+=== some > up
+up , even some	137
+up and even some	122
+up even some of	69
+up , and even some	185
+up even some of the	46
+
+=== some < up
+some even up to	235
+=== END

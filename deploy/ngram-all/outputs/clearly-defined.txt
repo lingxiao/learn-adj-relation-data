@@ -1,0 +1,6 @@
+=== clearly > defined
+
+=== clearly < defined
+clearly and fully defined	100
+clearly and fully defined .	63
+=== END

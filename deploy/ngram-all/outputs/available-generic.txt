@@ -1,0 +1,6 @@
+=== available > generic
+
+=== available < generic
+available , but not generic	122
+available , but not generic	122
+=== END

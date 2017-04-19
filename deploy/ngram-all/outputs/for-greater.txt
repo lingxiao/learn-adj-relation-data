@@ -1,0 +1,476 @@
+=== for > greater
+greater if not for	453
+greater if not for a	52
+greater if not for the	210
+
+=== for < greater
+for even greater savings	76
+for even greater </s>	87
+for even greater accuracy	128
+for even greater comfort	156
+for even greater compactness	66
+for even greater control	330
+for even greater convenience	613
+for even greater creative	52
+for even greater cutting	73
+for even greater detail	62
+for even greater diversity	64
+for even greater durability	104
+for even greater ease	80
+for even greater efficacy	200
+for even greater efficiency	126
+for even greater extensibility	61
+for even greater flexibility	851
+for even greater freedom	45
+for even greater functionality	90
+for even greater gains	129
+for even greater impact	79
+for even greater mobility	91
+for even greater off	46
+for even greater peace	74
+for even greater performance	104
+for even greater personalization	61
+for even greater power	41
+for even greater precision	59
+for even greater production	58
+for even greater productivity	58
+for even greater protection	184
+for even greater realism	90
+for even greater reliability	354
+for even greater results	124
+for even greater safety	54
+for even greater savings	3893
+for even greater security	225
+for even greater speed	44
+for even greater strength	69
+for even greater value	303
+for even greater versatility	267
+for even greater wireless	53
+for even greater savings	54
+for even greater convenience	57
+for even a greater	198
+for even greater ,	107
+for even greater ...	146
+for even greater </s>	935
+for even greater <unk>	93
+for even greater access	139
+for even greater acclaim	57
+for even greater accomplishments	178
+for even greater accuracy	726
+for even greater achievement	97
+for even greater achievements	278
+for even greater advances	99
+for even greater age	53
+for even greater agility	68
+for even greater amounts	84
+for even greater and	111
+for even greater anti	47
+for even greater application	53
+for even greater attention	52
+for even greater authenticity	44
+for even greater bandwidth	63
+for even greater benefit	81
+for even greater benefits	141
+for even greater capacity	289
+for even greater challenge	49
+for even greater challenges	94
+for even greater change	84
+for even greater changes	64
+for even greater character	42
+for even greater choice	89
+for even greater clarity	298
+for even greater cleaning	74
+for even greater code	136
+for even greater collaboration	58
+for even greater comfort	889
+for even greater compression	157
+for even greater concern	184
+for even greater contributions	80
+for even greater control	825
+for even greater convenience	669
+for even greater cooperation	141
+for even greater coordination	64
+for even greater corporate	113
+for even greater cost	95
+for even greater coverage	372
+for even greater creative	144
+for even greater creativity	129
+for even greater customer	44
+for even greater customisation	59
+for even greater customization	74
+for even greater damage	67
+for even greater depth	97
+for even greater detail	296
+for even greater development	112
+for even greater discounts	393
+for even greater distance	62
+for even greater distances	50
+for even greater diversity	49
+for even greater drama	116
+for even greater durability	232
+for even greater ease	390
+for even greater economic	265
+for even greater economy	41
+for even greater effect	204
+for even greater effectiveness	144
+for even greater effects	64
+for even greater efficiencies	125
+for even greater efficiency	760
+for even greater efforts	141
+for even greater energy	109
+for even greater engine	54
+for even greater enjoyment	69
+for even greater excellence	48
+for even greater expansion	266
+for even greater exposure	159
+for even greater fidelity	49
+for even greater flex	340
+for even greater flexibility	1602
+for even greater freedom	125
+for even greater fuel	41
+for even greater functionality	159
+for even greater future	146
+for even greater gains	257
+for even greater garden	43
+for even greater gas	51
+for even greater global	69
+for even greater glory	63
+for even greater growth	597
+for even greater heights	158
+for even greater hotel	364
+for even greater image	50
+for even greater impact	422
+for even greater improvement	96
+for even greater improvements	140
+for even greater increases	50
+for even greater independence	43
+for even greater insight	47
+for even greater integration	143
+for even greater investment	50
+for even greater involvement	48
+for even greater journeys	69
+for even greater levels	276
+for even greater light	60
+for even greater lighting	96
+for even greater magnification	67
+for even greater market	88
+for even greater mineral	47
+for even greater mobility	69
+for even greater monitoring	105
+for even greater muscle	310
+for even greater network	98
+for even greater numbers	205
+for even greater on	40
+for even greater operational	65
+for even greater opportunities	99
+for even greater optical	663
+for even greater participation	92
+for even greater peace	133
+for even greater performance	624
+for even greater persuasive	60
+for even greater picture	96
+for even greater pleasure	49
+for even greater popularity	46
+for even greater portability	124
+for even greater position	86
+for even greater power	148
+for even greater precision	501
+for even greater productivity	263
+for even greater profit	42
+for even greater profits	319
+for even greater progress	183
+for even greater protection	454
+for even greater purposes	70
+for even greater range	40
+for even greater readability	58
+for even greater realism	147
+for even greater reduced	43
+for even greater reduction	44
+for even greater reductions	101
+for even greater relaxation	68
+for even greater reliability	363
+for even greater resilience	42
+for even greater resourcefulness	48
+for even greater response	43
+for even greater restrictions	45
+for even greater results	426
+for even greater returns	67
+for even greater rewards	86
+for even greater safety	204
+for even greater sales	61
+for even greater savings	9156
+for even greater scalability	84
+for even greater security	451
+for even greater sensitivity	92
+for even greater service	153
+for even greater simplicity	98
+for even greater softness	169
+for even greater sound	155
+for even greater space	50
+for even greater speed	220
+for even greater speeds	56
+for even greater stability	227
+for even greater storage	89
+for even greater strength	686
+for even greater success	1734
+for even greater successes	113
+for even greater support	156
+for even greater system	49
+for even greater tax	59
+for even greater thermal	79
+for even greater things	859
+for even greater time	41
+for even greater tonal	87
+for even greater trade	40
+for even greater tragedy	40
+for even greater transparency	53
+for even greater understanding	68
+for even greater usability	130
+for even greater use	123
+for even greater user	104
+for even greater value	1774
+for even greater variety	124
+for even greater velocity	45
+for even greater versatility	612
+for even greater video	80
+for even greater viewing	824
+for even greater visibility	106
+for even greater warmth	96
+for even greater wealth	45
+for even greater weight	51
+for even greater workout	118
+for even greater accuracy ,	103
+for even greater comfort ,	90
+for even greater compactness ,	66
+for even greater control ,	207
+for even greater control over	65
+for even greater convenience ,	444
+for even greater convenience and	116
+for even greater cutting capacity	70
+for even greater diversity ,	64
+for even greater durability ,	100
+for even greater ease of	44
+for even greater efficacy ,	200
+for even greater efficiency ,	110
+for even greater extensibility ,	61
+for even greater flexibility ,	573
+for even greater flexibility and	53
+for even greater flexibility in	61
+for even greater flexibility the	109
+for even greater functionality ,	75
+for even greater gains in	126
+for even greater impact ,	57
+for even greater mobility ,	69
+for even greater off -	46
+for even greater peace of	72
+for even greater performance ,	81
+for even greater precision ,	48
+for even greater production flexibility	54
+for even greater productivity ,	52
+for even greater protection ,	128
+for even greater realism 2004	68
+for even greater reliability ,	342
+for even greater results ,	78
+for even greater savings ,	3172
+for even greater savings .	296
+for even greater savings check	289
+for even greater security ,	168
+for even greater strength and	55
+for even greater value ,	102
+for even greater value for	180
+for even greater versatility ,	231
+for even greater wireless range	53
+for even greater savings with	50
+for even a greater number	42
+for even greater ... </s>	47
+for even greater ... more	76
+for even greater access to	54
+for even greater acclaim and	48
+for even greater accomplishments .	62
+for even greater accomplishments in	74
+for even greater accuracy !	329
+for even greater accuracy .	195
+for even greater accuracy and	69
+for even greater achievement .	40
+for even greater achievements .	102
+for even greater achievements in	111
+for even greater advances in	67
+for even greater age -	53
+for even greater amounts of	74
+for even greater and more	71
+for even greater anti -	47
+for even greater benefit .	45
+for even greater benefits .	69
+for even greater capacity .	86
+for even greater capacity and	156
+for even greater challenge .	40
+for even greater choice .	63
+for even greater clarity ,	60
+for even greater clarity .	53
+for even greater clarity in	131
+for even greater cleaning power	72
+for even greater code maintainability	133
+for even greater comfort !	50
+for even greater comfort .	580
+for even greater comfort and	103
+for even greater compression of	115
+for even greater concern .	63
+for even greater contributions to	50
+for even greater control .	178
+for even greater control and	84
+for even greater control in	174
+for even greater control of	107
+for even greater control over	210
+for even greater convenience ,	127
+for even greater convenience .	217
+for even greater convenience and	239
+for even greater cooperation between	41
+for even greater corporate fit	91
+for even greater coverage ,	111
+for even greater coverage a	113
+for even greater coverage when	72
+for even greater creative control	57
+for even greater creative expression	56
+for even greater creativity ,	55
+for even greater creativity .	40
+for even greater customisation .	56
+for even greater customization .	53
+for even greater detail .	156
+for even greater development in	53
+for even greater discounts ,	120
+for even greater discounts .	193
+for even greater drama and	110
+for even greater durability .	83
+for even greater durability and	116
+for even greater ease of	301
+for even greater economic development	158
+for even greater effect !	47
+for even greater effect .	87
+for even greater effectiveness .	93
+for even greater effects .	59
+for even greater efficiencies .	43
+for even greater efficiency ,	41
+for even greater efficiency .	273
+for even greater efficiency and	134
+for even greater efficiency in	92
+for even greater efficiency than	73
+for even greater efforts to	46
+for even greater energy savings	45
+for even greater engine output	54
+for even greater enjoyment or	46
+for even greater expansion .	77
+for even greater expansion in	67
+for even greater exposure .	44
+for even greater flex .	125
+for even greater flex </s>	129
+for even greater flexibility ,	104
+for even greater flexibility .	553
+for even greater flexibility </s>	52
+for even greater flexibility and	547
+for even greater flexibility in	144
+for even greater functionality for	45
+for even greater future success	41
+for even greater gains .	79
+for even greater gains in	108
+for even greater garden vigor	43
+for even greater gas supply	48
+for even greater growth .	155
+for even greater growth and	94
+for even greater growth in	151
+for even greater heights .	54
+for even greater hotel savings	364
+for even greater impact .	277
+for even greater improvement .	44
+for even greater improvements in	85
+for even greater journeys .	68
+for even greater levels of	270
+for even greater lighting flexibility	95
+for even greater mineral absorption	47
+for even greater mobility .	46
+for even greater monitoring flexibility	104
+for even greater muscle synthesis	300
+for even greater network availability	92
+for even greater numbers ,	54
+for even greater numbers of	104
+for even greater operational analysis	47
+for even greater optical range	508
+for even greater optical range.the	149
+for even greater peace of	125
+for even greater performance ,	74
+for even greater performance .	269
+for even greater performance and	67
+for even greater persuasive power	60
+for even greater picture quality	90
+for even greater portability .	103
+for even greater position accuracy	83
+for even greater precision .	399
+for even greater productivity .	92
+for even greater productivity </s>	67
+for even greater profits .	58
+for even greater profits and	177
+for even greater progress in	93
+for even greater protection .	218
+for even greater purposes than	67
+for even greater realism .	42
+for even greater reduced latencies	42
+for even greater reductions in	51
+for even greater reliability ,	260
+for even greater reliability .	58
+for even greater resilience and	40
+for even greater resourcefulness .	44
+for even greater results .	240
+for even greater results by	63
+for even greater rewards .	55
+for even greater safety .	45
+for even greater savings !	2393
+for even greater savings ,	187
+for even greater savings .	5177
+for even greater savings </s>	54
+for even greater savings and	90
+for even greater savings check	150
+for even greater savings choose	43
+for even greater savings on	142
+for even greater savings select	200
+for even greater savings we	409
+for even greater scalability .	43
+for even greater security ,	50
+for even greater security .	254
+for even greater security and	45
+for even greater service .	78
+for even greater simplicity </s>	44
+for even greater softness and	164
+for even greater sound clarity	104
+for even greater speed ,	53
+for even greater speed .	48
+for even greater stability (	71
+for even greater stability .	64
+for even greater storage capacity	55
+for even greater strength .	111
+for even greater strength and	507
+for even greater success ,	62
+for even greater success .	531
+for even greater success and	54
+for even greater success in	566
+for even greater success over	45
+for even greater success with	152
+for even greater support .	70
+for even greater thermal protection	70
+for even greater things .	494
+for even greater things in	90
+for even greater things to	87
+for even greater tonal variety	74
+for even greater usability </s>	99
+for even greater use of	96
+for even greater value ,	1482
+for even greater value .	186
+for even greater variety .	42
+for even greater velocity at	45
+for even greater versatility ,	67
+for even greater versatility .	394
+for even greater versatility and	61
+for even greater video output	80
+for even greater viewing range	803
+for even greater visibility .	57
+for even greater warmth and	91
+for even greater workout variety	117
+=== END

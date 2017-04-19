@@ -1,0 +1,8 @@
+=== being > completed
+
+=== being < completed
+being fully completed	360
+being fully completed ,	53
+being fully completed .	128
+being fully completed and	48
+=== END

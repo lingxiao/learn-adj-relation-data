@@ -1,0 +1,6 @@
+=== know > least
+
+=== know < least
+know even the least	144
+know even the least bit	105
+=== END

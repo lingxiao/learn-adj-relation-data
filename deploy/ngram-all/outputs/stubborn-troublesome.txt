@@ -1,0 +1,6 @@
+=== stubborn > troublesome
+troublesome , but not stubborn	302
+troublesome , but not stubborn	302
+
+=== stubborn < troublesome
+=== END

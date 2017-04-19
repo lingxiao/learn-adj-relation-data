@@ -1,0 +1,9 @@
+=== hurt > in
+not hurt , just in	57
+
+=== hurt < in
+hurt , even in	75
+hurt even in the	40
+hurt , but not in	57
+hurt , but not in	57
+=== END

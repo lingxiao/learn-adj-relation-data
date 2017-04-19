@@ -1,0 +1,6 @@
+=== kid > now
+
+=== kid < now
+kid and even now	68
+kid , and even now	56
+=== END

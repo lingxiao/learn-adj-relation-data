@@ -1,0 +1,5 @@
+=== armed > two
+two fully armed	141
+
+=== armed < two
+=== END

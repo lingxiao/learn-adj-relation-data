@@ -1,0 +1,6 @@
+=== competent > familiar
+
+=== competent < familiar
+competent or even familiar	45
+competent or even familiar with	45
+=== END

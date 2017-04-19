@@ -1,0 +1,16 @@
+=== for > security
+security , even for	305
+security even for the	64
+security even for those	273
+security , even for children	51
+security , even for the	81
+security even for those who	268
+security but not for	44
+security , but not for	90
+security but not for	44
+security , but not for	90
+
+=== for < security
+for even a security	61
+for even a security pro	52
+=== END

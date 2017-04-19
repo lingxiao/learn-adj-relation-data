@@ -1,0 +1,6 @@
+=== on > sensitive
+sensitive , even on	77
+sensitive even on the	40
+
+=== on < sensitive
+=== END

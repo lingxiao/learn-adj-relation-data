@@ -1,0 +1,11 @@
+=== accuracy > for
+
+=== accuracy < for
+accuracy , even for	229
+accuracy even for patients	82
+accuracy even for small	44
+accuracy even for the	44
+accuracy even for patients with	62
+accuracy , but not for	43
+accuracy , but not for	43
+=== END

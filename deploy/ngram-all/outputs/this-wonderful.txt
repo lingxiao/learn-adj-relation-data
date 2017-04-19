@@ -1,0 +1,6 @@
+=== this > wonderful
+not this just wonderful	110
+not this just wonderful ?	41
+
+=== this < wonderful
+=== END

@@ -1,0 +1,8 @@
+=== annoyed > surprised
+
+=== annoyed < surprised
+annoyed but not surprised	61
+annoyed , but not surprised	46
+annoyed but not surprised	61
+annoyed , but not surprised	46
+=== END

@@ -1,0 +1,6 @@
+=== slightly > zero
+zero or even slightly	80
+zero or even slightly negative	60
+
+=== slightly < zero
+=== END

@@ -1,0 +1,7 @@
+=== equipped > us
+us fully equipped	62
+us fully equipped	74
+us fully equipped for	42
+
+=== equipped < us
+=== END

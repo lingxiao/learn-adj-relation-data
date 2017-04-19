@@ -1,0 +1,5 @@
+=== exempt > in
+
+=== exempt < in
+exempt , even in	40
+=== END

@@ -1,0 +1,5 @@
+=== expanded > five
+five fully expanded	52
+
+=== expanded < five
+=== END

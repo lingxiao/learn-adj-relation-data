@@ -1,0 +1,6 @@
+=== ill > uniformed
+
+=== ill < uniformed
+uniformed or very ill	52
+uniformed or very ill informed	52
+=== END

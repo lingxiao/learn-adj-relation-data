@@ -1,0 +1,6 @@
+=== right > stay
+
+=== right < stay
+right , but not stay	76
+right , but not stay	76
+=== END

@@ -1,0 +1,22 @@
+=== basic > for
+for even a basic	277
+for even basic health	147
+for even basic medical	48
+for even basic necessities	54
+for even basic needs	95
+for even basic services	64
+for even basic systems	40
+for even basic tasks	47
+for even the basic	394
+for even a basic sweep	53
+for even basic health care	135
+for even the basic necessities	76
+
+=== basic < for
+basic , even for	71
+basic even for a	41
+basic but not for	57
+basic but not for .	50
+basic but not for	57
+basic but not for .	50
+=== END

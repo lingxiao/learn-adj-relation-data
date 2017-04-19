@@ -1,0 +1,5 @@
+=== ended > same
+
+=== ended < same
+ended almost the same	42
+=== END

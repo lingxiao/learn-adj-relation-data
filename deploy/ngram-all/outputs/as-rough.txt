@@ -1,0 +1,8 @@
+=== as > rough
+rough but not as	57
+rough , but not as	92
+rough but not as	57
+rough , but not as	92
+
+=== as < rough
+=== END

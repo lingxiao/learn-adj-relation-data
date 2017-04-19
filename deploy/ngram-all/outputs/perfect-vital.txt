@@ -1,0 +1,5 @@
+=== perfect > vital
+not perfect but still vital	50
+
+=== perfect < vital
+=== END

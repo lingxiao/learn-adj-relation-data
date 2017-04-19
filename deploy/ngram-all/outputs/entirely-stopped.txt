@@ -1,0 +1,5 @@
+=== entirely > stopped
+stopped almost entirely .	61
+
+=== entirely < stopped
+=== END

@@ -1,0 +1,19 @@
+=== shocking > surprising
+surprising , even shocking	250
+surprising and even shocking	122
+surprising or even shocking	135
+surprising , even shocking ,	142
+surprising and even shocking .	54
+surprising , if not shocking	65
+
+=== shocking < surprising
+shocking or even surprising	42
+shocking but not surprising	41
+shocking but not surprising	177
+shocking , but not surprising	505
+shocking but not surprising .	95
+shocking but not surprising	41
+shocking but not surprising	177
+shocking , but not surprising	505
+shocking but not surprising .	95
+=== END

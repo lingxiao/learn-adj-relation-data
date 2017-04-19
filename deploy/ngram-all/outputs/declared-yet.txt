@@ -1,0 +1,16 @@
+=== declared > yet
+
+=== declared < yet
+declared but not yet	760
+declared , but not yet	115
+declared , but not yet	108
+declared but not yet defined	56
+declared but not yet paid	178
+declared but not yet payable	316
+declared but not yet	760
+declared , but not yet	115
+declared , but not yet	108
+declared but not yet defined	56
+declared but not yet paid	178
+declared but not yet payable	316
+=== END

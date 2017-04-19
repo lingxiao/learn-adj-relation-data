@@ -1,0 +1,7 @@
+=== ever > go
+
+=== ever < go
+ever even go to	75
+ever fully go	62
+ever fully go away	50
+=== END

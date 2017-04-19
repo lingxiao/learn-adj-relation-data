@@ -1,0 +1,20 @@
+=== bigger > more
+more and even bigger	57
+
+=== bigger < more
+bigger and even more	72
+bigger , even more	333
+bigger and even more	1075
+bigger and even more bafflingly	50
+bigger , and even more	66
+bigger , even more democratic	43
+bigger , even more devastating	95
+bigger and even more breathtaking	44
+bigger and even more exciting	54
+bigger and even more fun	58
+bigger and even more important	105
+bigger and even more perky	81
+bigger and even more successful	42
+bigger , but not more	123
+bigger , but not more	123
+=== END

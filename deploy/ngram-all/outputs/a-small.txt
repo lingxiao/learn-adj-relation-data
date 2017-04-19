@@ -1,0 +1,15 @@
+=== a > small
+small even a gnat	512
+small , even a small	60
+small even a gnat could	512
+small or even a tiny	46
+small but not a big	43
+small but not a problem	56
+small but not a	202
+small , but not a	193
+small but not a big	43
+small but not a problem	56
+
+=== a < small
+a even a small	139
+=== END

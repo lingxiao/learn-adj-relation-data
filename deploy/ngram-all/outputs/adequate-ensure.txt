@@ -1,0 +1,7 @@
+=== adequate > ensure
+ensure fully adequate	80
+ensure fully adequate and	63
+ensure fully adequate and timely	63
+
+=== adequate < ensure
+=== END

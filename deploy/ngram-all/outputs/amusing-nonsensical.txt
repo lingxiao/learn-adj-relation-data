@@ -1,0 +1,6 @@
+=== amusing > nonsensical
+nonsensical or even amusing	49
+nonsensical or even amusing ,	49
+
+=== amusing < nonsensical
+=== END

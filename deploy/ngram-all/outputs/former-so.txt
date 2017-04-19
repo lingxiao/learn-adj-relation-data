@@ -1,0 +1,7 @@
+=== former > so
+
+=== former < so
+former but not so	64
+former but not so	64
+the former but not so	61
+=== END

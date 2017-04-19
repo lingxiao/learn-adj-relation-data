@@ -1,0 +1,7 @@
+=== changing > for
+
+=== changing < for
+changing , even for	48
+changing , but not for	50
+changing , but not for	50
+=== END

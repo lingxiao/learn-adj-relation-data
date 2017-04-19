@@ -1,0 +1,10 @@
+=== developed > very
+very fully developed	278
+very fully developed ,	72
+very fully developed .	65
+very fully developed	278
+very fully developed ,	72
+very fully developed .	65
+
+=== developed < very
+=== END

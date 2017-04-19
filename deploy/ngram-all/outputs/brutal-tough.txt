@@ -1,0 +1,5 @@
+=== brutal > tough
+tough , even brutal	40
+
+=== brutal < tough
+=== END

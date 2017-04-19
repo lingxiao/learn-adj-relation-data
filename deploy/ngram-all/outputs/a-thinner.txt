@@ -1,0 +1,6 @@
+=== a > thinner
+
+=== a < thinner
+a even thinner tv	50
+a even thinner tv the	50
+=== END

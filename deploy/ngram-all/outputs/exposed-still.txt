@@ -1,0 +1,5 @@
+=== exposed > still
+still fully exposed	88
+
+=== exposed < still
+=== END

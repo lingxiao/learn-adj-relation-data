@@ -1,0 +1,6 @@
+=== stubborn > up
+up , even stubborn	73
+up , even stubborn waterproof	63
+
+=== stubborn < up
+=== END

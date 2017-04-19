@@ -1,0 +1,10 @@
+=== dependable > insured
+
+=== dependable < insured
+dependable , fully insured	79
+dependable , fully insured	65
+dependable , fully insured	220
+dependable , fully insured ,	78
+dependable , fully insured ,	48
+dependable , fully insured ,	212
+=== END

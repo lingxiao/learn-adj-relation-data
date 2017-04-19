@@ -1,0 +1,9 @@
+=== almost > compliant
+
+=== almost < compliant
+almost fully compliant	331
+almost fully compliant opengl	186
+almost fully compliant with	115
+almost fully compliant opengl implementation	186
+almost fully compliant with the	75
+=== END

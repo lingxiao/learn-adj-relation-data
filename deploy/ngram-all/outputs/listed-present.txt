@@ -1,0 +1,6 @@
+=== listed > present
+present but not listed	86
+present but not listed	86
+
+=== listed < present
+=== END

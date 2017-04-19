@@ -1,0 +1,6 @@
+=== available > value
+value if not available	89
+value if not available .	77
+
+=== available < value
+=== END

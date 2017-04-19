@@ -1,0 +1,10 @@
+=== daily > now
+now , almost daily	52
+now almost a daily	64
+now almost daily ,	44
+now almost daily .	104
+
+=== daily < now
+daily even now -	55
+daily even now - or	52
+=== END

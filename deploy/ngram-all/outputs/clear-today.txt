@@ -1,0 +1,6 @@
+=== clear > today
+
+=== clear < today
+clear even today .	68
+clear even today that	56
+=== END

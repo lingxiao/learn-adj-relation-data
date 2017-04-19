@@ -1,0 +1,6 @@
+=== normally > that
+that even a normally	40
+that even the normally	227
+
+=== normally < that
+=== END

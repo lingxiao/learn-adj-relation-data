@@ -1,0 +1,9 @@
+=== alone > more
+
+=== alone < more
+alone , even more	153
+alone and even more	157
+alone even more .	40
+alone , and even more	193
+alone , even more a	77
+=== END

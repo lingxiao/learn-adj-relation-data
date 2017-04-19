@@ -1,0 +1,10 @@
+=== over > some
+some even over the	40
+
+=== over < some
+over , even some	175
+over and even some	40
+over even some of	90
+over , even some of	154
+over even some of the	60
+=== END

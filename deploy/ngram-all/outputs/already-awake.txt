@@ -1,0 +1,6 @@
+=== already > awake
+
+=== already < awake
+already fully awake	94
+already fully awake .	41
+=== END

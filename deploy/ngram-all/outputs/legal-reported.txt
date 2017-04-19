@@ -1,0 +1,6 @@
+=== legal > reported
+
+=== legal < reported
+legal and fully reported	82
+legal and fully reported as	75
+=== END

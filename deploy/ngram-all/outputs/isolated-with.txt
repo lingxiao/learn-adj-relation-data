@@ -1,0 +1,5 @@
+=== isolated > with
+with fully isolated	88
+
+=== isolated < with
+=== END

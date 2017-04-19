@@ -1,0 +1,21 @@
+=== pleased > surprised
+
+=== pleased < surprised
+pleased , though not surprised	94
+pleased but not surprised	618
+pleased , but not surprised	637
+pleased but not surprised ,	48
+pleased but not surprised .	47
+pleased but not surprised at	57
+pleased but not surprised by	177
+pleased but not surprised that	95
+pleased but not surprised to	92
+pleased but not surprised	618
+pleased , but not surprised	637
+pleased but not surprised ,	48
+pleased but not surprised .	47
+pleased but not surprised at	57
+pleased but not surprised by	177
+pleased but not surprised that	95
+pleased but not surprised to	92
+=== END

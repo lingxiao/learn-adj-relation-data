@@ -1,0 +1,6 @@
+=== more > significantly
+
+=== more < significantly
+more , but not significantly	50
+more , but not significantly	50
+=== END

@@ -1,0 +1,6 @@
+=== at > null
+
+=== at < null
+at almost null cost	589
+at almost null cost .	577
+=== END

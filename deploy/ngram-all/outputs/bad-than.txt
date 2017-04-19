@@ -1,0 +1,5 @@
+=== bad > than
+than even a bad	48
+
+=== bad < than
+=== END

@@ -1,0 +1,5 @@
+=== automated > most
+most fully automated	100
+
+=== automated < most
+=== END

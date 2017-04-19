@@ -1,0 +1,9 @@
+=== fun > particularly
+
+=== fun < particularly
+fun , if not particularly	68
+fun but not particularly	74
+fun , but not particularly	104
+fun but not particularly	74
+fun , but not particularly	104
+=== END

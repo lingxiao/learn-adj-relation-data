@@ -1,0 +1,6 @@
+=== ago > just
+
+=== ago < just
+ago , and even just	42
+ago , or even just	56
+=== END

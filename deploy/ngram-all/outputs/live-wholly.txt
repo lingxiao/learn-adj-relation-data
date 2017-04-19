@@ -1,0 +1,7 @@
+=== live > wholly
+
+=== live < wholly
+live almost wholly in	195
+live almost wholly on	44
+live almost wholly in sentiment	146
+=== END

@@ -1,0 +1,5 @@
+=== a > concrete
+
+=== a < concrete
+a fully concrete	92
+=== END

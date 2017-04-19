@@ -1,0 +1,6 @@
+=== big > nearly
+
+=== big < nearly
+big , but not nearly	77
+big , but not nearly	77
+=== END

@@ -1,0 +1,5 @@
+=== everyone > moreover
+moreover , almost everyone	59
+
+=== everyone < moreover
+=== END

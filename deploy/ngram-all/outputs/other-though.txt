@@ -1,0 +1,59 @@
+=== other > though
+
+=== other < though
+other , even though	42
+other , even though	7774
+other and even though	220
+other even though </s>	54
+other even though i	107
+other even though both	96
+other even though each	41
+other even though he	75
+other even though it	162
+other even though one	45
+other even though the	465
+other even though their	128
+other even though there	126
+other even though they	1979
+other even though we	686
+other even though you	119
+other , and even though	238
+other , even though </s>	84
+other , even though i	187
+other , even though a	50
+other , even though both	148
+other , even though each	95
+other , even though fate	47
+other , even though he	140
+other , even though in	89
+other , even though it	647
+other , even though neither	73
+other , even though no	42
+other , even though one	61
+other , even though our	50
+other , even though she	67
+other , even though some	93
+other , even though that	71
+other , even though the	1409
+other , even though their	159
+other , even though there	259
+other , even though they	1850
+other , even though this	87
+other , even though we	777
+other , even though you	153
+other even though it is	55
+other even though there is	46
+other even though they ' re	88
+other even though they are	551
+other even though they did	40
+other even though they do	135
+other even though they have	139
+other even though they may	106
+other even though they share	52
+other even though they were	199
+other even though we ' re	50
+other even though we are	104
+other even though we had	46
+other even though we have	56
+other even though we were	61
+=== END

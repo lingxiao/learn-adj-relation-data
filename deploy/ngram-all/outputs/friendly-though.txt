@@ -1,0 +1,21 @@
+=== friendly > though
+
+=== friendly < though
+friendly , even though	791
+friendly and even though	203
+friendly even though i	107
+friendly even though he	46
+friendly even though it	77
+friendly even though the	86
+friendly even though they	147
+friendly even though we	118
+friendly even though you	46
+friendly , and even though	87
+friendly , even though i	106
+friendly , even though he	55
+friendly , even though it	81
+friendly , even though the	80
+friendly , even though they	91
+friendly , even though we	107
+friendly and even though we	48
+=== END

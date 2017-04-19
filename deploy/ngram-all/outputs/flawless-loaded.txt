@@ -1,0 +1,7 @@
+=== flawless > loaded
+
+=== flawless < loaded
+flawless fully loaded	149
+flawless fully loaded carrera	149
+flawless fully loaded carrera </s>	142
+=== END

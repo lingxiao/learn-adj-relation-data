@@ -1,0 +1,6 @@
+=== as > emerging
+emerging , even as	60
+emerging even as the	45
+
+=== as < emerging
+=== END

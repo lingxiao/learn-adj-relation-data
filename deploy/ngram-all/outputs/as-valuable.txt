@@ -1,0 +1,9 @@
+=== as > valuable
+valuable , even as	59
+valuable but not as	57
+valuable , but not as	134
+valuable but not as	57
+valuable , but not as	134
+
+=== as < valuable
+=== END

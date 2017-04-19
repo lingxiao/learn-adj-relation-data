@@ -1,0 +1,5 @@
+=== effective > useless
+
+=== effective < useless
+effective or even useless	42
+=== END

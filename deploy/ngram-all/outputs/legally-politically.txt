@@ -1,0 +1,13 @@
+=== legally > politically
+politically and even legally	56
+politically and even legally expedient	49
+politically , if not legally	52
+politically but not legally	74
+politically , but not legally	88
+politically but not legally binding	59
+politically but not legally	74
+politically , but not legally	88
+politically but not legally binding	59
+
+=== legally < politically
+=== END

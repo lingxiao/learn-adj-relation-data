@@ -1,0 +1,5 @@
+=== managed > own
+own fully managed	52
+
+=== managed < own
+=== END

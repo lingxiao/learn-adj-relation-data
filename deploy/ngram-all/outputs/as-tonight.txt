@@ -1,0 +1,7 @@
+=== as > tonight
+tonight , even as	98
+tonight , but not as	94
+tonight , but not as	94
+
+=== as < tonight
+=== END

@@ -1,0 +1,8 @@
+=== nominal > of
+of even a nominal	43
+of even nominal democracy	98
+of even the nominal	40
+of even nominal democracy .	98
+
+=== nominal < of
+=== END

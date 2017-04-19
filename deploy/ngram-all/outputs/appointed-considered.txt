@@ -1,0 +1,6 @@
+=== appointed > considered
+considered but not appointed	42
+considered but not appointed	42
+
+=== appointed < considered
+=== END

@@ -1,0 +1,5 @@
+=== anything > extreme
+
+=== anything < extreme
+anything , even extreme	49
+=== END

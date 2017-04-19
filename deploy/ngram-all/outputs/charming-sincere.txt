@@ -1,0 +1,8 @@
+=== charming > sincere
+
+=== charming < sincere
+charming but not sincere	173
+charming but not sincere .	172
+charming but not sincere	173
+charming but not sincere .	172
+=== END

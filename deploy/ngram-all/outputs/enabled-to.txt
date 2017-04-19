@@ -1,0 +1,6 @@
+=== enabled > to
+to fully enabled	56
+
+=== enabled < to
+enabled fully to	87
+=== END

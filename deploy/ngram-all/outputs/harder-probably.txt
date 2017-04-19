@@ -1,0 +1,9 @@
+=== harder > probably
+probably even harder .	50
+probably even harder for	79
+probably even harder than	121
+probably even harder to	333
+probably even harder to understand	47
+
+=== harder < probably
+=== END

@@ -1,0 +1,11 @@
+=== specified > value
+value if not specified	286
+value , if not specified	93
+value if not specified .	43
+value if not specified here	45
+value if not specified is	73
+
+=== specified < value
+specified , but not value	182
+specified , but not value	182
+=== END

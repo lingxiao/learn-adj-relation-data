@@ -1,0 +1,5 @@
+=== it > obvious
+not it just obvious	72
+
+=== it < obvious
+=== END

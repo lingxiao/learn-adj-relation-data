@@ -1,0 +1,5 @@
+=== implemented > same
+
+=== implemented < same
+implemented almost the same	44
+=== END

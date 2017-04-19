@@ -1,0 +1,6 @@
+=== all > remarkable
+remarkable , almost all	95
+remarkable , almost all comunities	40
+
+=== all < remarkable
+=== END

@@ -1,0 +1,6 @@
+=== excellent > that
+that even an excellent	143
+that even the excellent	53
+
+=== excellent < that
+=== END

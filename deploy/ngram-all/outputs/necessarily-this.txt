@@ -1,0 +1,11 @@
+=== necessarily > this
+this almost necessarily gives	64
+this almost necessarily gives birth	61
+this , though not necessarily	50
+this but not necessarily	68
+this , but not necessarily	261
+this but not necessarily	68
+this , but not necessarily	261
+
+=== necessarily < this
+=== END

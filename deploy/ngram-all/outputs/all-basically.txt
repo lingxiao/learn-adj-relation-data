@@ -1,0 +1,6 @@
+=== all > basically
+basically , almost all	134
+basically , almost all	85
+
+=== all < basically
+=== END

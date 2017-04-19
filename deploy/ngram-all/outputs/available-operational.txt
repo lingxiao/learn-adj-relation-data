@@ -1,0 +1,10 @@
+=== available > operational
+operational but not available	160
+operational but not available .	159
+operational but not available	160
+operational but not available .	159
+
+=== available < operational
+available and fully operational	152
+available and fully operational on	42
+=== END

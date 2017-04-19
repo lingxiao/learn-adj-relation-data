@@ -1,0 +1,6 @@
+=== cancelled > enough
+
+=== cancelled < enough
+cancelled if not enough	217
+cancelled if not enough parents	76
+=== END

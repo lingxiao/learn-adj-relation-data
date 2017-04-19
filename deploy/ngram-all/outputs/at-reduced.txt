@@ -1,0 +1,6 @@
+=== at > reduced
+reduced , even at	78
+reduced even at the	45
+
+=== at < reduced
+=== END

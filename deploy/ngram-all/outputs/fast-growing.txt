@@ -1,0 +1,8 @@
+=== fast > growing
+growing but not fast	43
+growing , but not fast	85
+growing but not fast	43
+growing , but not fast	85
+
+=== fast < growing
+=== END

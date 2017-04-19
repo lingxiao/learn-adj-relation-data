@@ -1,0 +1,10 @@
+=== adequate > outstanding
+
+=== adequate < outstanding
+adequate but not outstanding	221
+adequate , but not outstanding	130
+adequate but not outstanding .	99
+adequate but not outstanding	221
+adequate , but not outstanding	130
+adequate but not outstanding .	99
+=== END

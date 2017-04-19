@@ -1,0 +1,11 @@
+=== common > for
+for even the common	95
+
+=== common < for
+common , even for	380
+common even for the	46
+common if not for	46
+common if not for the	40
+common , but not for	40
+common , but not for	40
+=== END

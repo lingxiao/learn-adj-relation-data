@@ -1,0 +1,5 @@
+=== most > qualified
+
+=== most < qualified
+most fully qualified	130
+=== END

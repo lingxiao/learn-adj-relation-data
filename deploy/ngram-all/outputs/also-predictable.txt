@@ -1,0 +1,6 @@
+=== also > predictable
+not only predictable but also	43
+not only predictable but also	43
+
+=== also < predictable
+=== END

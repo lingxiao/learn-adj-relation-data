@@ -1,0 +1,8 @@
+=== dead > with
+
+=== dead < with
+dead , even with	166
+dead even with a	77
+dead even with the	361
+dead , even with john	54
+=== END

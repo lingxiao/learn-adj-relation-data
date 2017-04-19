@@ -1,0 +1,20 @@
+=== inevitable > likely
+likely , though not inevitable	51
+likely , even inevitable	69
+likely , even inevitable .	41
+likely , or even inevitable	57
+not only likely but inevitable	103
+likely if not inevitable	122
+likely , if not inevitable	387
+likely if not inevitable .	63
+likely but not inevitable	61
+likely , but not inevitable	68
+likely but not inevitable	61
+likely , but not inevitable	68
+not only likely but inevitable	103
+
+=== inevitable < likely
+inevitable or even likely	135
+inevitable , or even likely	40
+inevitable or even likely .	69
+=== END

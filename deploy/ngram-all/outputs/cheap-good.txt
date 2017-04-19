@@ -1,0 +1,12 @@
+=== cheap > good
+good but not cheap	230
+good , but not cheap	182
+good but not cheap .	121
+good but not cheap	230
+good , but not cheap	182
+good but not cheap .	121
+
+=== cheap < good
+cheap but not good	49
+cheap but not good	49
+=== END

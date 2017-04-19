@@ -1,0 +1,7 @@
+=== connected > stay
+stay fully connected	139
+stay fully connected when	72
+stay fully connected when traveling	72
+
+=== connected < stay
+=== END

@@ -1,0 +1,5 @@
+=== dangerous > pointless
+pointless and even dangerous	60
+
+=== dangerous < pointless
+=== END

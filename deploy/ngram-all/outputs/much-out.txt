@@ -1,0 +1,11 @@
+=== much > out
+out but not much	152
+out , but not much	330
+out but not much .	40
+out but not much	152
+out , but not much	330
+out but not much .	40
+
+=== much < out
+much even out .	148
+=== END

@@ -1,0 +1,8 @@
+=== as > significantly
+significantly , even as	44
+significantly , even as	119
+significantly , but not as	43
+significantly , but not as	43
+
+=== as < significantly
+=== END

@@ -1,0 +1,12 @@
+=== developed > so
+so fully developed	907
+so fully developed ,	185
+so fully developed .	100
+so fully developed and	59
+so fully developed as	100
+so fully developed in	86
+so fully developed that	177
+so fully developed , that	75
+
+=== developed < so
+=== END

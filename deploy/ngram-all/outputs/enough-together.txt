@@ -1,0 +1,8 @@
+=== enough > together
+together but not enough	46
+together , but not enough	115
+together but not enough	46
+together , but not enough	115
+
+=== enough < together
+=== END

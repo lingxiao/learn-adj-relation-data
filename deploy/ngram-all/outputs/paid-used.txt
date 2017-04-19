@@ -1,0 +1,10 @@
+=== paid > used
+used but not paid	86
+used but not paid for	81
+used but not paid	86
+used but not paid for	81
+
+=== paid < used
+paid but not used	110
+paid but not used	110
+=== END

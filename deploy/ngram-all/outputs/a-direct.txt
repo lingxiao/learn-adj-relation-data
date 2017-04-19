@@ -1,0 +1,5 @@
+=== a > direct
+
+=== a < direct
+a fully direct	68
+=== END

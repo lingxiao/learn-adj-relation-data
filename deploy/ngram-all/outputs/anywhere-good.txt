@@ -1,0 +1,7 @@
+=== anywhere > good
+good almost anywhere .	48
+good , but not anywhere	61
+good , but not anywhere	61
+
+=== anywhere < good
+=== END

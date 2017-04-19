@@ -1,0 +1,7 @@
+=== for > kind
+kind , even for	111
+kind but not for	44
+kind but not for	44
+
+=== for < kind
+=== END

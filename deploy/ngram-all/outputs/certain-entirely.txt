@@ -1,0 +1,8 @@
+=== certain > entirely
+
+=== certain < entirely
+certain but not entirely	45
+certain but not entirely free	42
+certain but not entirely	45
+certain but not entirely free	42
+=== END

@@ -1,0 +1,10 @@
+=== anymore > that
+that but not anymore	81
+that , but not anymore	185
+that but not anymore .	41
+that but not anymore	81
+that , but not anymore	185
+that but not anymore .	41
+
+=== anymore < that
+=== END

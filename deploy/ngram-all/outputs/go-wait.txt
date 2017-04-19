@@ -1,0 +1,6 @@
+=== go > wait
+
+=== go < wait
+not wait just go	50
+not wait , just go	54
+=== END

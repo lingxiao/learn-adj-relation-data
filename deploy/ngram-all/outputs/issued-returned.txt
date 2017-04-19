@@ -1,0 +1,8 @@
+=== issued > returned
+
+=== issued < returned
+issued but not returned	129
+issued but not returned is	54
+issued but not returned	129
+issued but not returned is	54
+=== END

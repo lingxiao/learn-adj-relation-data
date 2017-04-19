@@ -1,0 +1,31 @@
+=== at > home
+home almost at the same	62
+home , or even at	64
+home , and even at	112
+home , even at the	100
+home , or even at	459
+home and even at work	113
+home or even at a	76
+home or even at school	116
+home or even at the	201
+home or even at work	191
+home or even at your	58
+home but not at	376
+home but not at <unk>	60
+home but not at work	315
+home , but not at	637
+home but not at school	129
+home but not at the	69
+home but not at work	283
+home but not at	376
+home but not at	637
+home but not at <unk>	60
+home but not at work	315
+home , but not at	637
+home but not at school	129
+home but not at the	69
+home but not at work	283
+
+=== at < home
+at almost home .	46
+=== END

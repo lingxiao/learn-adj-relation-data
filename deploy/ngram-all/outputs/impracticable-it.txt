@@ -1,0 +1,6 @@
+=== impracticable > it
+it almost impracticable for	94
+it almost impracticable for a	44
+
+=== impracticable < it
+=== END

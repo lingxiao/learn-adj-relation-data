@@ -1,0 +1,5 @@
+=== automatic > more
+more fully automatic	105
+
+=== automatic < more
+=== END

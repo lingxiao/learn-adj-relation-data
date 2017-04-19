@@ -1,0 +1,8 @@
+=== exciting > okay
+okay but not exciting	84
+okay but not exciting .	79
+okay but not exciting	84
+okay but not exciting .	79
+
+=== exciting < okay
+=== END

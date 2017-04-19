@@ -1,0 +1,5 @@
+=== opposed > three
+three , although not opposed	42
+
+=== opposed < three
+=== END

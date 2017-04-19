@@ -1,0 +1,5 @@
+=== a > valued
+
+=== a < valued
+a fully valued	171
+=== END

@@ -1,0 +1,12 @@
+=== a > low
+a unbelievably low	251
+a unbelievably low payment	166
+a unbelievably low payment !	166
+low , almost a whisper	110
+low , even a small	46
+low but not a	65
+low , but not a	88
+
+=== a < low
+a fully low	40
+=== END

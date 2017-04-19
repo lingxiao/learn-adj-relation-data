@@ -1,0 +1,10 @@
+=== but > middle
+
+=== but < middle
+but even middle -	41
+but even the middle	124
+but even the middle	40
+but even middle -	51
+but even the middle	90
+but even the middle east	124
+=== END

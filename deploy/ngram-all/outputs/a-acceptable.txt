@@ -1,0 +1,15 @@
+=== a > acceptable
+acceptable even a couple	40
+acceptable even a couple of	40
+not only acceptable but a	66
+acceptable but not a	56
+acceptable , but not a	105
+not only acceptable but a	66
+
+=== a < acceptable
+a fully acceptable	914
+a fully acceptable level	131
+a fully acceptable solution	50
+a fully acceptable level .	40
+a fully acceptable level of	75
+=== END

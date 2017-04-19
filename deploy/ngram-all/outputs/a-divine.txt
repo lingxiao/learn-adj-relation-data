@@ -1,0 +1,5 @@
+=== a > divine
+
+=== a < divine
+a fully divine	160
+=== END

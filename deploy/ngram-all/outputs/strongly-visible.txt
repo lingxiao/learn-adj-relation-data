@@ -1,0 +1,6 @@
+=== strongly > visible
+visible , but not strongly	58
+visible , but not strongly	58
+
+=== strongly < visible
+=== END

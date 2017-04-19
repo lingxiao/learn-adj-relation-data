@@ -1,0 +1,6 @@
+good, great
+bad, worse
+bad, terrible
+great, excellent
+good, bad
+tasty, yummy

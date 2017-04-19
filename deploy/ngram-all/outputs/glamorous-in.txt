@@ -1,0 +1,6 @@
+=== glamorous > in
+
+=== glamorous < in
+glamorous even in sweatpants	45
+glamorous even in sweatpants ,	45
+=== END

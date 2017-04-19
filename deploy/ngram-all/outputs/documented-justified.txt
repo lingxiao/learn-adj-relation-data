@@ -1,0 +1,5 @@
+=== documented > justified
+justified and fully documented	75
+
+=== documented < justified
+=== END

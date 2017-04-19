@@ -1,0 +1,5 @@
+=== everyone > holy
+holy , even everyone who	42
+
+=== everyone < holy
+=== END

@@ -1,0 +1,3 @@
+good, great: 3.83644694432
+great, excellent: 3.68771464842
+good, bad: 4.06191579359

@@ -1,0 +1,13 @@
+=== given > however
+however , even given	1208
+however , even given	119
+however , even given a	55
+however , even given our	40
+however , even given that	163
+however , even given the	318
+however , even given these	140
+however , even given this	175
+however , even given the	85
+
+=== given < however
+=== END

@@ -1,0 +1,8 @@
+=== fancy > too
+
+=== fancy < too
+fancy but not too	86
+fancy , but not too	87
+fancy but not too	86
+fancy , but not too	87
+=== END

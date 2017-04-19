@@ -1,0 +1,6 @@
+=== firm > necessarily
+
+=== firm < necessarily
+firm , but not necessarily	180
+firm , but not necessarily	180
+=== END

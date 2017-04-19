@@ -1,0 +1,15 @@
+=== out > worse
+
+=== out < worse
+out and even worse	55
+out even worse ,	96
+out even worse .	392
+out even worse for	44
+out even worse than	446
+out or even worse	101
+out , and even worse	40
+out , or even worse	120
+out even worse than i	44
+out even worse than before	47
+out even worse than the	128
+=== END

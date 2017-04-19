@@ -1,0 +1,6 @@
+=== as > binding
+
+=== as < binding
+as fully binding	120
+as fully binding upon	41
+=== END

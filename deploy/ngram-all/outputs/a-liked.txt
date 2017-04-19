@@ -1,0 +1,6 @@
+=== a > liked
+liked even a little	43
+liked , but not a	53
+
+=== a < liked
+=== END

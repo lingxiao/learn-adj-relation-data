@@ -1,0 +1,6 @@
+=== good > infallible
+
+=== good < infallible
+good , but not infallible	46
+good , but not infallible	46
+=== END

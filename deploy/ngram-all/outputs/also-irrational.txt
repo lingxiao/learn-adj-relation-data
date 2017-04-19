@@ -1,0 +1,6 @@
+=== also > irrational
+not only irrational but also	71
+not only irrational but also	71
+
+=== also < irrational
+=== END

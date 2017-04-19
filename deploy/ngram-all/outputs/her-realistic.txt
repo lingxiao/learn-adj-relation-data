@@ -1,0 +1,7 @@
+=== her > realistic
+her unbelievably realistic	89
+her unbelievably realistic face	88
+her unbelievably realistic face and	88
+
+=== her < realistic
+=== END

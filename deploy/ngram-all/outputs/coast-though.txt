@@ -1,0 +1,9 @@
+=== coast > though
+
+=== coast < though
+coast , even though	154
+coast , even though	258
+coast and even though	43
+coast , even though it	48
+coast , even though the	58
+=== END

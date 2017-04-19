@@ -1,0 +1,7 @@
+=== clarify > further
+
+=== clarify < further
+clarify even further ,	70
+clarify even further .	57
+clarify even further the	47
+=== END

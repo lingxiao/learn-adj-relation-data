@@ -1,0 +1,18 @@
+=== a > same
+same even a kerosene	41
+same , even a fulness	49
+same even a kerosene lamp	41
+same or even a better	74
+same or even a bit	45
+same or even a different	61
+same or even a greater	62
+same or even a handsome	46
+same or even a higher	112
+same or even a little	76
+same or even a lower	53
+same or even a similar	73
+same if not a bit	55
+same if not a little	152
+
+=== a < same
+=== END

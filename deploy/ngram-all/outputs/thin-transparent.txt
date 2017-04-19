@@ -1,0 +1,7 @@
+=== thin > transparent
+
+=== thin < transparent
+thin , almost transparent	402
+thin and almost transparent	131
+thin , almost transparent ,	91
+=== END

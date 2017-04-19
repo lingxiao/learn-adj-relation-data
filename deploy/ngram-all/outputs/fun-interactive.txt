@@ -1,0 +1,6 @@
+=== fun > interactive
+not only interactive but fun	242
+not only interactive but fun	242
+
+=== fun < interactive
+=== END

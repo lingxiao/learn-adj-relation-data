@@ -1,0 +1,5 @@
+=== likely > unlikely
+likely or very unlikely	54
+
+=== likely < unlikely
+=== END

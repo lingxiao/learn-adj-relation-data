@@ -1,0 +1,6 @@
+=== much > only
+
+=== much < only
+much , but not only	58
+much , but not only	58
+=== END

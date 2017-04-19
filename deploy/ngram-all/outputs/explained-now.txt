@@ -1,0 +1,6 @@
+=== explained > now
+now fully explained	194
+now fully explained .	67
+
+=== explained < now
+=== END

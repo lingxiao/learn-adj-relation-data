@@ -1,0 +1,5 @@
+=== galore > little
+
+=== galore < little
+galore and even a little	88
+=== END

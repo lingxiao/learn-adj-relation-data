@@ -1,0 +1,11 @@
+=== available > guaranteed
+
+=== available < guaranteed
+available and fully guaranteed	45
+available but not guaranteed	251
+available , but not guaranteed	124
+available but not guaranteed .	139
+available but not guaranteed	251
+available , but not guaranteed	124
+available but not guaranteed .	139
+=== END

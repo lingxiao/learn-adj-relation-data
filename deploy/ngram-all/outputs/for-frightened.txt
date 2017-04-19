@@ -1,0 +1,6 @@
+=== for > frightened
+frightened even for flight	97
+frightened even for flight .	97
+
+=== for < frightened
+=== END

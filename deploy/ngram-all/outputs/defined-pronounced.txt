@@ -1,0 +1,6 @@
+=== defined > pronounced
+
+=== defined < pronounced
+defined but not pronounced	46
+defined but not pronounced	46
+=== END

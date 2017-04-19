@@ -1,0 +1,6 @@
+=== reliable > scalable
+
+=== reliable < scalable
+reliable and fully scalable	111
+reliable and fully scalable dynamic	60
+=== END

@@ -1,0 +1,7 @@
+=== tight > with
+
+=== tight < with
+tight , even with	160
+tight even with the	105
+tight , even with the	41
+=== END

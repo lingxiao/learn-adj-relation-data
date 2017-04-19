@@ -1,0 +1,8 @@
+=== a > school
+school almost a year	55
+school and even a jail	44
+school but not a	182
+school , but not a	260
+
+=== a < school
+=== END

@@ -1,0 +1,12 @@
+=== present > yet
+yet fully present	133
+yet fully present .	51
+
+=== present < yet
+present but not yet	349
+present , but not yet	120
+present but not yet active	125
+present but not yet	349
+present , but not yet	120
+present but not yet active	125
+=== END

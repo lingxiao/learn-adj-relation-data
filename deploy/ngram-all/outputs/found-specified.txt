@@ -1,0 +1,8 @@
+=== found > specified
+specified but not found	102
+specified , but not found	52
+specified but not found	102
+specified , but not found	52
+
+=== found < specified
+=== END

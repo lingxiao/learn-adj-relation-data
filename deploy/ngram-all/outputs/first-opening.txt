@@ -1,0 +1,6 @@
+=== first > opening
+
+=== first < opening
+first and fully opening	43
+first and fully opening in	43
+=== END

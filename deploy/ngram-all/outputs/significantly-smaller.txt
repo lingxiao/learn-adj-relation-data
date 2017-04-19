@@ -1,0 +1,6 @@
+=== significantly > smaller
+smaller , but not significantly	45
+smaller , but not significantly	45
+
+=== significantly < smaller
+=== END

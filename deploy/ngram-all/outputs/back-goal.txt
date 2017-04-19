@@ -1,0 +1,9 @@
+=== back > goal
+goal but not back	50
+goal but not back again	50
+goal but not back	50
+goal but not back again	50
+the goal but not back	50
+
+=== back < goal
+=== END

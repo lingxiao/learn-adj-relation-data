@@ -1,0 +1,6 @@
+=== also > democratic
+not only democratic but also	40
+not only democratic but also	40
+
+=== also < democratic
+=== END

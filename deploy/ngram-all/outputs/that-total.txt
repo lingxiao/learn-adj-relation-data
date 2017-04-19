@@ -1,0 +1,8 @@
+=== that > total
+
+=== that < total
+that almost the total	56
+that even a total	253
+that even the total	443
+that even the total beginner	287
+=== END

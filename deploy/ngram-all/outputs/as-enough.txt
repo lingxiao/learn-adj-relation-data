@@ -1,0 +1,23 @@
+=== as > enough
+enough , almost as	84
+enough , although not as	48
+enough , though not as	51
+enough , even as	68
+enough , even as	472
+enough even as a	44
+enough , even as we	66
+enough , even as a	60
+enough , even as the	76
+enough , even as they	50
+enough but not as	187
+enough , but not as	437
+enough but not as	187
+enough , but not as	437
+
+=== as < enough
+as though not enough	61
+as if not enough	149
+as if not enough	122
+as if not enough ,	83
+not enough , just as	172
+=== END

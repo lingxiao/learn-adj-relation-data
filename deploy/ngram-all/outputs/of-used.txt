@@ -1,0 +1,10 @@
+=== of > used
+
+=== of < used
+of even a used	50
+of even used these	49
+of or even used	60
+of even used these spades	49
+of but not used	76
+of but not used	76
+=== END

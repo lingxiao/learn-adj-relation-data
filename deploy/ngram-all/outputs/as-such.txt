@@ -1,0 +1,10 @@
+=== as > such
+such , even as	134
+such even as i	78
+such even as i am	75
+such , but not as	61
+such , but not as	61
+
+=== as < such
+as even such a	59
+=== END

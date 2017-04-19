@@ -1,0 +1,11 @@
+=== dead > dormant
+dormant , if not dead	52
+dormant but not dead	92
+dormant , but not dead	40
+not dead , just dormant	69
+not dead , just dormant	57
+dormant but not dead	92
+dormant , but not dead	40
+
+=== dead < dormant
+=== END

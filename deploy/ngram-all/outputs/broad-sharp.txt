@@ -1,0 +1,8 @@
+=== broad > sharp
+sharp but not broad	40
+sharp but not broad ,	40
+sharp but not broad	40
+sharp but not broad ,	40
+
+=== broad < sharp
+=== END

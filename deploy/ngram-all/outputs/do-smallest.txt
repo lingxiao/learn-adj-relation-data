@@ -1,0 +1,9 @@
+=== do > smallest
+
+=== do < smallest
+do even the smallest	505
+do even the smallest files	143
+do even the smallest of	50
+do even the smallest thing	97
+do even the smallest things	48
+=== END

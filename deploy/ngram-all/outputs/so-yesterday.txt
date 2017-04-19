@@ -1,0 +1,8 @@
+=== so > yesterday
+yesterday but not so	58
+yesterday , but not so	87
+yesterday but not so	58
+yesterday , but not so	87
+
+=== so < yesterday
+=== END

@@ -1,0 +1,17 @@
+=== as > useful
+useful almost as a	78
+useful and almost as	59
+useful almost as a religion	77
+useful , though not as	48
+useful , even as	125
+useful even as a	117
+useful even as the	47
+useful but not as	262
+useful , but not as	48
+useful , but not as	439
+useful but not as	262
+useful , but not as	48
+useful , but not as	439
+
+=== as < useful
+=== END

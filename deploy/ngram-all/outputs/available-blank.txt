@@ -1,0 +1,7 @@
+=== available > blank
+blank if not available	124
+blank if not available )	49
+blank if not available .	42
+
+=== available < blank
+=== END

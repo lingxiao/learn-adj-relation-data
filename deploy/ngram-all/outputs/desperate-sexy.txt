@@ -1,0 +1,8 @@
+=== desperate > sexy
+sexy but not desperate	126
+sexy but not desperate !	103
+sexy but not desperate	126
+sexy but not desperate !	103
+
+=== desperate < sexy
+=== END

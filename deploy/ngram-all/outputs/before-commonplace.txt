@@ -1,0 +1,6 @@
+=== before > commonplace
+commonplace and even before	70
+commonplace and even before the	69
+
+=== before < commonplace
+=== END

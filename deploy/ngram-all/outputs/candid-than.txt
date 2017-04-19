@@ -1,0 +1,6 @@
+=== candid > than
+than fully candid	134
+than fully candid about	45
+
+=== candid < than
+=== END

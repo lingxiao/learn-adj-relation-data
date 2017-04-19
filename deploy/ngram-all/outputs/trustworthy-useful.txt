@@ -1,0 +1,5 @@
+=== trustworthy > useful
+useful or even trustworthy	82
+
+=== trustworthy < useful
+=== END

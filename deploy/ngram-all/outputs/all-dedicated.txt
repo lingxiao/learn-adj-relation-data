@@ -1,0 +1,5 @@
+=== all > dedicated
+dedicated almost all of	71
+
+=== all < dedicated
+=== END

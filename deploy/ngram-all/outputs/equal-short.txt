@@ -1,0 +1,6 @@
+=== equal > short
+short if not equal	51
+short if not equal (	45
+
+=== equal < short
+=== END

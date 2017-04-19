@@ -1,0 +1,9 @@
+=== concerned > to
+
+=== concerned < to
+concerned , even to	51
+concerned , and even to	50
+concerned fully to	59
+concerned , but not to	108
+concerned , but not to	108
+=== END

@@ -1,0 +1,9 @@
+=== freezing > in
+
+=== freezing < in
+freezing , even in	340
+freezing even in summer	42
+freezing even in the	179
+freezing , even in the	175
+freezing even in the summer	47
+=== END

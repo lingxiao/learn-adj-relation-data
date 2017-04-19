@@ -1,0 +1,5 @@
+=== five > past
+past almost five years	63
+
+=== five < past
+=== END

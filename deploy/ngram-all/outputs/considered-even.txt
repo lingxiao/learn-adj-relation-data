@@ -1,0 +1,7 @@
+=== considered > even
+even though not considered	90
+even if not considered	43
+even if not considered	196
+
+=== considered < even
+=== END

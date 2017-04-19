@@ -1,0 +1,7 @@
+=== overwhelming > solid
+solid , if not overwhelming	40
+solid but not overwhelming	80
+solid but not overwhelming	80
+
+=== overwhelming < solid
+=== END

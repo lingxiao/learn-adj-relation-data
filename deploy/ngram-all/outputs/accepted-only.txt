@@ -1,0 +1,5 @@
+=== accepted > only
+only fully accepted	116
+
+=== accepted < only
+=== END

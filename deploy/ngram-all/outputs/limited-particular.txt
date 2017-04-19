@@ -1,0 +1,10 @@
+=== limited > particular
+particular but not limited	601
+particular , but not limited	753
+particular but not limited to	593
+particular but not limited	601
+particular , but not limited	753
+particular but not limited to	593
+
+=== limited < particular
+=== END

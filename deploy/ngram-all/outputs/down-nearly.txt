@@ -1,0 +1,6 @@
+=== down > nearly
+
+=== down < nearly
+down , but not nearly	80
+down , but not nearly	80
+=== END

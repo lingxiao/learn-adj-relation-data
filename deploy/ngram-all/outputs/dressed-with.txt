@@ -1,0 +1,7 @@
+=== dressed > with
+with fully dressed	177
+with fully dressed gal	63
+with fully dressed gal ,	63
+
+=== dressed < with
+=== END

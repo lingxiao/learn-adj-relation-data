@@ -1,0 +1,12 @@
+=== being > better
+better , but not being	66
+better , but not being	66
+
+=== being < better
+being even better !	102
+being even better ,	123
+being even better .	562
+being even better than	527
+being even better ! </s>	100
+being even better than the	188
+=== END

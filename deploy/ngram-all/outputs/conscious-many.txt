@@ -1,0 +1,6 @@
+=== conscious > many
+many fully conscious	66
+many fully conscious of	52
+
+=== conscious < many
+=== END

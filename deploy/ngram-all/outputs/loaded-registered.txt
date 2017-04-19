@@ -1,0 +1,6 @@
+=== loaded > registered
+registered , fully loaded	69
+registered , fully loaded ,	69
+
+=== loaded < registered
+=== END

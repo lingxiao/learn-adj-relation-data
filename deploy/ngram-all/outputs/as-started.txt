@@ -1,0 +1,11 @@
+=== as > started
+started almost as a	134
+started almost as soon	402
+started almost as a joke	53
+started almost as soon as	395
+started , even as	73
+started , but not as	69
+started , but not as	69
+
+=== as < started
+=== END

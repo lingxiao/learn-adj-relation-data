@@ -1,0 +1,6 @@
+=== possibly > yet
+
+=== possibly < yet
+possibly even yet another	45
+possibly even yet another ms	45
+=== END

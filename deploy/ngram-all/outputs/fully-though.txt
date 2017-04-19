@@ -1,0 +1,9 @@
+=== fully > though
+
+=== fully < though
+fully , even though	269
+fully , even though it	53
+fully even though	157
+fully , even though	269
+fully , even though it	53
+=== END

@@ -1,0 +1,5 @@
+=== pleasant > them
+them and even pleasant	40
+
+=== pleasant < them
+=== END

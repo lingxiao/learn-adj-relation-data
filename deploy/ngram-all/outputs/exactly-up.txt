@@ -1,0 +1,19 @@
+=== exactly > up
+up , almost exactly	63
+up almost exactly .	44
+up almost exactly as	55
+up almost exactly like	152
+up almost exactly the	193
+up almost exactly to	43
+up almost exactly where	249
+up almost exactly with	165
+up , almost exactly a	40
+up almost exactly like the	65
+up almost exactly the same	135
+up almost exactly where the	74
+up almost exactly with the	93
+up , but not exactly	50
+up , but not exactly	50
+
+=== exactly < up
+=== END

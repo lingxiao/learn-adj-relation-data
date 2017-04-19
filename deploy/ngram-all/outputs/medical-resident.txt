@@ -1,0 +1,5 @@
+=== medical > resident
+resident or even a medical	82
+
+=== medical < resident
+=== END

@@ -1,0 +1,6 @@
+=== harmful > irrelevant
+irrelevant and even harmful	60
+irrelevant or even harmful	111
+
+=== harmful < irrelevant
+=== END

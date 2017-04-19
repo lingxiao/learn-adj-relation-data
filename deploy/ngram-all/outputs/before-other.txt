@@ -1,0 +1,11 @@
+=== before > other
+other , even before	187
+other even before the	138
+other even before they	118
+other even before we	40
+other , even before they	50
+other , but not before	69
+other , but not before	69
+
+=== before < other
+=== END

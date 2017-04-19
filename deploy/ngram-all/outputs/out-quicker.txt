@@ -1,0 +1,6 @@
+=== out > quicker
+
+=== out < quicker
+out even quicker .	155
+out even quicker than	66
+=== END

@@ -1,0 +1,10 @@
+=== rude > strong
+strong but not rude	59
+strong , but not rude	117
+strong but not rude .	49
+strong but not rude	59
+strong , but not rude	117
+strong but not rude .	49
+
+=== rude < strong
+=== END

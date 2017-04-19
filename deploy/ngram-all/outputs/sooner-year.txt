@@ -1,0 +1,10 @@
+=== sooner > year
+year or even sooner	64
+year , or even sooner	45
+year if not sooner	381
+year , if not sooner	45
+year , if not sooner	801
+year if not sooner .	263
+
+=== sooner < year
+=== END

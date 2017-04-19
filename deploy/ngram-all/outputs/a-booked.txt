@@ -1,0 +1,16 @@
+=== a > booked
+booked almost a year	79
+booked almost a year in	50
+
+=== a < booked
+a fully booked	41
+a fully booked	1143
+a fully booked nhs	147
+a fully booked flight	75
+a fully booked hotel	41
+a fully booked or	49
+a fully booked restaurant	74
+a fully booked schedule	54
+a fully booked nhs </s>	66
+a fully booked or upcoming	45
+=== END

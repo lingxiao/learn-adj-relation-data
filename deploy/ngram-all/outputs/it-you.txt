@@ -1,0 +1,30 @@
+=== it > you
+you , even it	174
+you even it out	102
+you , even it it	66
+you even it out especially	40
+you , if not it	57
+not it just you	47
+
+=== it < you
+it , even you	422
+it even you ,	41
+it even you do	47
+it even you go	69
+it , and even you	41
+it , even you .	55
+it , even you can	54
+it even you do not	47
+it even you go to	68
+it if not you	172
+it , if not you	547
+it fully you	216
+it fully you have	40
+it fully you have to	40
+it but not you	162
+it , but not you	123
+it but not you ashanti	97
+it but not you	162
+it , but not you	123
+it but not you ashanti	97
+=== END

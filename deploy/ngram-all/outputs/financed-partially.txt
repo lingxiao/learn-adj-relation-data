@@ -1,0 +1,5 @@
+=== financed > partially
+partially or fully financed	48
+
+=== financed < partially
+=== END

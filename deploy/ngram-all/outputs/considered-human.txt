@@ -1,0 +1,7 @@
+=== considered > human
+
+=== considered < human
+considered fully human	299
+considered fully human ,	53
+considered fully human .	118
+=== END

@@ -1,0 +1,10 @@
+=== much > use
+use but not much	138
+use , but not much	112
+use but not much good	85
+use but not much	138
+use , but not much	112
+use but not much good	85
+
+=== much < use
+=== END

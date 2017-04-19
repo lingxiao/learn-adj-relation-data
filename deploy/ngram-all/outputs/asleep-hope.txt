@@ -1,0 +1,5 @@
+=== asleep > hope
+hope , almost asleep ;	45
+
+=== asleep < hope
+=== END

@@ -1,0 +1,6 @@
+=== human > killed
+
+=== human < killed
+human , even killed	65
+human , even killed because	65
+=== END

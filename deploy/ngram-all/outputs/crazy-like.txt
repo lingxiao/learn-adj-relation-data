@@ -1,0 +1,5 @@
+=== crazy > like
+
+=== crazy < like
+crazy , almost like	53
+=== END

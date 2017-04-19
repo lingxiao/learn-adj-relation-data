@@ -1,0 +1,6 @@
+=== exact > up
+up almost the exact	79
+up almost the exact same	59
+
+=== exact < up
+=== END

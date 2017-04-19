@@ -1,0 +1,6 @@
+=== enough > move
+move , but not enough	60
+move , but not enough	60
+
+=== enough < move
+=== END

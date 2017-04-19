@@ -1,0 +1,6 @@
+=== go > school
+school and even go	48
+school or even go	51
+
+=== go < school
+=== END

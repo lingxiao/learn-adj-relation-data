@@ -1,0 +1,10 @@
+=== nearly > work
+work but not nearly	65
+work , but not nearly	250
+work but not nearly as	55
+work but not nearly	65
+work , but not nearly	250
+work but not nearly as	55
+
+=== nearly < work
+=== END

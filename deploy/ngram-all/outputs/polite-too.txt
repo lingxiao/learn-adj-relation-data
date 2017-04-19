@@ -1,0 +1,6 @@
+=== polite > too
+
+=== polite < too
+polite but not too	56
+polite but not too	56
+=== END

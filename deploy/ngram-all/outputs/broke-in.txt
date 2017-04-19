@@ -1,0 +1,21 @@
+=== broke > in
+
+=== broke < in
+broke even in 2000	42
+broke even in 2001	47
+broke even in 2002	65
+broke even in 2003	79
+broke even in 2004	60
+broke even in december	79
+broke even in its	153
+broke even in my	68
+broke even in the	764
+broke even in december 2002	70
+broke even in its first	43
+broke even in the first	149
+broke even in the fourth	75
+broke even in the second	71
+broke even in the third	61
+not only broke but in	61
+not only broke but in	61
+=== END

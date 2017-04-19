@@ -1,0 +1,5 @@
+=== as > false
+false , even as	62
+
+=== as < false
+=== END

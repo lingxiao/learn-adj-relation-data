@@ -1,0 +1,5 @@
+=== all > debate
+debate , almost all	49
+
+=== all < debate
+=== END

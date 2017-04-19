@@ -1,0 +1,5 @@
+=== worrying > worth
+worth even worrying about	49
+
+=== worrying < worth
+=== END

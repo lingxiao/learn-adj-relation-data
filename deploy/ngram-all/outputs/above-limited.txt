@@ -1,0 +1,12 @@
+=== above > limited
+
+=== above < limited
+above , even limited	44
+above , even limited -	43
+above but not limited	53
+above , but not limited	63
+above but not limited to	45
+above but not limited	53
+above , but not limited	63
+above but not limited to	45
+=== END

@@ -1,0 +1,5 @@
+=== frustrated > most
+
+=== frustrated < most
+frustrated even the most	42
+=== END

@@ -1,0 +1,13 @@
+=== wait > you
+
+=== wait < you
+not you just wait	1581
+not you just wait ?	113
+not you just wait a	81
+not you just wait and	125
+not you just wait for	302
+not you just wait here	48
+not you just wait till	74
+not you just wait to	96
+not you just wait until	446
+=== END

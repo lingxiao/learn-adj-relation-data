@@ -1,0 +1,6 @@
+=== friends > lifelong
+
+=== friends < lifelong
+friends and even lifelong	86
+friends and even lifelong companions	85
+=== END

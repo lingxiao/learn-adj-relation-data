@@ -1,0 +1,8 @@
+=== all > messy
+messy but not all	119
+messy but not all bad	117
+messy but not all	119
+messy but not all bad	117
+
+=== all < messy
+=== END

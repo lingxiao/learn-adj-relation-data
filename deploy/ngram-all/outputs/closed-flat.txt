@@ -1,0 +1,6 @@
+=== closed > flat
+
+=== closed < flat
+closed almost flat tuesday	255
+closed almost flat tuesday ,	232
+=== END

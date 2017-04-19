@@ -1,0 +1,6 @@
+=== something > true
+true , but not something	44
+true , but not something	44
+
+=== something < true
+=== END

@@ -1,0 +1,8 @@
+=== enough > quality
+quality but not enough	54
+quality , but not enough	112
+quality but not enough	54
+quality , but not enough	112
+
+=== enough < quality
+=== END

@@ -1,0 +1,39 @@
+=== all > part
+part , almost all	191
+part almost all the	81
+part , almost all of	61
+part almost all the terms	61
+part , although not all	54
+part , though not all	158
+part or even all	734
+part , or even all	237
+part or even all of	668
+part if not all	858
+part , if not all	65
+part , if not all	2552
+part if not all of	670
+part if not all the	43
+part but not all	1887
+part , but not all	207
+part , but not all	3445
+part but not all of	1669
+part but not all the	50
+part but not all	1887
+part , but not all	207
+a part but not all	157
+part , but not all	3445
+part but not all of	1669
+part but not all the	50
+
+=== all < part
+all or even part	416
+all , or even part	136
+all or even a part	49
+all or even part of	398
+all but not part	115
+all , but not part	176
+all but not part of	86
+all but not part	115
+all , but not part	176
+all but not part of	86
+=== END

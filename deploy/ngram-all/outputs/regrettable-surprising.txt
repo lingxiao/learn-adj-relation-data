@@ -1,0 +1,8 @@
+=== regrettable > surprising
+
+=== regrettable < surprising
+regrettable but not surprising	55
+regrettable , but not surprising	57
+regrettable but not surprising	55
+regrettable , but not surprising	57
+=== END

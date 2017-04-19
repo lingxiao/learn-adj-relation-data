@@ -1,0 +1,10 @@
+=== but > third
+
+=== but < third
+but almost a third	104
+but almost a third	351
+but almost a third of	78
+but almost a third of	171
+but even a third	41
+but even the third	98
+=== END

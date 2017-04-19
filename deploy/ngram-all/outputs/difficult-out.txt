@@ -1,0 +1,5 @@
+=== difficult > out
+
+=== difficult < out
+difficult , if not out	44
+=== END

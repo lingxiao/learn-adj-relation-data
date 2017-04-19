@@ -1,0 +1,8 @@
+=== in > palpable
+palpable , even in	45
+palpable even in places	43
+palpable even in the	48
+palpable even in places still	43
+
+=== in < palpable
+=== END

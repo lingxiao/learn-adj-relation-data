@@ -1,0 +1,6 @@
+=== a > rank
+rank but not a	52
+a rank but not a	40
+
+=== a < rank
+=== END

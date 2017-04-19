@@ -1,0 +1,151 @@
+=== before > that
+that , almost before	101
+that almost before the	69
+that , even before	4936
+that even before ,	93
+that even before 11	41
+that even before 9	103
+that even before </s>	193
+that even before god	42
+that even before hurricane	84
+that even before i	1347
+that even before katrina	140
+that even before novak	71
+that even before sep	57
+that even before sept .	69
+that even before september	200
+that even before world	42
+that even before a	316
+that even before all	75
+that even before an	56
+that even before any	108
+that even before being	64
+that even before birth	68
+that even before children	68
+that even before going	55
+that even before he	873
+that even before her	117
+that even before his	300
+that even before i	102
+that even before it	301
+that even before its	132
+that even before knowing	98
+that even before last	50
+that even before my	111
+that even before our	106
+that even before she	281
+that even before such	52
+that even before taking	45
+that even before that	335
+that even before the	8547
+that even before their	101
+that even before then	58
+that even before there	99
+that even before these	128
+that even before they	603
+that even before this	637
+that even before we	621
+that even before wert	41
+that even before you	616
+that even before your	81
+that , even before </s>	63
+that , even before i	217
+that , even before katrina	49
+that , even before a	43
+that , even before any	45
+that , even before being	42
+that , even before he	141
+that , even before his	80
+that , even before it	123
+that , even before its	40
+that , even before she	43
+that , even before the	2080
+that , even before they	117
+that , even before this	103
+that , even before we	103
+that , even before you	69
+that even before 11 september	40
+that even before 9 /	103
+that even before hurricane katrina	73
+that even before i got	49
+that even before i graduated	58
+that even before i had	141
+that even before i knew	134
+that even before i learned	40
+that even before i met	48
+that even before i read	60
+that even before i started	41
+that even before i was	93
+that even before katrina ,	91
+that even before novak ' s	71
+that even before sep 11th	56
+that even before sept . 11	67
+that even before september 11	149
+that even before september 11th	44
+that even before world war	42
+that even before all of	41
+that even before going to	51
+that even before he became	49
+that even before he died	56
+that even before he had	50
+that even before he signed	40
+that even before he was	120
+that even before it was	91
+that even before knowing someone	87
+that even before that ,	68
+that even before the "	43
+that even before the </s>	126
+that even before the advent	69
+that even before the bombing	43
+that even before the broadly	50
+that even before the creation	63
+that even before the current	51
+that even before the data	41
+that even before the election	103
+that even before the enactment	42
+that even before the end	112
+that even before the establishment	47
+that even before the events	48
+that even before the fall	41
+that even before the first	171
+that even before the glaciers	57
+that even before the hurricane	55
+that even before the ink	41
+that even before the new	102
+that even before the recent	78
+that even before the revelation	77
+that even before the time	55
+that even before the war	269
+that even before there was	58
+that even before these new	46
+that even before they ' ve	40
+that even before they had	57
+that even before they were	60
+that even before this latest	43
+that even before we got	55
+that even before we were	41
+that even before wert held	41
+that even before you get	71
+that even before you start	44
+that , if not before	54
+that but not before	48
+that , but not before	267
+that but not before	48
+that , but not before	267
+
+=== before < that
+before , even that	74
+before and even that	49
+before even that ,	123
+before even that .	76
+before even that would	78
+before or even that	43
+before , and even that	44
+before , or even that	70
+before even that would come	76
+before but not that	110
+before , but not that	252
+not that just before	40
+before but not that	110
+before , but not that	252
+=== END

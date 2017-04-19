@@ -1,0 +1,6 @@
+=== considered > found
+
+=== considered < found
+considered but not found	42
+considered but not found	42
+=== END

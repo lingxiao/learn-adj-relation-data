@@ -1,0 +1,14 @@
+=== dark > that
+that even a dark	79
+that even the dark	40
+that even the dark	131
+that even a dark -	64
+
+=== dark < that
+dark but not that	78
+dark , but not that	79
+dark but not that short	52
+dark but not that	78
+dark , but not that	79
+dark but not that short	52
+=== END

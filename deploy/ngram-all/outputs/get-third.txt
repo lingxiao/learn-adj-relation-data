@@ -1,0 +1,8 @@
+=== get > third
+
+=== get < third
+get almost a third	70
+get almost a third of	61
+get even a third	75
+get even a third of	64
+=== END

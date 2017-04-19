@@ -1,0 +1,5 @@
+=== start > working
+
+=== start < working
+start fully working	42
+=== END

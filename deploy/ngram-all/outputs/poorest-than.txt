@@ -1,0 +1,5 @@
+=== poorest > than
+than even the poorest	101
+
+=== poorest < than
+=== END

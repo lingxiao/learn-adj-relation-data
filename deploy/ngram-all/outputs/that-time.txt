@@ -1,0 +1,26 @@
+=== that > time
+time , even that	325
+time and even that	148
+time or even that	79
+time , and even that	325
+time , even that is	77
+time , or even that	164
+time but not that	135
+time , but not that	464
+time but not that	135
+time , but not that	464
+
+=== that < time
+that even a time	50
+that even the time	360
+that even time -	71
+that even time can	103
+that even time is	47
+that even time well	41
+that even time will	212
+that even the time spent	114
+that even the time which	70
+that even time can not	96
+that even time well spent	41
+that even time will lie	161
+=== END

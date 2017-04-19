@@ -1,0 +1,6 @@
+=== human > you
+you even human ?	100
+you even human ? </s>	92
+
+=== human < you
+=== END

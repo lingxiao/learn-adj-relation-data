@@ -1,0 +1,7 @@
+=== a > focused
+
+=== a < focused
+a fully focused	321
+a fully focused and	59
+a fully focused and highly	46
+=== END

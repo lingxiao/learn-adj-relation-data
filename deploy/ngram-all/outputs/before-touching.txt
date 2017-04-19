@@ -1,0 +1,7 @@
+=== before > touching
+
+=== before < touching
+before even touching a	48
+before even touching the	243
+before even touching your	53
+=== END

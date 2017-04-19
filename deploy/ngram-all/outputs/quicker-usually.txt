@@ -1,0 +1,5 @@
+=== quicker > usually
+usually even quicker .	80
+
+=== quicker < usually
+=== END

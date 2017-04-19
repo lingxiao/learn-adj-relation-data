@@ -1,0 +1,5 @@
+=== eventually > sooner
+
+=== eventually < sooner
+eventually , if not sooner	50
+=== END

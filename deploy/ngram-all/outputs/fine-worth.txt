@@ -1,0 +1,6 @@
+=== fine > worth
+
+=== fine < worth
+fine , but not worth	92
+fine , but not worth	92
+=== END

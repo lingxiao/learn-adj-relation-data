@@ -1,0 +1,9 @@
+=== infected > though
+
+=== infected < though
+infected , even though	256
+infected even though the	42
+infected even though they	92
+infected even though you	40
+infected , even though they	48
+=== END

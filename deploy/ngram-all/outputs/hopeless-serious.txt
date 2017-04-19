@@ -1,0 +1,25 @@
+=== hopeless > serious
+serious but not hopeless	129
+serious , but not hopeless	49
+serious but not hopeless .	55
+serious but not hopeless	129
+serious , but not hopeless	49
+serious but not hopeless .	55
+
+=== hopeless < serious
+hopeless but not serious	97
+hopeless but not serious	81
+hopeless , but not serious	113
+hopeless , but not serious	75
+hopeless but not serious </s>	40
+hopeless , but not serious	118
+hopeless but not serious .	86
+hopeless but not serious	97
+hopeless but not serious	81
+hopeless but not serious	156
+hopeless , but not serious	113
+hopeless , but not serious	75
+hopeless but not serious </s>	40
+hopeless , but not serious	118
+hopeless but not serious .	86
+=== END

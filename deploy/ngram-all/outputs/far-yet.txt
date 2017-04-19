@@ -1,0 +1,8 @@
+=== far > yet
+yet but not far	54
+yet , but not far	94
+yet but not far	54
+yet , but not far	94
+
+=== far < yet
+=== END

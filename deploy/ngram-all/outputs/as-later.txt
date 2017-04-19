@@ -1,0 +1,15 @@
+=== as > later
+later , almost as	204
+later , almost as a	45
+later , almost as an	55
+later , almost as if	56
+later , even as	113
+later , even as	606
+later , even as an	50
+later , even as the	188
+later , even as we	72
+later , but not as	156
+later , but not as	156
+
+=== as < later
+=== END

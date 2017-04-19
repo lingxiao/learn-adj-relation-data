@@ -1,0 +1,9 @@
+=== anywhere > do
+do almost anywhere ,	363
+do almost anywhere .	140
+do almost anywhere and	58
+do almost anywhere , anytime	40
+do almost anywhere , anytime.even	286
+
+=== anywhere < do
+=== END

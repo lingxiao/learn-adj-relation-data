@@ -1,0 +1,9 @@
+=== close > far
+close or very far	172
+close or very far away	82
+close or very far from	44
+
+=== close < far
+close but not far	57
+close but not far	57
+=== END

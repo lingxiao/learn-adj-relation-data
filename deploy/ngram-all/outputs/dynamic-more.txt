@@ -1,0 +1,5 @@
+=== dynamic > more
+
+=== dynamic < more
+dynamic and even more	66
+=== END

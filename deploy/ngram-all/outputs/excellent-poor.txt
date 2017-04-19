@@ -1,0 +1,6 @@
+=== excellent > poor
+
+=== excellent < poor
+excellent or even poor	150
+excellent or even poor credit	150
+=== END

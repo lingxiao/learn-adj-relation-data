@@ -1,0 +1,8 @@
+=== going > work
+work , even going	88
+work and even going	87
+work , even going so	49
+work and even going without	65
+
+=== going < work
+=== END

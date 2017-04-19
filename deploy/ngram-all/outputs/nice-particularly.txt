@@ -1,0 +1,8 @@
+=== nice > particularly
+
+=== nice < particularly
+nice but not particularly	138
+nice , but not particularly	149
+nice but not particularly	138
+nice , but not particularly	149
+=== END

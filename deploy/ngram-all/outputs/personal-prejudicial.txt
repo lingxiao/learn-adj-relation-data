@@ -1,0 +1,11 @@
+=== personal > prejudicial
+
+=== personal < prejudicial
+personal but not prejudicial	66
+personal but not prejudicial	69
+personal but not prejudicial interest	42
+personal but not prejudicial	66
+personal but not prejudicial	69
+a personal but not prejudicial	41
+personal but not prejudicial interest	42
+=== END

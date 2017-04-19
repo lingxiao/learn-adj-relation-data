@@ -1,0 +1,12 @@
+=== any > most
+most or even any	69
+most , or even any	79
+most or even any of	42
+most if not any	56
+most , if not any	49
+
+=== any < most
+any , even most	44
+any , even the most	836
+any , if not most	61
+=== END

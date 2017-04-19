@@ -1,0 +1,5 @@
+=== hot > long
+hot , or very long	73
+
+=== hot < long
+=== END

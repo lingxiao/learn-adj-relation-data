@@ -1,0 +1,15 @@
+=== sure > this
+this but not sure	494
+this , but not sure	509
+this but not sure how	118
+this but not sure if	141
+this but not sure	494
+this , but not sure	509
+this but not sure how	118
+this but not sure if	141
+
+=== sure < this
+sure , even this	48
+sure , but not this	95
+sure , but not this	95
+=== END

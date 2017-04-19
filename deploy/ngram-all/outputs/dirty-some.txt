@@ -1,0 +1,7 @@
+=== dirty > some
+some outright dirty	64
+some outright dirty fun	63
+some outright dirty fun ,	63
+
+=== dirty < some
+=== END

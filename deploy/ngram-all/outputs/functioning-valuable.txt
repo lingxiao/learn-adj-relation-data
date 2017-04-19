@@ -1,0 +1,7 @@
+=== functioning > valuable
+valuable fully functioning	53
+valuable fully functioning scripts	53
+valuable fully functioning scripts to	53
+
+=== functioning < valuable
+=== END

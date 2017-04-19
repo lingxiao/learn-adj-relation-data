@@ -1,0 +1,6 @@
+=== directly > understood
+understood though not directly	56
+understood though not directly expressed	40
+
+=== directly < understood
+=== END

@@ -1,0 +1,5 @@
+=== asleep > dressed
+
+=== asleep < dressed
+asleep fully dressed	73
+=== END

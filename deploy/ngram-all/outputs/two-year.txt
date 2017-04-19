@@ -1,0 +1,27 @@
+=== two > year
+year , almost two	803
+year almost two years	72
+year and almost two	88
+year , almost two -	125
+year , almost two and	197
+year , almost two million	114
+year , almost two thirds	47
+year , almost two thousand	95
+year , almost two years	85
+year , and almost two	89
+year almost two years two	71
+year , even two	150
+year or even two	1121
+year , even two years	87
+year , or even two	427
+year or even two ,	78
+year or even two .	193
+year or even two to	77
+year or even two until	45
+year or even two years	386
+year if not two	143
+year , if not two	180
+year if not two .	62
+
+=== two < year
+=== END

@@ -1,0 +1,6 @@
+=== minimum > more
+
+=== minimum < more
+minimum , but not more	55
+minimum , but not more	55
+=== END

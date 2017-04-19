@@ -1,0 +1,11 @@
+=== at > soon
+soon , or even at	52
+soon , if not at	51
+at or very soon	58
+at , or very soon	40
+at or very soon after	58
+soon , but not at	95
+soon , but not at	95
+
+=== at < soon
+=== END

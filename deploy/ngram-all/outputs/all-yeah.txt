@@ -1,0 +1,14 @@
+=== all > yeah
+yeah , almost all	158
+yeah , almost all	47
+yeah , almost all of	82
+yeah , almost all these	43
+yeah but not all	47
+yeah , but not all	130
+yeah , but not all	63
+yeah but not all	47
+yeah , but not all	130
+yeah , but not all	63
+
+=== all < yeah
+=== END

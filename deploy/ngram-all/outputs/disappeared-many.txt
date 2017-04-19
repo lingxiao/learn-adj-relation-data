@@ -1,0 +1,6 @@
+=== disappeared > many
+many even disappeared from	43
+many even disappeared from their	43
+
+=== disappeared < many
+=== END

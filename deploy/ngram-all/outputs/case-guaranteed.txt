@@ -1,0 +1,8 @@
+=== case > guaranteed
+
+=== case < guaranteed
+case , fully guaranteed	81
+case , fully guaranteed	53
+case , fully guaranteed !	76
+case , fully guaranteed ,	53
+=== END

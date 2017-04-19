@@ -1,0 +1,9 @@
+=== as > happy
+happy , almost as	45
+happy , even as	170
+happy even as they	56
+happy , but not as	372
+happy , but not as	372
+
+=== as < happy
+=== END

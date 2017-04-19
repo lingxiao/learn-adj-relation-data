@@ -1,0 +1,14 @@
+=== heard > to
+to or even heard	93
+to , or even heard	41
+to or even heard of	78
+to but not heard	49
+to but not heard	49
+
+=== heard < to
+heard , even to this	44
+heard even to the outer	330
+heard , but not to	111
+heard but not to	55
+heard , but not to	111
+=== END

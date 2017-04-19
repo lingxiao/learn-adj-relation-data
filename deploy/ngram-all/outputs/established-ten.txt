@@ -1,0 +1,6 @@
+=== established > ten
+
+=== established < ten
+established almost ten years	63
+established almost ten years ago	56
+=== END

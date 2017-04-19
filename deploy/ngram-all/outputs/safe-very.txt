@@ -1,0 +1,10 @@
+=== safe > very
+
+=== safe < very
+safe but not very	73
+safe , but not very	99
+safe but not very	73
+safe , but not very	99
+safe but not very	73
+safe , but not very	99
+=== END

@@ -1,0 +1,7 @@
+=== more > prescribed
+
+=== more < prescribed
+more fully prescribed	70
+more fully prescribed under	45
+more fully prescribed under section	44
+=== END

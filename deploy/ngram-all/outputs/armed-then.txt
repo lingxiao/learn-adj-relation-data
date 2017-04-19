@@ -1,0 +1,5 @@
+=== armed > then
+then fully armed	50
+
+=== armed < then
+=== END

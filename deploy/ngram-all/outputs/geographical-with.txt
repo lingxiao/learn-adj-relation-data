@@ -1,0 +1,7 @@
+=== geographical > with
+with fully geographical	72
+with fully geographical names	72
+with fully geographical names .	72
+
+=== geographical < with
+=== END

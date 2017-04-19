@@ -1,0 +1,5 @@
+=== enjoyable > possible
+possible and even enjoyable	57
+
+=== enjoyable < possible
+=== END

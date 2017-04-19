@@ -1,0 +1,9 @@
+=== accurate > with
+with fully accurate	79
+
+=== accurate < with
+accurate , even with	262
+accurate even with the	46
+accurate , even with older	47
+accurate , even with the	40
+=== END

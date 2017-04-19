@@ -1,0 +1,5 @@
+=== elementary > middle
+middle and even elementary	41
+
+=== elementary < middle
+=== END

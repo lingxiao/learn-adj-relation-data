@@ -1,0 +1,6 @@
+=== many > problem
+problem , but not many	48
+problem , but not many	48
+
+=== many < problem
+=== END

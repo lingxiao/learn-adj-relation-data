@@ -1,0 +1,5 @@
+=== daunting > off
+
+=== daunting < off
+daunting , and even off	107
+=== END

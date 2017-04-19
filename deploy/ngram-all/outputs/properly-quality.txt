@@ -1,0 +1,5 @@
+=== properly > quality
+quality if not properly	56
+
+=== properly < quality
+=== END

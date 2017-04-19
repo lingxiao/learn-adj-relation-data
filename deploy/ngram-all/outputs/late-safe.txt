@@ -1,0 +1,8 @@
+=== late > safe
+safe , even late	140
+safe even late at	85
+safe , even late at	137
+safe even late at night	85
+
+=== late < safe
+=== END

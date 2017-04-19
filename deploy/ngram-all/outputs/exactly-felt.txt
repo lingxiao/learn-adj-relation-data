@@ -1,0 +1,5 @@
+=== exactly > felt
+felt almost exactly the same	53
+
+=== exactly < felt
+=== END

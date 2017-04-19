@@ -1,0 +1,9 @@
+=== before > born
+born , even before	154
+born and even before	78
+born even before the	42
+born , and even before	93
+born , if not before	56
+
+=== before < born
+=== END

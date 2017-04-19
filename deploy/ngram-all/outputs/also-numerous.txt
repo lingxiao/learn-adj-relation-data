@@ -1,0 +1,6 @@
+=== also > numerous
+not only numerous but also	61
+not only numerous but also	61
+
+=== also < numerous
+=== END

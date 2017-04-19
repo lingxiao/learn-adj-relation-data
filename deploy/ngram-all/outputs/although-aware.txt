@@ -1,0 +1,13 @@
+=== although > aware
+
+=== although < aware
+although fully aware	272
+although fully aware	376
+although fully aware of	216
+although fully aware that	50
+although fully aware of	242
+although fully aware that	112
+although fully aware of the	121
+although fully aware of the	169
+although fully aware that he	49
+=== END

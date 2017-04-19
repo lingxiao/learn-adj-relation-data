@@ -1,0 +1,6 @@
+=== found > suspected
+suspected but not found	60
+suspected but not found	60
+
+=== found < suspected
+=== END

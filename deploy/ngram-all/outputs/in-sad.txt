@@ -1,0 +1,8 @@
+=== in > sad
+sad , even in	77
+sad even in their	42
+sad , but not in	73
+sad , but not in	73
+
+=== in < sad
+=== END

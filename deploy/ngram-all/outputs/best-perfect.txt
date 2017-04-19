@@ -1,0 +1,5 @@
+=== best > perfect
+
+=== best < perfect
+not perfect but still best	47
+=== END

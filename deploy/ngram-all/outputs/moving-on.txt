@@ -1,0 +1,8 @@
+=== moving > on
+on even moving subjects	49
+on even moving subjects .	49
+
+=== moving < on
+moving , even on	58
+moving even on the	93
+=== END

@@ -1,0 +1,8 @@
+=== accessible > yet
+yet fully accessible	331
+yet fully accessible ,	42
+yet fully accessible .	99
+yet fully accessible to	90
+
+=== accessible < yet
+=== END

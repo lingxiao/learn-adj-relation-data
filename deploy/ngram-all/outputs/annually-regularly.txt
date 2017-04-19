@@ -1,0 +1,6 @@
+=== annually > regularly
+regularly , but not annually	67
+regularly , but not annually	67
+
+=== annually < regularly
+=== END

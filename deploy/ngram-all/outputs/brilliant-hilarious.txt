@@ -1,0 +1,6 @@
+=== brilliant > hilarious
+hilarious and outright brilliant	40
+hilarious and outright brilliant .	40
+
+=== brilliant < hilarious
+=== END

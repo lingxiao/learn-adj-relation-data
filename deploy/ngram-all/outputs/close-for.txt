@@ -1,0 +1,14 @@
+=== close > for
+for almost close to	49
+for even close to	369
+for even close to that	182
+for even close to the	46
+for even close to this	40
+
+=== close < for
+close , even for	121
+close if not for	104
+close if not for that	51
+close , but not for	51
+close , but not for	51
+=== END

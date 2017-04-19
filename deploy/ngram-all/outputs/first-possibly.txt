@@ -1,0 +1,7 @@
+=== first > possibly
+possibly even a first	47
+possibly even the first	228
+possibly even the first )	57
+
+=== first < possibly
+=== END

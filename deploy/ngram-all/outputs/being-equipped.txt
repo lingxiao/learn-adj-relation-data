@@ -1,0 +1,14 @@
+=== being > equipped
+
+=== being < equipped
+being fully equipped	67
+being fully equipped	890
+being fully equipped ,	61
+being fully equipped .	51
+being fully equipped and	62
+being fully equipped for	94
+being fully equipped to	221
+being fully equipped with	283
+being fully equipped to ensure	71
+being fully equipped to modified	41
+=== END

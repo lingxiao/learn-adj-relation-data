@@ -1,0 +1,6 @@
+=== dangerous > distracting
+distracting and even dangerous	81
+distracting and even dangerous when	70
+
+=== dangerous < distracting
+=== END

@@ -1,0 +1,7 @@
+=== funnier > something
+something even funnier .	58
+something even funnier ?	61
+something even funnier ? </s>	59
+
+=== funnier < something
+=== END

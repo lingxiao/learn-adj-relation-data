@@ -1,0 +1,6 @@
+=== absolutely > likely
+likely , but not absolutely	67
+likely , but not absolutely	67
+
+=== absolutely < likely
+=== END

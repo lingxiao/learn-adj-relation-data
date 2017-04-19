@@ -1,0 +1,10 @@
+=== obliged > willing
+willing but not obliged	128
+willing , but not obliged	47
+willing but not obliged to	122
+willing but not obliged	128
+willing , but not obliged	47
+willing but not obliged to	122
+
+=== obliged < willing
+=== END

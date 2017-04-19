@@ -1,0 +1,7 @@
+=== specified > time
+time if not specified	505
+time if not specified )	277
+time if not specified ,	176
+
+=== specified < time
+=== END

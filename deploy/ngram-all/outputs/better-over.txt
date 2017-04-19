@@ -1,0 +1,9 @@
+=== better > over
+over , even better	60
+over even better .	45
+over even better than	42
+
+=== better < over
+better , but not over	71
+better , but not over	71
+=== END

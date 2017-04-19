@@ -1,0 +1,29 @@
+=== to > way
+way , almost to	117
+way almost to the	324
+way , almost to the	71
+way , though not to	40
+way , even to	41
+way , even to	1230
+way and even to	130
+way even to a	66
+way even to begin	72
+way even to the	388
+way or even to	130
+way , and even to	148
+way , even to the	691
+way , or even to	315
+way even to begin to	62
+way if not to	41
+way , if not to	183
+way fully to	134
+way but not to	189
+way , but not to	1770
+way but not to repet	50
+way but not to	189
+way , but not to	1770
+way but not to repet	50
+
+=== to < way
+to even the way	75
+=== END

@@ -1,0 +1,5 @@
+=== luck > then
+
+=== luck < then
+luck , if not then	42
+=== END

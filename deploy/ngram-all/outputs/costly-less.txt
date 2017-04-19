@@ -1,0 +1,5 @@
+=== costly > less
+
+=== costly < less
+costly , if not less	50
+=== END

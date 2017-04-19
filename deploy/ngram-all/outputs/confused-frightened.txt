@@ -1,0 +1,7 @@
+=== confused > frightened
+
+=== confused < frightened
+confused , almost frightened	51
+confused , almost frightened when	40
+confused and even frightened	45
+=== END

@@ -1,0 +1,5 @@
+=== insignificant > that
+that even an insignificant	44
+
+=== insignificant < that
+=== END

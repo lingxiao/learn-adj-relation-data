@@ -1,0 +1,6 @@
+=== good > phenomenal
+
+=== good < phenomenal
+good , but not phenomenal	55
+good , but not phenomenal	55
+=== END

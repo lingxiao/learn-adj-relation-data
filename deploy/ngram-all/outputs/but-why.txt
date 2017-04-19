@@ -1,0 +1,8 @@
+=== but > why
+
+=== but < why
+but if not why	128
+but if not why not	46
+but if not why	128
+but if not why not	46
+=== END

@@ -1,0 +1,7 @@
+=== in > winning
+winning , even in	46
+winning outright in	110
+winning outright in the	42
+
+=== in < winning
+=== END

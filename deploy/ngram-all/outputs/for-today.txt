@@ -1,0 +1,37 @@
+=== for > today
+today , even for	845
+today , even for a	59
+today , even for ailments	103
+today , even for terminally	61
+today , even for the	213
+not only today but for	282
+today if not for	2804
+today , if not for	296
+today if not for a	89
+today if not for her	72
+today if not for him	53
+today if not for his	90
+today if not for my	59
+today if not for one	47
+today if not for our	40
+today if not for that	89
+today if not for the	1092
+today if not for them	53
+today if not for this	98
+today if not for those	46
+today if not for you	59
+not just today but for	249
+today but not for	108
+today , but not for	377
+today but not for	108
+not just today but for	249
+not only today but for	282
+today , but not for	377
+
+=== for < today
+for even today ,	48
+for , even today	46
+for even today ' s	105
+for even today ,	68
+for even today .	90
+=== END

@@ -1,0 +1,6 @@
+=== deepest > that
+that even the deepest	296
+that even the deepest defenses	40
+
+=== deepest < that
+=== END

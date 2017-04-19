@@ -1,0 +1,7 @@
+=== best > time
+time even the best	225
+time , even the best	251
+time even the best of	43
+
+=== best < time
+=== END

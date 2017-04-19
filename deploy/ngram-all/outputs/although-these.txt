@@ -1,0 +1,9 @@
+=== although > these
+
+=== although < these
+although even these are	163
+although even these can	57
+although even these have	65
+although even these may	67
+although even these were	71
+=== END

@@ -1,0 +1,13 @@
+=== better > enough
+enough , even better	40
+
+=== better < enough
+better but not enough	228
+better , but not enough	444
+better but not enough .	53
+better but not enough to	91
+better but not enough	228
+better , but not enough	444
+better but not enough .	53
+better but not enough to	91
+=== END

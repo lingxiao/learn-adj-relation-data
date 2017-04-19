@@ -1,0 +1,7 @@
+=== comparable > more
+
+=== comparable < more
+comparable or even more	119
+comparable if not more	68
+comparable , if not more	117
+=== END

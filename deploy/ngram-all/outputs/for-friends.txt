@@ -1,0 +1,15 @@
+=== for > friends
+friends , even for	124
+friends and even for	68
+friends or even for	160
+friends , and even for	80
+friends , or even for	87
+friends or even for you	41
+friends if not for	76
+friends but not for	92
+friends , but not for	292
+friends but not for	92
+friends , but not for	292
+
+=== for < friends
+=== END

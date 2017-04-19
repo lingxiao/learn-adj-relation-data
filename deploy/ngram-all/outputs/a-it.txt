@@ -1,0 +1,174 @@
+=== a > it
+it almost a century	128
+it almost a certainty	176
+it almost a crime	69
+it almost a decade	177
+it almost a dozen	64
+it almost a duty	72
+it almost a foot	48
+it almost a foregone	44
+it almost a full	98
+it almost a given	46
+it almost a hundred	47
+it almost a matter	44
+it almost a mile	46
+it almost a miracle	61
+it almost a month	465
+it almost a must	48
+it almost a necessity	168
+it almost a new	89
+it almost a no	69
+it almost a non	41
+it almost a perfect	43
+it almost a personal	40
+it almost a pleasure	266
+it almost a point	77
+it almost a relief	52
+it almost a religious	54
+it almost a requirement	40
+it almost a third	136
+it almost a week	310
+it almost a year	2327
+it , almost a year	78
+it almost a century ago	71
+it almost a certainty that	139
+it almost a crime to	41
+it almost a decade ago	132
+it almost a dozen times	58
+it almost a duty to	60
+it almost a foregone conclusion	44
+it almost a matter of	42
+it almost a month ago	162
+it almost a month now	92
+it almost a necessity to	106
+it almost a no -	45
+it almost a pleasure to	258
+it almost a point of	66
+it almost a third of	124
+it almost a week ago	91
+it almost a year ,	85
+it almost a year .	79
+it almost a year after	40
+it almost a year ago	1505
+it almost a year and	144
+it almost a year before	51
+it almost a year later	108
+it almost a year now	107
+it even a little	47
+it even a better	276
+it even a big	49
+it even a bigger	77
+it even a bit	425
+it even a child	81
+it even a choice	41
+it even a coherent	499
+it even a couple	45
+it even a day	74
+it even a direct	65
+it even a few	205
+it even a fraction	55
+it even a freedom	54
+it even a game	44
+it even a good	404
+it even a greater	68
+it even a kerosene	142
+it even a little	1438
+it even a matter	51
+it even a minute	70
+it even a moment	52
+it even a more	192
+it even a negative	84
+it even a passing	156
+it even a playable	46
+it even a possibility	152
+it even a problem	129
+it even a question	201
+it even a real	136
+it even a remote	53
+it even a second	41
+it even a single	70
+it even a small	64
+it even a step	529
+it even a tad	43
+it even a tiny	40
+it even a useful	54
+it even a word	166
+it even a year	81
+it , even a child	44
+it , even a few	62
+it , even a half	49
+it , even a little	464
+it , even a memorial	298
+it , even a single	48
+it , even a small	93
+it even a little bit	46
+it and even a few	64
+it and even a nervous	52
+it even a better deal	40
+it even a bit ,	41
+it even a bit .	47
+it even a bit further	40
+it even a bit more	98
+it even a child .	66
+it even a coherent philosophy	494
+it even a direct criticism	63
+it even a freedom ?	54
+it even a good choice	48
+it even a good idea	214
+it even a kerosene lamp	142
+it even a little ,	123
+it even a little .	114
+it even a little bit	468
+it even a little further	41
+it even a little more	172
+it even a matter of	47
+it even a minute longer	58
+it even a moment ' s	42
+it even a negative one	77
+it even a passing thought	120
+it even a playable frame	46
+it even a possibility ?	74
+it even a problem ?	66
+it even a question ?	85
+it even a question of	57
+it even a remote possibility	49
+it even a step further	488
+it even a word ?	124
+it or even a photo	66
+it fully a	122
+it but not a lot	142
+it but not a whole	45
+it but not a	834
+it , but not a	2098
+it but not a lot	142
+it but not a whole	45
+
+=== a < it
+a fully it	79
+not it just a saddlebag	108
+not it just a big	65
+not it just a bit	427
+not it just a bitch	86
+not it just a bunch	98
+not it just a case	128
+not it just a charade	51
+not it just a couple	208
+not it just a crystal	96
+not it just a dream	51
+not it just a few	807
+not it just a game	55
+not it just a little	1004
+not it just a lovely	387
+not it just a matter	739
+not it just a month	57
+not it just a question	107
+not it just a real	83
+not it just a rip	129
+not it just a short	64
+not it just a tad	191
+not it just a waste	65
+not it just a way	104
+not it just a wee	73
+not it just a week	55
+not it just a year	94
+=== END

@@ -1,0 +1,6 @@
+=== intact > us
+us fully intact	69
+us fully intact .	66
+
+=== intact < us
+=== END

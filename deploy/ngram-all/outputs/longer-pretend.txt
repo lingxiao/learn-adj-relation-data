@@ -1,0 +1,7 @@
+=== longer > pretend
+
+=== longer < pretend
+longer even pretend that	82
+longer even pretend to	336
+longer even pretend to be	93
+=== END

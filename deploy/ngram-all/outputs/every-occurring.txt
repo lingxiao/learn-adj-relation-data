@@ -1,0 +1,8 @@
+=== every > occurring
+occurring almost every day	170
+occurring almost every night	43
+occurring almost every year	40
+occurring almost every day .	85
+
+=== every < occurring
+=== END

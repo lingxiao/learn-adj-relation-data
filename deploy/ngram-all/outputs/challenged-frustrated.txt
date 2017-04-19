@@ -1,0 +1,10 @@
+=== challenged > frustrated
+
+=== challenged < frustrated
+challenged but not frustrated	69
+challenged , but not frustrated	40
+challenged but not frustrated .	46
+challenged but not frustrated	69
+challenged , but not frustrated	40
+challenged but not frustrated .	46
+=== END

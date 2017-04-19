@@ -1,0 +1,5 @@
+=== linked > now
+now fully linked	90
+
+=== linked < now
+=== END

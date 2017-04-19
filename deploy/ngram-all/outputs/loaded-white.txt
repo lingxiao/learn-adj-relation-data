@@ -1,0 +1,11 @@
+=== loaded > white
+white fully loaded	93
+white fully loaded lo	88
+white , fully loaded	74
+white , fully loaded	115
+white fully loaded lo mile	88
+white , fully loaded ,	61
+white , fully loaded ,	99
+
+=== loaded < white
+=== END

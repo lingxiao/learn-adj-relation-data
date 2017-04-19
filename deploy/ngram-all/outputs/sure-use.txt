@@ -1,0 +1,11 @@
+=== sure > use
+use but not sure	56
+use , but not sure	50
+not sure just use	74
+not sure , just use	58
+not sure just use the	63
+use but not sure	56
+use , but not sure	50
+
+=== sure < use
+=== END

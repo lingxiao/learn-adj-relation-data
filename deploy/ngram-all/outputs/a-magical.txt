@@ -1,0 +1,5 @@
+=== a > magical
+
+=== a < magical
+a fully magical	40
+=== END

@@ -1,0 +1,5 @@
+=== booked > practically
+practically fully booked	46
+
+=== booked < practically
+=== END

@@ -1,0 +1,5 @@
+=== equally > many
+many , if not equally	40
+
+=== equally < many
+=== END

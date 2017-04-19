@@ -1,0 +1,17 @@
+=== enough > then
+then but not enough	70
+then , but not enough	191
+then but not enough to	50
+then but not enough	70
+then , but not enough	191
+then but not enough to	50
+
+=== enough < then
+enough , even then	99
+enough and even then	45
+enough even then ,	41
+enough even then .	58
+enough even then to	67
+enough , and even then	56
+enough , even then ,	42
+=== END

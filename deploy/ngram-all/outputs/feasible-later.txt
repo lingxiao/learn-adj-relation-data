@@ -1,0 +1,10 @@
+=== feasible > later
+
+=== feasible < later
+feasible but not later	89
+feasible , but not later	141
+feasible but not later than	86
+feasible but not later	89
+feasible , but not later	141
+feasible but not later than	86
+=== END

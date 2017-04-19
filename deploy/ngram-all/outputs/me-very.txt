@@ -1,0 +1,10 @@
+=== me > very
+
+=== me < very
+me but not very	94
+me , but not very	208
+me but not very	94
+me , but not very	208
+me but not very	94
+me , but not very	208
+=== END

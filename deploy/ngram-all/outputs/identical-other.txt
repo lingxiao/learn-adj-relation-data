@@ -1,0 +1,7 @@
+=== identical > other
+other , almost identical	52
+other but not identical	60
+other but not identical	60
+
+=== identical < other
+=== END

@@ -1,0 +1,5 @@
+=== nothing > powerful
+
+=== nothing < powerful
+nothing if not powerful	40
+=== END

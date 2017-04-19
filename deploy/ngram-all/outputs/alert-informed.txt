@@ -1,0 +1,5 @@
+=== alert > informed
+
+=== alert < informed
+alert and fully informed	41
+=== END

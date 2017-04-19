@@ -1,0 +1,12 @@
+=== bad > little
+little but not bad	63
+little , but not bad	65
+little but not bad .	44
+not bad just a little	47
+little but not bad	63
+a little but not bad	62
+little , but not bad	65
+little but not bad .	44
+
+=== bad < little
+=== END

@@ -1,0 +1,67 @@
+=== available > in
+in but not available	276
+in but not available (	121
+in but not available bugzilla	81
+in but not available	276
+in but not available (	121
+in but not available bugzilla	81
+
+=== available < in
+available almost in every	107
+available , although not in	75
+available , though not in	58
+available , even in	2139
+available and even in	68
+available even in </s>	87
+available even in western	804
+available even in windows	235
+available even in a	219
+available even in cases	71
+available even in remote	122
+available even in rural	55
+available even in small	139
+available even in some	45
+available even in the	1877
+available even in this	105
+available or even in	75
+available , and even in	59
+available , even in </s>	54
+available , even in a	93
+available , even in sleep	112
+available , even in the	748
+available even in western supermarket	785
+available even in windows xp	230
+available even in cases where	42
+available even in remote areas	43
+available even in rural areas	40
+available even in small towns	40
+available even in the </s>	40
+available even in the absence	78
+available even in the case	58
+available even in the event	88
+available even in the face	64
+available even in the future	59
+available even in the most	124
+available even in this case	42
+available if not in	74
+available , if not in	79
+available fully in	75
+available but not in	727
+available but not in	839
+available , but not in	48
+available but not in use	725
+available , but not in	785
+available but not in a	74
+available but not in stock	40
+available but not in the	207
+available but not in use	110
+available but not in	727
+available but not in	839
+available , but not in	48
+available but not in use	725
+available , but not in	785
+available but not in a	74
+available but not in stock	40
+available but not in the	207
+available but not in use	110
+=== END

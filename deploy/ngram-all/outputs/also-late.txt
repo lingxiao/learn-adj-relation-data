@@ -1,0 +1,6 @@
+=== also > late
+not only late but also	50
+not only late but also	50
+
+=== also < late
+=== END

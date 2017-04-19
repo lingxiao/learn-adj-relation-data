@@ -1,0 +1,6 @@
+=== mean > whole
+
+=== mean < whole
+mean almost the whole	67
+mean almost the whole album	52
+=== END

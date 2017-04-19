@@ -1,0 +1,8 @@
+=== through > whole
+
+=== through < whole
+through almost a whole	152
+through almost the whole	1171
+through almost the whole of	526
+through almost the whole thing	92
+=== END

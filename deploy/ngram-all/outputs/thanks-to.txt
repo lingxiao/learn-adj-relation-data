@@ -1,0 +1,8 @@
+=== thanks > to
+
+=== thanks < to
+thanks but not to	42
+thanks but not to worry	42
+thanks but not to	42
+thanks but not to worry	42
+=== END

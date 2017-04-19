@@ -1,0 +1,10 @@
+=== completely > different
+different but not completely	52
+different , but not completely	42
+different but not completely	52
+different , but not completely	42
+
+=== completely < different
+completely almost different ...	122
+completely almost different ... "	54
+=== END

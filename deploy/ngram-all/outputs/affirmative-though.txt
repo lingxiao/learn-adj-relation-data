@@ -1,0 +1,6 @@
+=== affirmative > though
+
+=== affirmative < though
+affirmative , even though	118
+affirmative , even though it	76
+=== END

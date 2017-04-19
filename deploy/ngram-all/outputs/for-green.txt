@@ -1,0 +1,8 @@
+=== for > green
+green if not for	59
+green if not for hitting	52
+green , but not for	59
+green , but not for	59
+
+=== for < green
+=== END

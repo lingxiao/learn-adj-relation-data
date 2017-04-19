@@ -1,0 +1,7 @@
+=== genius > though
+
+=== genius < though
+genius , even though	296
+genius , even though he	127
+genius , even though it	44
+=== END

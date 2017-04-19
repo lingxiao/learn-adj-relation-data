@@ -1,0 +1,11 @@
+=== accepted > now
+now fully accepted	602
+now fully accepted ,	51
+now fully accepted as	141
+now fully accepted by	69
+now fully accepted that	58
+now fully accepted the	41
+now fully accepted as a	85
+
+=== accepted < now
+=== END

@@ -1,0 +1,5 @@
+=== individual > way
+way , even the individual	42
+
+=== individual < way
+=== END

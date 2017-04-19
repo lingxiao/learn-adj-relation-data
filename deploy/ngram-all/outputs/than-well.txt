@@ -1,0 +1,9 @@
+=== than > well
+
+=== than < well
+than even a well	135
+than even the well	62
+than even well -	62
+than even a well -	111
+than even the well -	52
+=== END

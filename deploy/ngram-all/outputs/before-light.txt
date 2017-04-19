@@ -1,0 +1,6 @@
+=== before > light
+light , even before	57
+light even before the	58
+
+=== before < light
+=== END

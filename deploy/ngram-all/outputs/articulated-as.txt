@@ -1,0 +1,5 @@
+=== articulated > as
+as fully articulated	89
+
+=== articulated < as
+=== END

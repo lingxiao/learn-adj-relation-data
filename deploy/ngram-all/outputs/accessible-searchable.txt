@@ -1,0 +1,9 @@
+=== accessible > searchable
+
+=== accessible < searchable
+accessible , fully searchable	202
+accessible and fully searchable	130
+accessible , fully searchable ,	90
+accessible , fully searchable database	106
+accessible and fully searchable .	62
+=== END

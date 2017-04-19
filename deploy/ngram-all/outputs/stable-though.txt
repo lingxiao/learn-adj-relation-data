@@ -1,0 +1,15 @@
+=== stable > though
+
+=== stable < though
+stable , even though	1031
+stable even though it	151
+stable even though the	227
+stable even though there	45
+stable even though users	57
+stable , even though it	336
+stable , even though the	220
+stable , even though there	57
+stable , even though they	51
+stable even though it is	53
+stable even though users and	54
+=== END

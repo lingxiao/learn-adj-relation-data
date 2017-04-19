@@ -1,0 +1,8 @@
+=== functional > robust
+robust , fully functional	366
+robust and fully functional	538
+robust , fully functional development	221
+robust and fully functional html	400
+
+=== functional < robust
+=== END

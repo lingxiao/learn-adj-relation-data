@@ -1,0 +1,16 @@
+=== like > some
+some even like it	49
+some even like to	153
+some even like it	86
+some even like to	102
+some but not like	89
+some , but not like	94
+some but not like	89
+some , but not like	94
+
+=== like < some
+like even some of	90
+like even some tools	171
+like even some of the	68
+like even some tools lost	171
+=== END

@@ -1,0 +1,11 @@
+=== anywhere > seen
+seen almost anywhere ,	42
+seen almost anywhere .	327
+seen almost anywhere except	229
+seen almost anywhere in	136
+seen almost anywhere on	49
+seen almost anywhere except the	226
+seen almost anywhere in the	75
+
+=== anywhere < seen
+=== END

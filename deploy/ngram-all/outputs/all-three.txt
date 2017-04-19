@@ -1,0 +1,14 @@
+=== all > three
+three or even all	180
+three , or even all	122
+three or even all four	140
+three if not all	55
+three , if not all	111
+three but not all	68
+three , but not all	106
+three but not all	68
+three , but not all	106
+
+=== all < three
+all , almost three	42
+=== END

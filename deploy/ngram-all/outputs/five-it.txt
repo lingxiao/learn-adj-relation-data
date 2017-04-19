@@ -1,0 +1,6 @@
+=== five > it
+it almost five years	89
+it almost five years ago	62
+
+=== five < it
+=== END

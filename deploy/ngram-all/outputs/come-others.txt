@@ -1,0 +1,6 @@
+=== come > others
+others even come close	89
+others even come close .	57
+
+=== come < others
+=== END

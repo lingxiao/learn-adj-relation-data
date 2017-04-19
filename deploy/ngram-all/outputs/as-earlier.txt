@@ -1,0 +1,8 @@
+=== as > earlier
+earlier , even as	239
+earlier , even as police	52
+earlier , but not as	57
+earlier , but not as	57
+
+=== as < earlier
+=== END

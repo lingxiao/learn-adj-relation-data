@@ -1,0 +1,126 @@
+=== it > possible
+possible , even it	82
+not only possible but it	288
+possible , if not it	47
+not it still possible	134
+not it still possible that	61
+not it still possible to	47
+not it just possible	1174
+not it just possible ,	69
+not it just possible that	959
+not it just possible to	43
+not only possible but it	288
+
+=== it < possible
+it almost possible for	40
+it almost possible to	167
+it even possible to	40
+it even possible ?	109
+it even possible ?	41
+it even possible to	58
+it even possible <unk>	72
+it even possible to	60
+it even possible (	62
+it even possible )	98
+it even possible ,	497
+it even possible -	40
+it even possible --	223
+it even possible .	251
+it even possible ...	42
+it even possible </s>	58
+it even possible ?	6107
+it even possible anymore	43
+it even possible at	60
+it even possible fo	278
+it even possible for	2911
+it even possible if	59
+it even possible in	198
+it even possible now	47
+it even possible or	116
+it even possible that	1245
+it even possible this	67
+it even possible to	11854
+it even possible with	170
+it even possible without	60
+it even possible ? </s>	108
+it even possible ? </s>	41
+it even possible to have	51
+it even possible <unk> </s>	44
+it even possible , given	48
+it even possible , to	50
+it even possible -- a	196
+it even possible ? )	177
+it even possible ? </s>	5881
+it even possible fo ...	278
+it even possible for a	740
+it even possible for an	175
+it even possible for her	65
+it even possible for him	63
+it even possible for it	49
+it even possible for me	177
+it even possible for one	40
+it even possible for someone	95
+it even possible for the	247
+it even possible for them	69
+it even possible for this	40
+it even possible for us	135
+it even possible for you	110
+it even possible if you	47
+it even possible that i	88
+it even possible that a	76
+it even possible that he	78
+it even possible that such	45
+it even possible that the	168
+it even possible that there	52
+it even possible that you	58
+it even possible this pathetic	40
+it even possible to "	104
+it even possible to </s>	50
+it even possible to >	61
+it even possible to achieve	61
+it even possible to add	56
+it even possible to be	470
+it even possible to build	86
+it even possible to buy	84
+it even possible to change	84
+it even possible to cluster	48
+it even possible to count	45
+it even possible to create	152
+it even possible to define	58
+it even possible to develop	90
+it even possible to disable	40
+it even possible to do	608
+it even possible to enjoy	119
+it even possible to enter	48
+it even possible to find	239
+it even possible to fit	43
+it even possible to get	652
+it even possible to go	241
+it even possible to have	602
+it even possible to imagine	110
+it even possible to install	84
+it even possible to know	116
+it even possible to live	48
+it even possible to make	457
+it even possible to measure	40
+it even possible to not	42
+it even possible to put	109
+it even possible to raise	148
+it even possible to read	51
+it even possible to run	132
+it even possible to say	43
+it even possible to see	50
+it even possible to sell	57
+it even possible to separate	102
+it even possible to set	59
+it even possible to stay	52
+it even possible to talk	57
+it even possible to think	66
+it even possible to understand	42
+it even possible to use	313
+it even possible to win	52
+it even possible to withstand	76
+it even possible to write	98
+it fully possible	103
+it fully possible to	64
+=== END

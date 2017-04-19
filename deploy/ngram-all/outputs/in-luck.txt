@@ -1,0 +1,5 @@
+=== in > luck
+luck , even in	49
+
+=== in < luck
+=== END

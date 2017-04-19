@@ -1,0 +1,16 @@
+=== crazy > stupid
+
+=== crazy < stupid
+crazy but not stupid	55
+crazy but not stupid	52
+crazy but not stupid	70
+crazy but not stupid .	46
+crazy but not stupid fond	41
+crazy , but not stupid	114
+crazy but not stupid	55
+crazy but not stupid	52
+crazy but not stupid	70
+crazy but not stupid .	46
+crazy but not stupid fond	41
+crazy , but not stupid	114
+=== END

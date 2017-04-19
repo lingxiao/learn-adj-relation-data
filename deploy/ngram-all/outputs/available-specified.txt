@@ -1,0 +1,8 @@
+=== available > specified
+
+=== available < specified
+available but not specified	153
+available but not specified in	145
+available but not specified	153
+available but not specified in	145
+=== END

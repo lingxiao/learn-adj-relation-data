@@ -1,0 +1,6 @@
+=== considered > rarely
+rarely even considered ,	43
+rarely even considered .	59
+
+=== considered < rarely
+=== END

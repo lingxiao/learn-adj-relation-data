@@ -1,0 +1,14 @@
+=== impossible > likely
+likely , though not impossible	55
+likely , if not impossible	49
+likely but not impossible	120
+likely , but not impossible	269
+likely but not impossible .	54
+likely but not impossible	120
+likely , but not impossible	269
+likely but not impossible .	54
+
+=== impossible < likely
+impossible , but not likely	47
+impossible , but not likely	47
+=== END

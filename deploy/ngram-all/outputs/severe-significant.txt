@@ -1,0 +1,6 @@
+=== severe > significant
+significant but not severe	43
+significant but not severe	43
+
+=== severe < significant
+=== END

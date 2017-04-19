@@ -1,0 +1,9 @@
+=== it > set
+
+=== it < set
+it even set up	51
+it and even set	44
+it , and even set	49
+it fully set	128
+it fully set up	57
+=== END

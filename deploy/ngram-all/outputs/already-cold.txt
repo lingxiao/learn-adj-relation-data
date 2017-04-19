@@ -1,0 +1,6 @@
+=== already > cold
+
+=== already < cold
+already , almost cold	60
+already , almost cold .	56
+=== END

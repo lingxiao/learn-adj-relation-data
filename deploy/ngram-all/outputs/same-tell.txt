@@ -1,0 +1,8 @@
+=== same > tell
+tell almost the same	76
+tell almost the same story	73
+
+=== same < tell
+same if not tell	73
+same if not tell me	73
+=== END

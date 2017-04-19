@@ -1,0 +1,16 @@
+=== done > now
+now , almost done	68
+now almost done ,	82
+now almost done .	168
+now almost done and	40
+now almost done with	209
+now almost done with the	80
+
+=== done < now
+done , even now	76
+done even now ,	56
+done even now .	121
+done , and even now	40
+done , but not now	43
+done , but not now	43
+=== END

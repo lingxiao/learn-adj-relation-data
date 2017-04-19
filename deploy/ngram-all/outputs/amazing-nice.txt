@@ -1,0 +1,12 @@
+=== amazing > nice
+nice but not amazing	45
+nice but not amazing	90
+nice , but not amazing	103
+nice but not amazing .	56
+nice but not amazing	45
+nice but not amazing	90
+nice , but not amazing	103
+nice but not amazing .	56
+
+=== amazing < nice
+=== END

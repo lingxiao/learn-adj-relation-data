@@ -1,0 +1,8 @@
+=== clear > loud
+loud , but not clear	69
+loud , but not clear	69
+
+=== clear < loud
+clear but not loud	62
+clear but not loud	62
+=== END

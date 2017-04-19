@@ -1,0 +1,5 @@
+=== better > less
+less even better .	47
+
+=== better < less
+=== END

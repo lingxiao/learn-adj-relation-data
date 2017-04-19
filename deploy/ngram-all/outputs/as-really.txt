@@ -1,0 +1,15 @@
+=== as > really
+really , almost as	40
+really almost as good	49
+really almost as much	63
+really almost as much a	49
+really , even as	81
+really fully as	56
+really fully as much	47
+really fully as much inclined	47
+
+=== as < really
+as though not really	44
+as if not really	97
+not really just as	41
+=== END

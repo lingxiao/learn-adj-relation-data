@@ -1,0 +1,15 @@
+=== fully > it
+it , or even fully	40
+it almost fully	45
+it almost fully	184
+it even fully	57
+it but not fully	76
+it , but not fully	86
+it , or even fully	40
+it but not fully	76
+it , but not fully	86
+it but not fully	76
+it , but not fully	86
+
+=== fully < it
+=== END

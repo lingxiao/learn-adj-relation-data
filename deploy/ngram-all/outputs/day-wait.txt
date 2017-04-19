@@ -1,0 +1,5 @@
+=== day > wait
+wait even a day	138
+
+=== day < wait
+=== END

@@ -1,0 +1,11 @@
+=== big > in
+
+=== big < in
+big , even in	283
+big even in smaller	46
+big even in the	85
+big , even in the	57
+big even in smaller rooms	46
+big , but not in	1745
+big , but not in	1745
+=== END

@@ -1,0 +1,6 @@
+=== also > spatially
+not only spatially but also	81
+not only spatially but also	81
+
+=== also < spatially
+=== END

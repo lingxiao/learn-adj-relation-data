@@ -1,0 +1,6 @@
+=== lesser > sell
+sell even lesser capability	188
+sell even lesser capability scrollers	188
+
+=== lesser < sell
+=== END

@@ -1,0 +1,5 @@
+=== running > small
+
+=== running < small
+running even a small	91
+=== END

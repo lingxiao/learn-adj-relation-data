@@ -1,0 +1,19 @@
+=== to > understanding
+understanding , even to	70
+understanding even to know	41
+understanding even to know what	41
+understanding , but not to	45
+understanding , but not to	45
+
+=== to < understanding
+to fully understanding	2538
+to fully understanding and	148
+to fully understanding how	76
+to fully understanding our	71
+to fully understanding that	56
+to fully understanding the	1072
+to fully understanding this	84
+to fully understanding what	88
+to fully understanding your	88
+to fully understanding the sales	163
+=== END

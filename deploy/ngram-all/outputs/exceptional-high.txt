@@ -1,0 +1,5 @@
+=== exceptional > high
+high but not exceptional	46
+
+=== exceptional < high
+=== END

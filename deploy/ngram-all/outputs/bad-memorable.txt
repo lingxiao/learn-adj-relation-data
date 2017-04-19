@@ -1,0 +1,6 @@
+=== bad > memorable
+
+=== bad < memorable
+bad , but not memorable	43
+bad , but not memorable	43
+=== END

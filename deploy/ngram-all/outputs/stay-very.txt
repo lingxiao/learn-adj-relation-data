@@ -1,0 +1,8 @@
+=== stay > very
+not stay still very	71
+not stay still very long	60
+not stay still very	71
+not stay still very long	60
+
+=== stay < very
+=== END

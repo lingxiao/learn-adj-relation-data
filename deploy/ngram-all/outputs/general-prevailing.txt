@@ -1,0 +1,6 @@
+=== general > prevailing
+
+=== general < prevailing
+general if not prevailing	51
+general if not prevailing use	51
+=== END

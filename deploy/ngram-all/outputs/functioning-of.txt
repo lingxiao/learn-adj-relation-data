@@ -1,0 +1,9 @@
+=== functioning > of
+of fully functioning	47
+of fully functioning	1462
+of fully functioning ,	180
+of fully functioning </s>	47
+of fully functioning , easy	124
+
+=== functioning < of
+=== END

@@ -1,0 +1,8 @@
+=== bored > though
+
+=== bored < though
+bored , even though	237
+bored even though i	46
+bored even though it	44
+bored , even though i	93
+=== END

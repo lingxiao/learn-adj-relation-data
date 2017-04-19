@@ -1,0 +1,6 @@
+=== complete > near
+near , if not complete	50
+complete or very near	49
+
+=== complete < near
+=== END

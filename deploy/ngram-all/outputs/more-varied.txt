@@ -1,0 +1,7 @@
+=== more > varied
+varied even more ,	52
+varied even more .	58
+varied even more widely	64
+
+=== more < varied
+=== END

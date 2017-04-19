@@ -1,0 +1,5 @@
+=== delicate > imperceptible
+
+=== delicate < imperceptible
+delicate , almost imperceptible	51
+=== END

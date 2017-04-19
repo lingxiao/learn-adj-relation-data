@@ -1,0 +1,7 @@
+=== all > interest
+interest , almost all	53
+interest , but not all	88
+interest , but not all	88
+
+=== all < interest
+=== END

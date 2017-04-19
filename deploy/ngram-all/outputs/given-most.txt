@@ -1,0 +1,6 @@
+=== given > most
+most fully given	51
+
+=== given < most
+given even the most	247
+=== END

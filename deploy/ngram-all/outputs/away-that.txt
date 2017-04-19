@@ -1,0 +1,15 @@
+=== away > that
+that even away from	44
+
+=== away < that
+away , even that	165
+away even that .	114
+away even that he	1013
+away even that which	2045
+away , even that which	65
+away even that he hath	959
+away even that which he	1867
+away even that which they	143
+away , but not that	142
+away , but not that	142
+=== END

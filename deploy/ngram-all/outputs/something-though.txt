@@ -1,0 +1,42 @@
+=== something > though
+
+=== something < though
+something , even though	3645
+something and even though	114
+something even though i	515
+something even though he	191
+something even though i	62
+something even though it	587
+something even though she	86
+something even though the	258
+something even though there	112
+something even though they	274
+something even though we	185
+something even though you	539
+something , and even though	141
+something , even though i	733
+something , even though he	206
+something , even though i	51
+something , even though it	633
+something , even though she	75
+something , even though that	144
+something , even though the	281
+something , even though there	94
+something , even though they	275
+something , even though we	176
+something , even though you	326
+something even though i ' m	83
+something even though i am	65
+something even though i do	46
+something even though i have	59
+something even though it ' s	114
+something even though it is	93
+something even though it might	59
+something even though it was	85
+something even though there is	62
+something even though they are	45
+something even though we do	49
+something even though you are	61
+something even though you do	47
+something even though you know	95
+=== END

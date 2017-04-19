@@ -1,0 +1,8 @@
+=== directly > like
+like but not directly	56
+like but not directly competitive	45
+like but not directly	56
+like but not directly competitive	45
+
+=== directly < like
+=== END

@@ -1,0 +1,10 @@
+=== also > us
+not only us but also	63
+not only us but also	407
+not just us but also	40
+not just us but also	40
+not only us but also	63
+not only us but also	407
+
+=== also < us
+=== END

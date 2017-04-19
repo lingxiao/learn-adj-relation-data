@@ -1,0 +1,6 @@
+=== hard > trivial
+
+=== hard < trivial
+hard , but not trivial	41
+hard , but not trivial	41
+=== END

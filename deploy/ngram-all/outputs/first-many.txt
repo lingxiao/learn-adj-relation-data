@@ -1,0 +1,6 @@
+=== first > many
+
+=== first < many
+first , but not many	40
+first , but not many	40
+=== END

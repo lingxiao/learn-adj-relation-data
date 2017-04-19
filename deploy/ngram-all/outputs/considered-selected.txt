@@ -1,0 +1,18 @@
+=== considered > selected
+
+=== considered < selected
+considered but not selected	417
+considered but not selected	447
+considered but not selected </s>	369
+considered , but not selected	83
+considered but not selected .	43
+considered but not selected by	57
+considered but not selected for	187
+considered but not selected	417
+considered but not selected	447
+considered but not selected </s>	369
+considered , but not selected	83
+considered but not selected .	43
+considered but not selected by	57
+considered but not selected for	187
+=== END

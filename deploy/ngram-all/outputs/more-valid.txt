@@ -1,0 +1,8 @@
+=== more > valid
+valid and even more	58
+valid , and even more	101
+valid if not more	62
+valid , if not more	163
+
+=== more < valid
+=== END

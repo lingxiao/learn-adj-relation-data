@@ -1,0 +1,10 @@
+=== with > yeah
+yeah , even with	175
+yeah , even with	138
+yeah , even with the	68
+yeah , even with the	40
+yeah , but not with	105
+yeah , but not with	105
+
+=== with < yeah
+=== END

@@ -1,0 +1,7 @@
+=== coast > equipped
+
+=== coast < equipped
+coast fully equipped	91
+coast fully equipped for	88
+coast fully equipped for 1	88
+=== END

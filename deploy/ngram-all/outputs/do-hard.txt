@@ -1,0 +1,7 @@
+=== do > hard
+
+=== do < hard
+do even hard -	226
+do even hard - core	226
+not hard , just do	42
+=== END

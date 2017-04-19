@@ -1,0 +1,5 @@
+=== korea > worse
+
+=== korea < worse
+korea even worse .	108
+=== END

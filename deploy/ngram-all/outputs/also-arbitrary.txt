@@ -1,0 +1,6 @@
+=== also > arbitrary
+not only arbitrary but also	56
+not only arbitrary but also	56
+
+=== also < arbitrary
+=== END

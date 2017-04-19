@@ -1,0 +1,6 @@
+=== every > somewhere
+somewhere almost every day	74
+somewhere almost every weekend	54
+
+=== every < somewhere
+=== END

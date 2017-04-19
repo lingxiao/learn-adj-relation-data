@@ -1,0 +1,5 @@
+=== shocked > startled
+startled , if not shocked	64
+
+=== shocked < startled
+=== END

@@ -1,0 +1,7 @@
+=== more > west
+west , even more	110
+west and even more	55
+west , even more so	71
+
+=== more < west
+=== END

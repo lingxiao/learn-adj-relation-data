@@ -1,0 +1,6 @@
+=== exactly > shocking
+shocking , but not exactly	260
+shocking , but not exactly	260
+
+=== exactly < shocking
+=== END

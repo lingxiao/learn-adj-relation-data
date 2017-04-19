@@ -1,0 +1,21 @@
+=== poor > that
+that even a poor	460
+that even poor children	41
+that even poor countries	63
+that even poor households	61
+that even poor people	251
+that even the poor	1064
+that even a poor ,	41
+that even poor people can	59
+that even poor people could	47
+that even the poor and	48
+that even the poor are	85
+that even the poor can	98
+that even the poor could	72
+that even the poor have	77
+that even the poor in	59
+
+=== poor < that
+poor , but not that	42
+poor , but not that	42
+=== END

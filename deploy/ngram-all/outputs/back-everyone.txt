@@ -1,0 +1,8 @@
+=== back > everyone
+
+=== back < everyone
+back and almost everyone	63
+back and almost everyone mentions	42
+back , but not everyone	55
+back , but not everyone	55
+=== END

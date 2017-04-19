@@ -1,0 +1,14 @@
+=== later > time
+time and even later	68
+time or even later	184
+time , or even later	64
+time or even later .	97
+time but not later	817
+time , but not later	1314
+time but not later than	754
+time but not later	817
+time , but not later	1314
+time but not later than	754
+
+=== later < time
+=== END

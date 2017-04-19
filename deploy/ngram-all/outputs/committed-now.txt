@@ -1,0 +1,11 @@
+=== committed > now
+now fully committed	1338
+now fully committed ,	69
+now fully committed .	132
+now fully committed and	76
+now fully committed to	922
+now fully committed to a	53
+now fully committed to the	235
+
+=== committed < now
+=== END

@@ -1,0 +1,56 @@
+=== likely > possible
+possible , although not likely	212
+possible , though not likely	700
+possible , even likely	3467
+possible and even likely	1132
+possible or even likely	693
+possible , and even likely	641
+possible , even likely ,	2628
+possible , even likely .	541
+possible , even likely that	145
+possible , or even likely	378
+possible and even likely ,	81
+possible and even likely .	160
+possible and even likely that	674
+possible or even likely ,	52
+possible or even likely .	98
+possible or even likely that	301
+not only possible but likely	688
+possible if not likely	393
+possible , if not likely	1480
+possible if not likely .	74
+possible if not likely that	199
+not just possible but likely	86
+possible but not likely	43
+possible but not likely	205
+possible but not likely	1277
+possible , but not likely	624
+possible but not likely .	84
+possible , but not likely	1867
+possible but not likely )	76
+possible but not likely ,	104
+possible but not likely .	512
+possible but not likely that	117
+possible but not likely to	63
+possible but not likely unless	44
+possible but not likely	43
+possible but not likely	205
+possible but not likely	1277
+possible , but not likely	624
+possible but not likely .	84
+not just possible but likely	86
+not only possible but likely	688
+possible , but not likely	1867
+possible but not likely )	76
+possible but not likely ,	104
+possible but not likely .	512
+possible but not likely that	117
+possible but not likely to	63
+possible but not likely unless	44
+
+=== likely < possible
+likely or even possible	417
+likely , or even possible	295
+likely or even possible .	143
+likely or even possible that	44
+=== END

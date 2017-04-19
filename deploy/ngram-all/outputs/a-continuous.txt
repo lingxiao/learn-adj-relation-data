@@ -1,0 +1,5 @@
+=== a > continuous
+
+=== a < continuous
+a fully continuous	335
+=== END

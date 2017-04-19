@@ -1,0 +1,5 @@
+=== impaired > partially
+partially or fully impaired	55
+
+=== impaired < partially
+=== END

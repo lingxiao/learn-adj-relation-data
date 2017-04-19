@@ -1,0 +1,7 @@
+=== being > certain
+
+=== being < certain
+being almost certain that	46
+being almost certain to	76
+being fully certain	42
+=== END

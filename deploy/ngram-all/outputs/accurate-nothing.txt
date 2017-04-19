@@ -1,0 +1,7 @@
+=== accurate > nothing
+nothing if not accurate	95
+nothing if not accurate	40
+nothing if not accurate </s>	93
+
+=== accurate < nothing
+=== END

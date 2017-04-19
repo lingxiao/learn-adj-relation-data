@@ -1,0 +1,9 @@
+=== donkey > yet
+
+=== donkey < yet
+donkey but not yet	77
+donkey but not yet ready	75
+donkey but not yet	77
+donkey but not yet ready	75
+the donkey but not yet	76
+=== END

@@ -1,0 +1,13 @@
+=== bright > equipped
+
+=== bright < equipped
+bright fully equipped	256
+bright fully equipped	54
+bright fully equipped real	256
+bright , fully equipped	110
+bright and fully equipped	195
+bright fully equipped real 1br	256
+bright , fully equipped kitchen	53
+bright and fully equipped .	58
+bright and fully equipped for	40
+=== END

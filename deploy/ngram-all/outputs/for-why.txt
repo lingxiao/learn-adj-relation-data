@@ -1,0 +1,7 @@
+=== for > why
+why , even for	123
+why , if not for	96
+why , if not for	53
+
+=== for < why
+=== END

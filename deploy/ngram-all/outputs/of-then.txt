@@ -1,0 +1,11 @@
+=== of > then
+then , even of	56
+then , even of	67
+then even of yourself	46
+then , even of fellowship	56
+then even of yourself ,	46
+
+=== of < then
+of , even then	66
+of , and even then	105
+=== END

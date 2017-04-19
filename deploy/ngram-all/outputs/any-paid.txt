@@ -1,0 +1,11 @@
+=== any > paid
+
+=== any < paid
+any fully paid	69
+any fully paid	334
+any fully paid up	41
+any fully paid -	84
+any fully paid shares	56
+any fully paid up	86
+any fully paid - up	83
+=== END

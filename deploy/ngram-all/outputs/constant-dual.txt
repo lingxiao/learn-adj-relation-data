@@ -1,0 +1,6 @@
+=== constant > dual
+
+=== constant < dual
+constant and even dual	55
+constant and even dual stream	53
+=== END

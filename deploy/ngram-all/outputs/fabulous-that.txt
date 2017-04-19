@@ -1,0 +1,6 @@
+=== fabulous > that
+
+=== fabulous < that
+not that just fabulous	63
+not that just fabulous ?	43
+=== END

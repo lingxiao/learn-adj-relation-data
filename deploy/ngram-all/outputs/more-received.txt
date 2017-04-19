@@ -1,0 +1,18 @@
+=== more > received
+received even more .	99
+received even more </s>	59
+received even more attention	251
+received even more critical	45
+received even more funding	52
+received even more good	60
+received even more money	56
+received even more of	41
+received even more publicity	43
+received even more than	121
+received , or even more	40
+received even more attention .	42
+received even more funding than	44
+received even more good news	44
+
+=== more < received
+=== END

@@ -1,0 +1,7 @@
+=== a > boy
+boy but not a	75
+a boy but not a	41
+boy , but not a	112
+
+=== a < boy
+=== END

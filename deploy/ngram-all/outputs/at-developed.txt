@@ -1,0 +1,9 @@
+=== at > developed
+developed almost at the	42
+developed , even at	57
+developed even at the	62
+developed fully at	110
+
+=== at < developed
+at fully developed	77
+=== END

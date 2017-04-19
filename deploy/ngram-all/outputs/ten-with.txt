@@ -1,0 +1,13 @@
+=== ten > with
+with almost ten years	148
+with almost ten million	60
+with almost ten thousand	437
+with almost ten times	63
+with almost ten years	277
+with almost ten years of	94
+with almost ten thousand new	392
+with almost ten years experience	44
+with almost ten years of	154
+
+=== ten < with
+=== END

@@ -1,0 +1,6 @@
+=== know > school
+school even know of	48
+school even know of this	46
+
+=== know < school
+=== END

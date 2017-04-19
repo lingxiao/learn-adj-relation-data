@@ -1,0 +1,6 @@
+=== associated > even
+even if not associated	79
+even if not associated with	72
+
+=== associated < even
+=== END

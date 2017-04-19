@@ -1,0 +1,8 @@
+=== best > okay
+okay but not the best	52
+okay but not the best	174
+okay but not the best	52
+okay but not the best	174
+
+=== best < okay
+=== END

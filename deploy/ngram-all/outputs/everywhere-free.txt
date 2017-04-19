@@ -1,0 +1,5 @@
+=== everywhere > free
+free almost everywhere .	82
+
+=== everywhere < free
+=== END

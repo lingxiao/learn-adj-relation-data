@@ -1,0 +1,6 @@
+=== further > these
+these even further .	100
+
+=== further < these
+further , even these	50
+=== END

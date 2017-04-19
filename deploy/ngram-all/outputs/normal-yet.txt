@@ -1,0 +1,16 @@
+=== normal > yet
+
+=== normal < yet
+normal but not yet	3816
+normal , but not yet	227
+normal but not yet at	46
+normal but not yet diabetic	3375
+normal but not yet high	237
+normal but not yet in	92
+normal but not yet	3816
+normal , but not yet	227
+normal but not yet at	46
+normal but not yet diabetic	3375
+normal but not yet high	237
+normal but not yet in	92
+=== END

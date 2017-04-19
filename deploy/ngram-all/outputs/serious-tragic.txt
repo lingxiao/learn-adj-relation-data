@@ -1,0 +1,7 @@
+=== serious > tragic
+
+=== serious < tragic
+serious , even tragic	108
+serious and even tragic	75
+serious , even tragic ,	57
+=== END

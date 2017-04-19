@@ -1,0 +1,5 @@
+=== doubt > there
+there even a doubt	49
+
+=== doubt < there
+=== END

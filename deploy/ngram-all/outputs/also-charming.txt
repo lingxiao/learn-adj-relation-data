@@ -1,0 +1,6 @@
+=== also > charming
+not only charming but also	49
+not only charming but also	49
+
+=== also < charming
+=== END

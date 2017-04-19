@@ -1,0 +1,7 @@
+=== everyone > strangers
+
+=== everyone < strangers
+everyone , even strangers	145
+everyone , even strangers ,	54
+everyone , even strangers .	43
+=== END

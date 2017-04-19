@@ -1,0 +1,11 @@
+=== evil > mad
+evil or very mad	132403
+evil or very mad '	176
+evil or very mad (	160
+evil or very mad -	101
+evil or very mad </s>	123190
+evil or very mad crying	73
+evil or very mad twisted	8405
+
+=== evil < mad
+=== END

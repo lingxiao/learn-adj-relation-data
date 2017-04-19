@@ -1,0 +1,6 @@
+=== dry > mature
+
+=== dry < mature
+mature or very dry	124
+mature or very dry skin	124
+=== END

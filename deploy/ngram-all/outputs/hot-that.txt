@@ -1,0 +1,12 @@
+=== hot > that
+that even the hot	113
+that even the hot -	59
+
+=== hot < that
+hot but not that	89
+hot , but not that	151
+hot but not that hot	46
+hot but not that	89
+hot , but not that	151
+hot but not that hot	46
+=== END

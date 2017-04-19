@@ -1,0 +1,6 @@
+=== decent > memorable
+
+=== decent < memorable
+decent but not memorable	52
+decent but not memorable	52
+=== END

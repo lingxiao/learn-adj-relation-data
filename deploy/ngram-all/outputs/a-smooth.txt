@@ -1,0 +1,5 @@
+=== a > smooth
+
+=== a < smooth
+a fully smooth	59
+=== END

@@ -1,0 +1,8 @@
+=== satisfied > very
+
+=== satisfied < very
+satisfied or even very	44
+satisfied or even very satisfied	41
+satisfied or even very	44
+satisfied or even very satisfied	41
+=== END

@@ -1,0 +1,14 @@
+=== as > slow
+slow , almost as	79
+slow , almost as if	40
+slow , even as	67
+slow but not as	118
+slow , but not as	279
+slow but not as slow	84
+slow but not as	118
+slow , but not as	279
+slow but not as slow	84
+
+=== as < slow
+as even the slow	45
+=== END

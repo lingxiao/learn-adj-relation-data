@@ -1,0 +1,6 @@
+=== loose > ready
+
+=== loose < ready
+loose and almost ready	42
+loose and almost ready to	41
+=== END

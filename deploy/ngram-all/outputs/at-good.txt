@@ -1,0 +1,31 @@
+=== at > good
+at unbelievably good	57
+at unbelievably good prices	49
+good , even at	1022
+good even at 60	43
+good even at a	66
+good even at full	44
+good even at high	89
+good even at low	154
+good even at night	108
+good even at that	66
+good even at the	351
+good even at this	47
+good , even at a	41
+good , even at low	204
+good , even at lower	44
+good , even at the	236
+good , even at this	48
+good even at low resolutions	76
+good even at night (	101
+good but not at	361
+good , but not at	849
+good but not at all	107
+good but not at the	151
+good but not at	361
+good , but not at	849
+good but not at all	107
+good but not at the	151
+
+=== at < good
+=== END

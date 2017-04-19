@@ -1,0 +1,10 @@
+=== present > visible
+
+=== present < visible
+present but not visible	235
+present , but not visible	91
+present but not visible .	93
+present but not visible	235
+present , but not visible	91
+present but not visible .	93
+=== END

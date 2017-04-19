@@ -1,0 +1,7 @@
+=== comprehensive > representative
+representative but not comprehensive	46
+representative but not comprehensive	46
+
+=== comprehensive < representative
+comprehensive or even representative	45
+=== END

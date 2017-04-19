@@ -1,0 +1,8 @@
+=== interesting > specifically
+
+=== interesting < specifically
+interesting but not specifically	55
+interesting but not specifically relevant	45
+interesting but not specifically	55
+interesting but not specifically relevant	45
+=== END

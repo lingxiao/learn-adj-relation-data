@@ -1,0 +1,9 @@
+=== for > issued
+issued even for so	52
+issued , but not for	43
+issued , but not for	43
+
+=== for < issued
+for but not issued	110
+for but not issued	110
+=== END

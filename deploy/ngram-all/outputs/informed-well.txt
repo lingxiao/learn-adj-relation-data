@@ -1,0 +1,7 @@
+=== informed > well
+well and fully informed	44
+informed or very well	67
+informed or very well informed	47
+
+=== informed < well
+=== END

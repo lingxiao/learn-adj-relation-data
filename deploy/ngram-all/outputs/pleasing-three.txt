@@ -1,0 +1,6 @@
+=== pleasing > three
+
+=== pleasing < three
+pleasing and almost three	118
+pleasing and almost three -	118
+=== END

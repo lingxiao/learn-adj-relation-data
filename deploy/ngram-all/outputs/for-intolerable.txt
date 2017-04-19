@@ -1,0 +1,5 @@
+=== for > intolerable
+intolerable , even for	47
+
+=== for < intolerable
+=== END

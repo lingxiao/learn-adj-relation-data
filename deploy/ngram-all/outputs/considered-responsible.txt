@@ -1,0 +1,6 @@
+=== considered > responsible
+
+=== considered < responsible
+considered fully responsible	120
+considered fully responsible for	94
+=== END

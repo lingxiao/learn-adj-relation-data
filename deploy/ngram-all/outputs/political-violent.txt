@@ -1,0 +1,6 @@
+=== political > violent
+violent or even political	69
+violent or even political movement	69
+
+=== political < violent
+=== END

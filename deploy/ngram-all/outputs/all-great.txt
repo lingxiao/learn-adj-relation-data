@@ -1,0 +1,12 @@
+=== all > great
+great , almost all	56
+great almost all the	44
+great but not all	153
+great , but not all	362
+great but not all	153
+great , but not all	362
+
+=== all < great
+all , even great	52
+all , even the great	153
+=== END

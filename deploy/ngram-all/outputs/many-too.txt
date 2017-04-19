@@ -1,0 +1,13 @@
+=== many > too
+too , though not many	54
+too but not many	69
+too , but not many	260
+too but not many	69
+too , but not many	260
+
+=== many < too
+many but not too	53
+many , but not too	60
+many but not too	53
+many , but not too	60
+=== END

@@ -1,0 +1,9 @@
+=== in > induced
+induced even in the	107
+induced even in the absence	47
+induced , but not in	41
+induced , but not in	41
+
+=== in < induced
+in fully induced	46
+=== END

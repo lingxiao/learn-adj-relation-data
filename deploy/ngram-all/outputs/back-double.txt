@@ -1,0 +1,6 @@
+=== back > double
+
+=== back < double
+back almost double while	92
+back almost double while his	92
+=== END

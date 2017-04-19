@@ -1,0 +1,10 @@
+=== up > whole
+
+=== up < whole
+up almost a whole	272
+up almost the whole	1026
+up almost a whole size	40
+up almost the whole night	49
+up almost the whole of	227
+up almost the whole rent	55
+=== END

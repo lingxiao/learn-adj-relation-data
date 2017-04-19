@@ -1,0 +1,8 @@
+=== know > necessarily
+necessarily even know about	53
+necessarily even know that	43
+
+=== know < necessarily
+know , but not necessarily	63
+know , but not necessarily	63
+=== END

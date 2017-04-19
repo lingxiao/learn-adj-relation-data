@@ -1,0 +1,10 @@
+=== better > off
+off even better .	97
+off even better than	175
+off or even better	54
+off , or even better	65
+off even better than the	49
+off , if not better	71
+
+=== better < off
+=== END

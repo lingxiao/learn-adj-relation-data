@@ -1,0 +1,13 @@
+=== as > satisfactory
+satisfactory but not as	142
+satisfactory , but not as	115
+satisfactory but not as good	71
+satisfactory but not as	142
+satisfactory , but not as	115
+satisfactory but not as good	71
+
+=== as < satisfactory
+as fully satisfactory	290
+as fully satisfactory .	83
+as fully satisfactory or	45
+=== END

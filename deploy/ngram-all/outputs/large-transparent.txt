@@ -1,0 +1,6 @@
+=== large > transparent
+
+=== large < transparent
+large and even transparent	806
+large and even transparent )	803
+=== END

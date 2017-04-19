@@ -1,0 +1,6 @@
+=== more > shaking
+shaking even more .	44
+shaking even more than	42
+
+=== more < shaking
+=== END

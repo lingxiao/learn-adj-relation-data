@@ -1,0 +1,6 @@
+=== immediately > move
+move almost immediately .	48
+move almost immediately to	44
+
+=== immediately < move
+=== END

@@ -1,0 +1,6 @@
+=== away > bad
+
+=== away < bad
+away , but not bad	45
+away , but not bad	45
+=== END

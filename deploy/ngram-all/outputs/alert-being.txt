@@ -1,0 +1,6 @@
+=== alert > being
+being fully alert	144
+being fully alert and	41
+
+=== alert < being
+=== END

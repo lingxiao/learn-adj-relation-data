@@ -1,0 +1,5 @@
+=== 10 > paid
+
+=== 10 < paid
+10 fully paid	120
+=== END

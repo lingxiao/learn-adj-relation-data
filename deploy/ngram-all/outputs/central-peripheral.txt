@@ -1,0 +1,14 @@
+=== central > peripheral
+peripheral but not central	123
+peripheral , but not central	58
+peripheral , but not central	125
+peripheral but not central	123
+peripheral , but not central	58
+peripheral , but not central	125
+
+=== central < peripheral
+central but not peripheral	91
+central , but not peripheral	58
+central but not peripheral	91
+central , but not peripheral	58
+=== END

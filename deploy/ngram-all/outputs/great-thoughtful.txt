@@ -1,0 +1,6 @@
+=== great > thoughtful
+thoughtful , almost great	47
+thoughtful , almost great "	41
+
+=== great < thoughtful
+=== END

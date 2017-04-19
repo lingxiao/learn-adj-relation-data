@@ -1,0 +1,5 @@
+=== functioning > other
+other fully functioning	40
+
+=== functioning < other
+=== END

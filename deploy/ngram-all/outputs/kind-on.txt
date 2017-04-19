@@ -1,0 +1,5 @@
+=== kind > on
+
+=== kind < on
+kind , even on	87
+=== END

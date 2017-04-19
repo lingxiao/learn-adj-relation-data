@@ -1,0 +1,6 @@
+=== simple > win
+win even a simple	46
+win even a simple majority	42
+
+=== simple < win
+=== END

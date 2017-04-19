@@ -1,0 +1,6 @@
+=== five > started
+started almost five years	191
+started almost five years ago	172
+
+=== five < started
+=== END

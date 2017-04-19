@@ -1,0 +1,6 @@
+=== before > meaningful
+meaningful even before you	42
+meaningful even before you get	42
+
+=== before < meaningful
+=== END

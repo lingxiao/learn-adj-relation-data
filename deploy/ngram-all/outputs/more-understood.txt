@@ -1,0 +1,40 @@
+=== more > understood
+understood and even more	124
+understood and even more poorly	55
+
+=== more < understood
+more fully understood	7197
+more fully understood ,	866
+more fully understood .	1234
+more fully understood </s>	56
+more fully understood ?	44
+more fully understood and	748
+more fully understood as	96
+more fully understood by	876
+more fully understood from	1729
+more fully understood if	130
+more fully understood in	214
+more fully understood than	40
+more fully understood the	106
+more fully understood through	78
+more fully understood when	188
+more fully understood with	114
+more fully understood , and	75
+more fully understood , it	161
+more fully understood , the	128
+more fully understood , there	42
+more fully understood ? </s>	44
+more fully understood and appreciated	143
+more fully understood and can	53
+more fully understood and further	83
+more fully understood by reading	146
+more fully understood by reference	373
+more fully understood by referring	55
+more fully understood by the	66
+more fully understood from the	1690
+more fully understood if you	69
+more fully understood in the	53
+more fully understood when paired	41
+more fully understood when the	76
+more fully understood with reference	91
+=== END

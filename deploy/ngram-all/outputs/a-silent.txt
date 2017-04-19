@@ -1,0 +1,7 @@
+=== a > silent
+
+=== a < silent
+a fully silent	104
+a fully silent ,	76
+a fully silent , stress	66
+=== END

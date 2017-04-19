@@ -1,0 +1,16 @@
+=== rigid > straight
+straight but not rigid	51
+straight but not rigid	142
+straight but not rigid ,	51
+straight , but not rigid	58
+straight but not rigid ,	62
+straight but not rigid .	66
+straight but not rigid	51
+straight but not rigid	142
+straight but not rigid ,	51
+straight , but not rigid	58
+straight but not rigid ,	62
+straight but not rigid .	66
+
+=== rigid < straight
+=== END

@@ -1,0 +1,16 @@
+=== black > green
+green , almost black	567
+green or almost black	69
+green , almost black ,	236
+green , almost black .	82
+green , almost black in	45
+green and even black	60
+green or even black	75
+green , and even black	48
+
+=== black < green
+black and even green	92
+black or even green	47
+black , and even green	125
+black and even green .	41
+=== END

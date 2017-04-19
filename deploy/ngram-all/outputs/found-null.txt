@@ -1,0 +1,28 @@
+=== found > null
+null if not found	5948
+null if not found	88
+null if not found	6886
+null if not found (	40
+null if not found )	85
+null if not found *	944
+null if not found +	110
+null if not found ,	274
+null if not found .	3618
+null if not found </s>	464
+null if not found <unk>	44
+null if not found or	49
+null if not found .	47
+null , if not found	70
+null if not found )	174
+null if not found *	185
+null if not found +	58
+null if not found ,	61
+null if not found .	3925
+null if not found </s>	1804
+null if not found <unk>	52
+null if not found in	96
+null if not found or	129
+null if not found to	159
+
+=== found < null
+=== END

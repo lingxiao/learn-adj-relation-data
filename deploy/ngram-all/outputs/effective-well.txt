@@ -1,0 +1,8 @@
+=== effective > well
+
+=== effective < well
+effective but not well	82
+effective but not well -	64
+effective but not well	82
+effective but not well -	64
+=== END

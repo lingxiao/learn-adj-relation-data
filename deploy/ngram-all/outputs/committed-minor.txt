@@ -1,0 +1,5 @@
+=== committed > minor
+
+=== committed < minor
+committed even a minor	45
+=== END

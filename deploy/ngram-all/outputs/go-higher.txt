@@ -1,0 +1,52 @@
+=== go > higher
+
+=== go < higher
+go even higher </s>	54
+go even higher !	104
+go even higher (	47
+go even higher )	70
+go even higher ,	1092
+go even higher -	88
+go even higher .	3475
+go even higher ...	87
+go even higher 04	119
+go even higher </s>	152
+go even higher ?	281
+go even higher after	74
+go even higher and	169
+go even higher as	224
+go even higher because	92
+go even higher before	62
+go even higher by	42
+go even higher for	67
+go even higher if	312
+go even higher in	509
+go even higher than	456
+go even higher this	198
+go even higher to	128
+go even higher up	63
+go even higher when	127
+go even higher with	118
+go even higher ! </s>	98
+go even higher , "	132
+go even higher , and	125
+go even higher , but	51
+go even higher , to	47
+go even higher . "	57
+go even higher 04 november	119
+go even higher ? "	45
+go even higher ? </s>	236
+go even higher after hurricane	40
+go even higher as the	46
+go even higher because of	43
+go even higher if the	55
+go even higher in his	46
+go even higher in the	224
+go even higher than that	115
+go even higher than the	83
+go even higher this summer	58
+go even higher this week	68
+go even higher this year	47
+go even higher when you	44
+go even higher with the	41
+=== END

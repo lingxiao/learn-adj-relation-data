@@ -1,0 +1,5 @@
+=== brightest > than
+than even the brightest	108
+
+=== brightest < than
+=== END

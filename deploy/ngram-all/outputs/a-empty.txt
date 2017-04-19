@@ -1,0 +1,5 @@
+=== a > empty
+
+=== a < empty
+a fully empty	65
+=== END

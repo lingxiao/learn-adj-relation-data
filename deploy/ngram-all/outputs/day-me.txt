@@ -1,0 +1,8 @@
+=== day > me
+me almost a day	186
+me almost a day to	126
+
+=== day < me
+day , but not me	68
+day , but not me	68
+=== END

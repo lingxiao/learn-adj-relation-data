@@ -1,0 +1,20 @@
+=== come > more
+more fully come	120
+more fully come to	65
+
+=== come < more
+come , even more	61
+come and even more	107
+come even more .	53
+come even more alive	228
+come even more effective	74
+come even more important	100
+come even more into	67
+come even more quickly	77
+come even more slowly	41
+come even more to	142
+come , and even more	64
+come even more alive .	131
+come even more effective action	67
+come even more to the	111
+=== END

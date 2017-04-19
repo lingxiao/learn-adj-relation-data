@@ -1,0 +1,46 @@
+=== described > in
+
+=== described < in
+described , even in	287
+described even in jest	176
+described even in the	115
+described , even in jest	95
+described , even in the	51
+described even in jest as	175
+described fully in	8013
+described fully in "	80
+described fully in </s>	261
+described fully in <unk>	61
+described fully in appendix	111
+described fully in chapter	349
+described fully in rfc	200
+described fully in section	445
+described fully in the	44
+described fully in [	349
+described fully in a	254
+described fully in an	55
+described fully in chapter	77
+described fully in our	53
+described fully in section	250
+described fully in terms	41
+described fully in the	3025
+described fully in this	151
+described fully in type	91
+described fully in chapter 2	41
+described fully in chapter 4	58
+described fully in chapter 5	47
+described fully in rfc 1144	145
+described fully in section 3	70
+described fully in section 5.4.1	97
+described fully in the "	142
+described fully in the </s>	146
+described fully in the chapter	55
+described fully in the following	102
+described fully in the listing	56
+described fully in the next	104
+described fully in the section	77
+described fully in the transition	79
+described fully in type that	69
+described , but not in	88
+described , but not in	88
+=== END

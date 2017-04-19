@@ -1,0 +1,9 @@
+=== helpful > pushy
+
+=== helpful < pushy
+helpful , but not pushy	139
+helpful but not pushy .	125
+helpful but not pushy	191
+helpful , but not pushy	139
+helpful but not pushy .	125
+=== END

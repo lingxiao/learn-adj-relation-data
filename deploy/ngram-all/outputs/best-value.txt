@@ -1,0 +1,6 @@
+=== best > value
+value but not the best	48
+value but not the best	48
+
+=== best < value
+=== END

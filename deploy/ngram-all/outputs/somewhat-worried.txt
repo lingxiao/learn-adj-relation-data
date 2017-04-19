@@ -1,0 +1,6 @@
+=== somewhat > worried
+somewhat or very worried	131
+somewhat or very worried about	61
+
+=== somewhat < worried
+=== END

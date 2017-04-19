@@ -1,0 +1,5 @@
+=== effective > small
+
+=== effective < small
+effective even a small	45
+=== END

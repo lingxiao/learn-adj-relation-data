@@ -1,0 +1,6 @@
+=== almighty > alone
+
+=== almighty < alone
+almighty almost alone aloof	42
+almighty almost alone aloof alphabet	40
+=== END

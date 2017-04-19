@@ -1,0 +1,12 @@
+=== quickly > to
+
+=== quickly < to
+quickly , almost to	46
+quickly , even to	188
+quickly , even to clear	64
+quickly and fully to	253
+quickly but not to	50
+quickly , but not to	92
+quickly but not to	50
+quickly , but not to	92
+=== END

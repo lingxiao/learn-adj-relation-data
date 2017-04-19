@@ -1,0 +1,8 @@
+=== just > other
+other , even just	80
+other or even just	43
+other , even just to	42
+other , or even just	150
+
+=== just < other
+=== END

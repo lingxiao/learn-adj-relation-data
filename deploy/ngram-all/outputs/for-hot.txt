@@ -1,0 +1,15 @@
+=== for > hot
+hot even for texas	126
+hot , even for	98
+hot even for a	46
+hot even for the	161
+hot even for texas ...	126
+hot , even for businesses	97
+hot , even for july	86
+hot , even for a	45
+hot , even for the	79
+hot but not for	53
+hot but not for	53
+
+=== for < hot
+=== END

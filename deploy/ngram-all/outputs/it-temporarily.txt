@@ -1,0 +1,8 @@
+=== it > temporarily
+
+=== it < temporarily
+it , even temporarily	113
+it even temporarily .	49
+it , even temporarily ,	59
+it , even temporarily .	44
+=== END

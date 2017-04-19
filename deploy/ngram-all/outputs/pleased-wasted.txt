@@ -1,0 +1,6 @@
+=== pleased > wasted
+wasted , but not pleased	45
+wasted , but not pleased	45
+
+=== pleased < wasted
+=== END

@@ -1,0 +1,7 @@
+=== only > standing
+not only still standing	221
+not only still standing ,	117
+not only still standing in	57
+
+=== only < standing
+=== END

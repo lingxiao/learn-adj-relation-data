@@ -1,0 +1,15 @@
+=== as > informed
+
+=== as < informed
+as fully informed	2397
+as fully informed </s>	41
+as fully informed about	109
+as fully informed and	72
+as fully informed as	1843
+as fully informed of	94
+as fully informed as </s>	61
+as fully informed as is	43
+as fully informed as possible	1446
+as fully informed as they	57
+as fully informed of the	56
+=== END

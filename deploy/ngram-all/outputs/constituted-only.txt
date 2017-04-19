@@ -1,0 +1,5 @@
+=== constituted > only
+
+=== constituted < only
+constituted almost the only	56
+=== END

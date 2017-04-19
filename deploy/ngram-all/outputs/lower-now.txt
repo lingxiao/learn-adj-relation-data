@@ -1,0 +1,14 @@
+=== lower > now
+now even lower rates	317
+now even lower !	48
+now even lower .	114
+now even lower prices	90
+now even lower than	107
+now even lower £	48
+now even lower rates !	315
+now even lower ! </s>	48
+now even lower prices on	85
+now even lower £ 59.95	48
+
+=== lower < now
+=== END

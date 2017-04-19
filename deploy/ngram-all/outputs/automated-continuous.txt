@@ -1,0 +1,5 @@
+=== automated > continuous
+continuous , fully automated	45
+
+=== automated < continuous
+=== END

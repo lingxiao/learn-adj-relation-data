@@ -1,0 +1,7 @@
+=== aware > than
+than fully aware	242
+than fully aware of	171
+than fully aware of the	99
+
+=== aware < than
+=== END

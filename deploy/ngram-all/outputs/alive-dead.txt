@@ -1,0 +1,9 @@
+=== alive > dead
+dead , but not alive	70
+dead , but not alive	70
+
+=== alive < dead
+alive , almost dead	60
+alive , almost dead </s>	60
+alive , or even dead	42
+=== END

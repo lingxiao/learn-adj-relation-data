@@ -1,0 +1,6 @@
+=== impossible > unknown
+unknown but not impossible	41
+unknown but not impossible	41
+
+=== impossible < unknown
+=== END

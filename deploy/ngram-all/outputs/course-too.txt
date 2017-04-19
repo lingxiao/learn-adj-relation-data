@@ -1,0 +1,10 @@
+=== course > too
+
+=== course < too
+course but not too	169
+course , but not too	265
+course but not too steep	116
+course but not too	169
+course , but not too	265
+course but not too steep	116
+=== END

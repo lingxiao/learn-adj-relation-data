@@ -1,0 +1,18 @@
+=== in > large
+in unbelievably large	52
+large , even in	526
+large and even in	48
+large even in a	64
+large even in the	265
+large , and even in	59
+large , even in a	58
+large , even in the	187
+large but not in	49
+large , but not in	86
+large but not in	49
+large , but not in	86
+
+=== in < large
+in even a large	223
+in even a large event	67
+=== END

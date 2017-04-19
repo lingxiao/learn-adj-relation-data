@@ -1,0 +1,5 @@
+=== informed > thus
+thus fully informed	60
+
+=== informed < thus
+=== END

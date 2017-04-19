@@ -1,0 +1,6 @@
+=== simpler > though
+
+=== simpler < though
+simpler , even though	126
+simpler , even though it	64
+=== END

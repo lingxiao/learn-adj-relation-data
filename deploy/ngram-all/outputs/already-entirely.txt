@@ -1,0 +1,6 @@
+=== already > entirely
+
+=== already < entirely
+already , almost entirely	90
+already , almost entirely !	90
+=== END

@@ -1,0 +1,7 @@
+=== something > work
+work , or even something	51
+work , but not something	40
+work , but not something	40
+
+=== something < work
+=== END

@@ -1,0 +1,12 @@
+=== better > him
+him , and even better	41
+him , or even better	78
+him even better ! </s>	45
+him even better : an	42
+him even better than before	101
+him even better than the	46
+him even better when the	42
+him , if not better	41
+
+=== better < him
+=== END

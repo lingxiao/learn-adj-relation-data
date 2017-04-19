@@ -1,0 +1,9 @@
+=== by > information
+information , almost by	51
+information , almost by its	47
+information , even by	131
+information , but not by	42
+information , but not by	42
+
+=== by < information
+=== END

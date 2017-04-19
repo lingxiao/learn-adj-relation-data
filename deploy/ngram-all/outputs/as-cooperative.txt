@@ -1,0 +1,5 @@
+=== as > cooperative
+
+=== as < cooperative
+as fully cooperative	87
+=== END

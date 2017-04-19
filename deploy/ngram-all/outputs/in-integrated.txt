@@ -1,0 +1,32 @@
+=== in > integrated
+integrated even in the	40
+integrated fully in	239
+integrated fully in the	77
+
+=== in < integrated
+in fully integrated	185
+in fully integrated	96
+in fully integrated	11148
+in fully integrated	57
+in fully integrated	3152
+in fully integrated dishwasher	42
+in fully integrated washer	52
+in fully integrated remedy	11022
+in and fully integrated	69
+in fully integrated ,	523
+in fully integrated </s>	250
+in fully integrated british	42
+in fully integrated long	90
+in fully integrated dishwasher	53
+in fully integrated petroleum	58
+in fully integrated robotic	611
+in fully integrated systems	65
+in fully integrated turnkey	41
+in fully integrated washer dryer	52
+in fully integrated remedy environments	11016
+in fully integrated , enterprise	414
+in fully integrated british sign	40
+in fully integrated long term	90
+in fully integrated petroleum operations	55
+in fully integrated robotic and	611
+=== END

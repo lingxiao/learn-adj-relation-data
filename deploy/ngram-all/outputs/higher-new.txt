@@ -1,0 +1,8 @@
+=== higher > new
+new even higher -	56
+new , even higher	113
+new and even higher	101
+new even higher - tech	56
+
+=== higher < new
+=== END

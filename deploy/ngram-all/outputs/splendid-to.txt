@@ -1,0 +1,5 @@
+=== splendid > to
+
+=== splendid < to
+splendid , even to	43
+=== END

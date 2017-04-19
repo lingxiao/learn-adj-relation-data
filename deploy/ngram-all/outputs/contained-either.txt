@@ -1,0 +1,5 @@
+=== contained > either
+either fully contained	45
+
+=== contained < either
+=== END

@@ -1,0 +1,7 @@
+=== used > zero
+zero if not used	192
+zero if not used )	61
+zero if not used .	96
+
+=== used < zero
+=== END

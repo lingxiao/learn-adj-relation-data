@@ -1,0 +1,25 @@
+=== know > that
+that even know about	69
+that even know what	124
+that even know who	41
+that , or even know	53
+not know , just that	162
+
+=== know < that
+know , even that	202
+know even that ,	102
+know even that .	90
+know even that ?	63
+know even that has	43
+know even that he	41
+know even that much	131
+know even that there	45
+know , and even that	59
+know , or even that	54
+know even that , "	54
+know even that ? </s>	56
+know even that has not	41
+know fully that	303
+know , but not that	280
+know , but not that	280
+=== END

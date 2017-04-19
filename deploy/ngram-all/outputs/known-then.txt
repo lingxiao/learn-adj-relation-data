@@ -1,0 +1,11 @@
+=== known > then
+
+=== known < then
+known , even then	111
+known even then ,	74
+known even then .	73
+known even then as	78
+known even then that	106
+known , and even then	50
+known , even then ,	94
+=== END

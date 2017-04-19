@@ -1,0 +1,5 @@
+=== smaller > some
+some even smaller .	44
+
+=== smaller < some
+=== END

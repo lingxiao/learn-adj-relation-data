@@ -1,0 +1,10 @@
+=== heavy > strong
+strong but not heavy	102
+strong , but not heavy	43
+strong but not heavy .	54
+strong but not heavy	102
+strong , but not heavy	43
+strong but not heavy .	54
+
+=== heavy < strong
+=== END

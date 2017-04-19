@@ -1,0 +1,50 @@
+=== a > back
+back almost a century	1117
+back almost a decade	593
+back almost a full	64
+back almost a half	54
+back almost a hundred	213
+back almost a millennium	41
+back almost a month	119
+back almost a quarter	118
+back almost a thousand	568
+back almost a week	149
+back almost a year	471
+back almost a century ,	510
+back almost a century .	313
+back almost a century and	70
+back almost a century to	62
+back almost a decade ,	163
+back almost a decade .	172
+back almost a decade were	82
+back almost a hundred years	183
+back almost a quarter of	90
+back almost a thousand years	542
+back almost a week ,	45
+back almost a year ,	52
+back almost a year .	99
+back almost a year ago	83
+back almost a year and	51
+back even a bit	45
+back even a couple	41
+back even a few	137
+back even a fraction	69
+back even a little	255
+back even a portion	43
+back even a single	92
+back even a small	70
+back even a symbolic	52
+back , even a little	51
+back and even a program	155
+back even a fraction of	65
+back even a little .	51
+back even a little bit	44
+back even a portion of	42
+back even a symbolic vote	52
+back or even a step	47
+back but not a	154
+back , but not a	235
+
+=== a < back
+a fully back	59
+=== END

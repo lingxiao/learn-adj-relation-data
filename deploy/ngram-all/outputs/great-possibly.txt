@@ -1,0 +1,7 @@
+=== great > possibly
+possibly even a great	60
+possibly even great photographs	80
+possibly even great photographs ,	80
+
+=== great < possibly
+=== END

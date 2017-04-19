@@ -1,0 +1,6 @@
+=== big > truly
+
+=== big < truly
+not just big but truly	52
+not just big but truly	52
+=== END

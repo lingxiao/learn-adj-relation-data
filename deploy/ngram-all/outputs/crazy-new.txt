@@ -1,0 +1,5 @@
+=== crazy > new
+
+=== crazy < new
+crazy and even new	48
+=== END

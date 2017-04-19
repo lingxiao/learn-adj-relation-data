@@ -1,0 +1,9 @@
+=== even > well
+well , if not even	80
+well , but not even	50
+well , but not even	50
+
+=== even < well
+even if not well	285
+even if not well -	56
+=== END

@@ -1,0 +1,6 @@
+=== as > imminent
+imminent , almost as	510
+imminent , almost as soon	510
+
+=== as < imminent
+=== END

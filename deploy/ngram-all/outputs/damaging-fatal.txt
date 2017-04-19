@@ -1,0 +1,9 @@
+=== damaging > fatal
+
+=== damaging < fatal
+damaging , even fatal	48
+damaging and even fatal	51
+damaging or even fatal	75
+damaging or even fatal .	46
+damaging , if not fatal	66
+=== END

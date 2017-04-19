@@ -1,0 +1,6 @@
+=== classy > pretentious
+
+=== classy < pretentious
+classy but not pretentious	54
+classy but not pretentious	54
+=== END

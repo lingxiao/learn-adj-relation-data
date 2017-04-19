@@ -1,0 +1,12 @@
+=== enough > necessary
+necessary but not enough	461
+necessary , but not enough	554
+necessary but not enough .	184
+necessary but not enough to	107
+necessary but not enough	461
+necessary , but not enough	554
+necessary but not enough .	184
+necessary but not enough to	107
+
+=== enough < necessary
+=== END

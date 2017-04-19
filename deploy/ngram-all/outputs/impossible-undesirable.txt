@@ -1,0 +1,9 @@
+=== impossible > undesirable
+undesirable or even impossible	97
+undesirable , if not impossible	46
+
+=== impossible < undesirable
+impossible , even undesirable	49
+impossible and even undesirable	76
+impossible or even undesirable	45
+=== END

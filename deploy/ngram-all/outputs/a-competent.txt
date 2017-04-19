@@ -1,0 +1,36 @@
+=== a > competent
+competent but not a	66
+a competent but not a	45
+competent , but not a	51
+
+=== a < competent
+a fully competent	166
+a fully competent	3079
+a fully competent engineer	48
+a fully competent %	42
+a fully competent ,	388
+a fully competent </s>	56
+a fully competent adult	81
+a fully competent and	146
+a fully competent employee	121
+a fully competent engineer	72
+a fully competent immune	125
+a fully competent individual	92
+a fully competent level	52
+a fully competent manner	73
+a fully competent one	89
+a fully competent patient	65
+a fully competent person	50
+a fully competent practitioner	183
+a fully competent professional	69
+a fully competent engineer that	48
+a fully competent % 2c	42
+a fully competent , individual	290
+a fully competent employee .	59
+a fully competent engineer in	55
+a fully competent immune system	121
+a fully competent individual who	56
+a fully competent manner .	44
+a fully competent one ,	84
+a fully competent practitioner of	173
+=== END

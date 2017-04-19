@@ -1,0 +1,10 @@
+=== otherwise > then
+then but not otherwise	53
+then , but not otherwise	50
+then but not otherwise	53
+then , but not otherwise	50
+
+=== otherwise < then
+otherwise and even then	42
+otherwise , and even then	61
+=== END

@@ -1,0 +1,16 @@
+=== aggressive > assertive
+assertive , even aggressive	126
+assertive and even aggressive	46
+assertive or even aggressive	60
+assertive , even aggressive ,	63
+assertive but not aggressive	390
+assertive , but not aggressive	226
+assertive but not aggressive ,	92
+assertive but not aggressive .	143
+assertive but not aggressive	390
+assertive , but not aggressive	226
+assertive but not aggressive ,	92
+assertive but not aggressive .	143
+
+=== aggressive < assertive
+=== END

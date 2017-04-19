@@ -1,0 +1,8 @@
+=== educated > necessarily
+
+=== educated < necessarily
+educated but not necessarily	55
+educated , but not necessarily	76
+educated but not necessarily	55
+educated , but not necessarily	76
+=== END

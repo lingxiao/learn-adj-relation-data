@@ -1,0 +1,15 @@
+=== easy > hard
+easy or very hard	343
+easy , or very hard	45
+easy or very hard .	123
+hard but not easy	47
+hard , but not easy	78
+hard but not easy	47
+hard , but not easy	78
+
+=== easy < hard
+hard or very easy	186
+hard or very easy at	71
+easy but not hard	50
+easy but not hard	50
+=== END
