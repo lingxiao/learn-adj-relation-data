@@ -1,0 +1,14 @@
+(dp0
+Vconsiderably
+p1
+F0.25
+sVthick
+p2
+F0.25
+sVjam-packed
+p3
+F0.25
+sVforeverything
+p4
+F0.25
+s.

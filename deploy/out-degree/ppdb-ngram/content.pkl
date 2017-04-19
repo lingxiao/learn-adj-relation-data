@@ -1,0 +1,14 @@
+(dp0
+Vcomplacent
+p1
+F0.25
+sVsatisfied
+p2
+F0.25
+sVpleased
+p3
+F0.25
+sVhappy
+p4
+F0.25
+s.

@@ -1,0 +1,17 @@
+(dp0
+Vchilly
+p1
+F0.2
+sVhot
+p2
+F0.2
+sVwarm
+p3
+F0.2
+sVwarmer
+p4
+F0.2
+sVwarmth
+p5
+F0.2
+s.

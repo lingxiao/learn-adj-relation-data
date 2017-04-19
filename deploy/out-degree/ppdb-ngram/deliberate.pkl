@@ -1,0 +1,17 @@
+(dp0
+Vdeliberately
+p1
+F0.14285714285714285
+sVintentionally
+p2
+F0.14285714285714285
+sVintentional
+p3
+F0.2857142857142857
+sVintended
+p4
+F0.14285714285714285
+sVdeliberate
+p5
+F0.2857142857142857
+s.

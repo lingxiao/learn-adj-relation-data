@@ -1,0 +1,14 @@
+(dp0
+Vdiversified
+p1
+F0.3
+sVdiverse
+p2
+F0.5
+sVbroader
+p3
+F0.1
+sVmultifaceted
+p4
+F0.1
+s.

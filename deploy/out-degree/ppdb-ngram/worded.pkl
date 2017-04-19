@@ -1,0 +1,17 @@
+(dp0
+Vpowerful
+p1
+F0.2
+sVstrong
+p2
+F0.2
+sVvigorous
+p3
+F0.2
+sVenergetic
+p4
+F0.2
+sVtough
+p5
+F0.2
+s.

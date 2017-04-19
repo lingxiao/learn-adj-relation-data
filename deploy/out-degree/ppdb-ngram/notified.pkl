@@ -1,0 +1,8 @@
+(dp0
+Vinformed
+p1
+F0.5
+sVcircumspect
+p2
+F0.5
+s.

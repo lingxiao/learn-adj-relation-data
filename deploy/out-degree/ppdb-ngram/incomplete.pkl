@@ -1,0 +1,17 @@
+(dp0
+Vdeficient
+p1
+F0.125
+sVunder-inclusive
+p2
+F0.125
+sVsketchy
+p3
+F0.25
+sVpartial
+p4
+F0.125
+sVincomplete
+p5
+F0.375
+s.

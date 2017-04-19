@@ -1,0 +1,11 @@
+(dp0
+Vundemocratic
+p1
+F0.3333333333333333
+sVdemocratically
+p2
+F0.3333333333333333
+sVdemocratic
+p3
+F0.3333333333333333
+s.

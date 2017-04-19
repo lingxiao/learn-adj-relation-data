@@ -1,0 +1,11 @@
+(dp0
+Vcharacteristic
+p1
+F0.3333333333333333
+sVtypical
+p2
+F0.3333333333333333
+sVdistinctive
+p3
+F0.3333333333333333
+s.

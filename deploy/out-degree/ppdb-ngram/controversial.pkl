@@ -1,0 +1,14 @@
+(dp0
+Vquestionable
+p1
+F0.125
+sVuncontroversial
+p2
+F0.125
+sVcontentious
+p3
+F0.375
+sVcontroversial
+p4
+F0.375
+s.

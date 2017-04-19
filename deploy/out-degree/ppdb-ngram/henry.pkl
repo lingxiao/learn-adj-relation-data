@@ -1,0 +1,17 @@
+(dp0
+Vdegrading
+p1
+F0.2
+sVhorrible
+p2
+F0.2
+sVnasty
+p3
+F0.2
+sVdirty
+p4
+F0.2
+sVdisgusting
+p5
+F0.2
+s.

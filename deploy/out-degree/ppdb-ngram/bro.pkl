@@ -1,0 +1,14 @@
+(dp0
+Vbro
+p1
+F0.25
+sVlovely
+p2
+F0.25
+sVgreat
+p3
+F0.25
+sVwonderful
+p4
+F0.25
+s.
