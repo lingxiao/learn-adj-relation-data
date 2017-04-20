@@ -1,0 +1,17 @@
+(dp0
+S'absolutely'
+p1
+F0.039703703703703706
+sS'impossible'
+p2
+F0.29333333333333333
+sS'used'
+p3
+F0.02903703703703704
+sS'inevitable'
+p4
+F0.37155555555555553
+sS'possible'
+p5
+F0.26637037037037037
+s.
