@@ -1,0 +1,17 @@
+(dp0
+S'diversified'
+p1
+F0.2727272727272727
+sS'diverse'
+p2
+F0.45454545454545453
+sS'multifaceted'
+p3
+F0.09090909090909091
+sS'broader'
+p4
+F0.09090909090909091
+sS'though'
+p5
+F0.09090909090909091
+s.

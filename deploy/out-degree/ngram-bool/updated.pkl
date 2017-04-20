@@ -1,0 +1,8 @@
+(dp0
+S'immediately'
+p1
+F0.25
+sS'revised'
+p2
+F0.75
+s.

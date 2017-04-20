@@ -1,5 +1,5 @@
 (dp0
-Vsorry
+S'sorry'
 p1
 F1.0
 s.

@@ -1,0 +1,8 @@
+(dp0
+S'considered'
+p1
+F0.4
+sS'then'
+p2
+F0.6
+s.

@@ -1,8 +1,11 @@
 (dp0
-Vkorean
+S'korean'
 p1
-F0.5
-sVnorth
+F0.00909090909090909
+sS'north'
 p2
-F0.5
+F0.00909090909090909
+sS'worse'
+p3
+F0.9818181818181818
 s.

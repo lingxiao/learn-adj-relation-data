@@ -1,0 +1,11 @@
+(dp0
+S'these'
+p1
+F0.5
+sS'some'
+p2
+F0.1875
+sS'stated'
+p3
+F0.3125
+s.

@@ -1,0 +1,11 @@
+(dp0
+S'astonishing'
+p1
+F0.6678023850085179
+sS'stunning'
+p2
+F0.19250425894378195
+sS'mistaken'
+p3
+F0.13969335604770017
+s.

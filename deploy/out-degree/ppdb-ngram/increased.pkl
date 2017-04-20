@@ -1,5 +1,5 @@
 (dp0
-Vnew
+S'new'
 p1
 F1.0
 s.

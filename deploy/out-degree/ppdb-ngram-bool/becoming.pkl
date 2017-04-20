@@ -1,0 +1,17 @@
+(dp0
+S'well-done'
+p1
+F0.1
+sS'qualified'
+p2
+F0.2
+sS'functional'
+p3
+F0.3
+sS'alive'
+p4
+F0.3
+sS'mature'
+p5
+F0.1
+s.

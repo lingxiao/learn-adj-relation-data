@@ -1,0 +1,11 @@
+(dp0
+S'all'
+p1
+F0.5
+sS'everyone'
+p2
+F0.25
+sS'every'
+p3
+F0.25
+s.

@@ -1,8 +1,11 @@
 (dp0
-Venraged
+S'enraged'
 p1
-F0.5
-sVsore
+F0.004629629629629629
+sS'surprised'
 p2
-F0.5
+F0.9907407407407407
+sS'sore'
+p3
+F0.004629629629629629
 s.

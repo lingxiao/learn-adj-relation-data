@@ -1,0 +1,17 @@
+(dp0
+S'toxic'
+p1
+F0.125
+sS'acute'
+p2
+F0.125
+sS'poisonous'
+p3
+F0.125
+sS'non-toxic'
+p4
+F0.125
+sS'deadly'
+p5
+F0.5
+s.

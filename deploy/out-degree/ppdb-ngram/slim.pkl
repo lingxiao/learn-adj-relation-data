@@ -1,8 +1,11 @@
 (dp0
-Vslim
+S'skinny'
 p1
-F0.5
-sVminimal
+F0.9967845659163987
+sS'slim'
 p2
-F0.5
+F0.001607717041800643
+sS'minimal'
+p3
+F0.001607717041800643
 s.

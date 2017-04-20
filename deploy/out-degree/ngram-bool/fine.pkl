@@ -1,0 +1,14 @@
+(dp0
+S'to'
+p1
+F0.2
+sS'good'
+p2
+F0.24
+sS'worth'
+p3
+F0.08
+sS'spectacular'
+p4
+F0.48
+s.

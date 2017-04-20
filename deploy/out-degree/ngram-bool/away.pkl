@@ -1,0 +1,17 @@
+(dp0
+S'very'
+p1
+F0.12
+sS'bad'
+p2
+F0.08
+sS'with'
+p3
+F0.36
+sS'longer'
+p4
+F0.04
+sS'that'
+p5
+F0.4
+s.

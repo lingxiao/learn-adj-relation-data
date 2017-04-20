@@ -1,0 +1,14 @@
+(dp0
+S'patience'
+p1
+F0.2
+sS'patient'
+p2
+F0.2
+sS'awake'
+p3
+F0.2
+sS'too'
+p4
+F0.4
+s.

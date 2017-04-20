@@ -1,0 +1,8 @@
+(dp0
+S'all'
+p1
+F0.5
+sS'recent'
+p2
+F0.5
+s.

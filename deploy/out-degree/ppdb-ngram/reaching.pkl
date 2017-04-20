@@ -1,8 +1,11 @@
 (dp0
-Vfar
+S'far'
 p1
-F0.5
-sVfar-reaching
+F0.009433962264150943
+sS'three'
 p2
-F0.5
+F0.9811320754716981
+sS'far-reaching'
+p3
+F0.009433962264150943
 s.

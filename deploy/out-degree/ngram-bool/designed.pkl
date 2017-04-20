@@ -1,0 +1,8 @@
+(dp0
+S'necessarily'
+p1
+F0.5
+sS'performed'
+p2
+F0.5
+s.

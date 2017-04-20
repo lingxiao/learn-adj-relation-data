@@ -1,5 +1,5 @@
 (dp0
-Vsevere
+S'severe'
 p1
 F1.0
 s.

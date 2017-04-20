@@ -1,0 +1,11 @@
+(dp0
+S'sure'
+p1
+F0.6
+sS'just'
+p2
+F0.2
+sS'used'
+p3
+F0.2
+s.

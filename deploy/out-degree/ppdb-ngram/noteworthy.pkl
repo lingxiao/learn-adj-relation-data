@@ -1,5 +1,5 @@
 (dp0
-Vgreatest
+S'greatest'
 p1
 F1.0
 s.

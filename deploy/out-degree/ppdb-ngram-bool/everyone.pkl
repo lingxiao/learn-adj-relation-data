@@ -1,0 +1,14 @@
+(dp0
+S'poor'
+p1
+F0.16666666666666666
+sS'everything'
+p2
+F0.16666666666666666
+sS'strangers'
+p3
+F0.5
+sS'open-ended'
+p4
+F0.16666666666666666
+s.

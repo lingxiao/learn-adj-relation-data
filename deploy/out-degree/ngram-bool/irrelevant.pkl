@@ -1,0 +1,11 @@
+(dp0
+S'harmful'
+p1
+F0.5
+sS'as'
+p2
+F0.25
+sS'misleading'
+p3
+F0.25
+s.

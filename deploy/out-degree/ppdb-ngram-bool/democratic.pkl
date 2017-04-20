@@ -1,0 +1,14 @@
+(dp0
+S'undemocratic'
+p1
+F0.2
+sS'democratically'
+p2
+F0.2
+sS'democratic'
+p3
+F0.2
+sS'also'
+p4
+F0.4
+s.

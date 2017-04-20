@@ -1,0 +1,17 @@
+(dp0
+S'pushy'
+p1
+F0.0847457627118644
+sS'entertaining'
+p2
+F0.03389830508474576
+sS'necessary'
+p3
+F0.7796610169491526
+sS'entirely'
+p4
+F0.05084745762711865
+sS'really'
+p5
+F0.05084745762711865
+s.

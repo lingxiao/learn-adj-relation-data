@@ -1,0 +1,8 @@
+(dp0
+S'extraordinary'
+p1
+F0.6666666666666666
+sS'justified'
+p2
+F0.3333333333333333
+s.

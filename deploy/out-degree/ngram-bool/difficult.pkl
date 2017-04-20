@@ -1,0 +1,11 @@
+(dp0
+S'of'
+p1
+F0.6
+sS'experienced'
+p2
+F0.2
+sS'out'
+p3
+F0.2
+s.

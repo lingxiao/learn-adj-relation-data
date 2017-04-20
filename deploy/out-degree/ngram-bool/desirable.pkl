@@ -1,0 +1,8 @@
+(dp0
+S'at'
+p1
+F0.5
+sS'compulsory'
+p2
+F0.5
+s.

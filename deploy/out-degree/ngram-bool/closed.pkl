@@ -1,0 +1,14 @@
+(dp0
+S'flat'
+p1
+F0.125
+sS'shut'
+p2
+F0.25
+sS'sealed'
+p3
+F0.5
+sS'immediately'
+p4
+F0.125
+s.

@@ -1,5 +1,8 @@
 (dp0
-Vdedicated
+S'dedicated'
 p1
-F1.0
+F0.013888888888888888
+sS'all'
+p2
+F0.9861111111111112
 s.

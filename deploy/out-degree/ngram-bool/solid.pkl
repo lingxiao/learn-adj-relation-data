@@ -1,0 +1,14 @@
+(dp0
+S'overwhelming'
+p1
+F0.375
+sS'with'
+p2
+F0.25
+sS'liquid'
+p3
+F0.125
+sS'exciting'
+p4
+F0.25
+s.

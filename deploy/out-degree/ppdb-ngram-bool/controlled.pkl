@@ -1,0 +1,11 @@
+(dp0
+S'well-controlled'
+p1
+F0.25
+sS'controlled'
+p2
+F0.25
+sS'automated'
+p3
+F0.5
+s.

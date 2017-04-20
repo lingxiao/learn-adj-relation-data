@@ -1,0 +1,14 @@
+(dp0
+S'exactly'
+p1
+F0.25
+sS'deeper'
+p2
+F0.25
+sS'deep'
+p3
+F0.25
+sS'profound'
+p4
+F0.25
+s.

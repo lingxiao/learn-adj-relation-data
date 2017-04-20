@@ -1,0 +1,8 @@
+(dp0
+S'connected'
+p1
+F0.75
+sS'stay'
+p2
+F0.25
+s.

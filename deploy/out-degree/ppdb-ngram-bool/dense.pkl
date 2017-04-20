@@ -1,0 +1,8 @@
+(dp0
+S'impenetrable'
+p1
+F0.8
+sS'denser'
+p2
+F0.2
+s.

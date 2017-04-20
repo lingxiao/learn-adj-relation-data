@@ -1,5 +1,11 @@
 (dp0
-Vtogether
+S'ended'
 p1
-F1.0
+F0.21026894865525672
+sS'enough'
+p2
+F0.7872860635696821
+sS'together'
+p3
+F0.0024449877750611247
 s.

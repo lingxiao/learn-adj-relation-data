@@ -1,0 +1,8 @@
+(dp0
+S'spent'
+p1
+F0.125
+sS'more'
+p2
+F0.875
+s.

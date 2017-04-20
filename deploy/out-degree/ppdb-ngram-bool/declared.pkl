@@ -1,0 +1,14 @@
+(dp0
+S'operational'
+p1
+F0.3
+sS'open'
+p2
+F0.05
+sS'public'
+p3
+F0.05
+sS'yet'
+p4
+F0.6
+s.

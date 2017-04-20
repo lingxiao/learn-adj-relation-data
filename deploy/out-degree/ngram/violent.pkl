@@ -1,0 +1,11 @@
+(dp0
+S'homicidal'
+p1
+F0.25925925925925924
+sS'political'
+p2
+F0.42592592592592593
+sS'murderous'
+p3
+F0.3148148148148148
+s.

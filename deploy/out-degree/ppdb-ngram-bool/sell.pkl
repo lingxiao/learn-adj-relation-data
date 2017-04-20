@@ -1,0 +1,11 @@
+(dp0
+S'lesser'
+p1
+F0.4
+sS'sold'
+p2
+F0.2
+sS'with'
+p3
+F0.4
+s.

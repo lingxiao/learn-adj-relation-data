@@ -1,0 +1,11 @@
+(dp0
+S'also'
+p1
+F0.25
+sS'necessary'
+p2
+F0.25
+sS'for'
+p3
+F0.5
+s.

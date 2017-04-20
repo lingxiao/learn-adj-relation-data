@@ -1,0 +1,8 @@
+(dp0
+S'possible'
+p1
+F0.28859060402684567
+sS'progressive'
+p2
+F0.7114093959731543
+s.

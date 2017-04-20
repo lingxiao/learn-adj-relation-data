@@ -1,8 +1,11 @@
 (dp0
-Vready
+S'ready'
 p1
-F0.5
-sV-ready
+F0.01098901098901099
+sS'-ready'
 p2
-F0.5
+F0.01098901098901099
+sS'with'
+p3
+F0.978021978021978
 s.

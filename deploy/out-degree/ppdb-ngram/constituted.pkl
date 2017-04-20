@@ -1,5 +1,8 @@
 (dp0
-Vdemocratic
+S'only'
 p1
-F1.0
+F0.9824561403508771
+sS'democratic'
+p2
+F0.017543859649122806
 s.

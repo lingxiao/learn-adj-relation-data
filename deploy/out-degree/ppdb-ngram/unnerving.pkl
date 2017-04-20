@@ -1,5 +1,5 @@
 (dp0
-Vannoying
+S'annoying'
 p1
 F1.0
 s.

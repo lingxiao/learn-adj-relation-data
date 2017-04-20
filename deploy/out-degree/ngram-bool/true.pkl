@@ -1,0 +1,17 @@
+(dp0
+S'down'
+p1
+F0.125
+sS'many'
+p2
+F0.25
+sS'unwelcome'
+p3
+F0.25
+sS'something'
+p4
+F0.25
+sS'truer'
+p5
+F0.125
+s.

@@ -1,0 +1,14 @@
+(dp0
+S'further'
+p1
+F0.16666666666666666
+sS'imperceptible'
+p2
+F0.16666666666666666
+sS'formed'
+p3
+F0.16666666666666666
+sS'yet'
+p4
+F0.5
+s.

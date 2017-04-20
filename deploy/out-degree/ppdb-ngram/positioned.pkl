@@ -1,8 +1,11 @@
 (dp0
-Videal
+S'ideal'
 p1
-F0.5
-sVideally
+F0.022727272727272728
+sS'with'
 p2
-F0.5
+F0.9545454545454546
+sS'ideally'
+p3
+F0.022727272727272728
 s.

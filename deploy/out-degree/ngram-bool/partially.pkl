@@ -1,0 +1,14 @@
+(dp0
+S'impaired'
+p1
+F0.25
+sS'financed'
+p2
+F0.25
+sS'met'
+p3
+F0.25
+sS'vested'
+p4
+F0.25
+s.

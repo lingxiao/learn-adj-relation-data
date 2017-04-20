@@ -1,0 +1,11 @@
+(dp0
+S'before'
+p1
+F0.16
+sS'now'
+p2
+F0.12
+sS'though'
+p3
+F0.72
+s.

@@ -1,0 +1,14 @@
+(dp0
+S'loaded'
+p1
+F0.2
+sS'protected'
+p2
+F0.2
+sS'sponsored'
+p3
+F0.4
+sS'received'
+p4
+F0.2
+s.

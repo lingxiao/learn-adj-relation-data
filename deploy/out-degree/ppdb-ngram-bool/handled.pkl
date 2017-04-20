@@ -1,0 +1,14 @@
+(dp0
+S'disposal'
+p1
+F0.16666666666666666
+sS'processing'
+p2
+F0.16666666666666666
+sS'handling'
+p3
+F0.16666666666666666
+sS'like'
+p4
+F0.5
+s.

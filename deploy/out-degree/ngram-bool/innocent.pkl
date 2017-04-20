@@ -1,0 +1,8 @@
+(dp0
+S'laudable'
+p1
+F0.2
+sS'unaware'
+p2
+F0.8
+s.

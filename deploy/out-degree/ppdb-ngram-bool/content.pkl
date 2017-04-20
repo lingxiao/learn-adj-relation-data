@@ -1,0 +1,14 @@
+(dp0
+S'complacent'
+p1
+F0.1
+sS'satisfied'
+p2
+F0.1
+sS'pleased'
+p3
+F0.1
+sS'happy'
+p4
+F0.7
+s.

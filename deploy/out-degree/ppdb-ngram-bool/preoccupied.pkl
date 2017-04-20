@@ -1,0 +1,17 @@
+(dp0
+S'concerned'
+p1
+F0.16666666666666666
+sS'troubled'
+p2
+F0.16666666666666666
+sS'preoccupied'
+p3
+F0.16666666666666666
+sS'obsessed'
+p4
+F0.3333333333333333
+sS'worried'
+p5
+F0.16666666666666666
+s.

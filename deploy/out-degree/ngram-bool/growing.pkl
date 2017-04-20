@@ -1,0 +1,8 @@
+(dp0
+S'grown'
+p1
+F0.2
+sS'fast'
+p2
+F0.8
+s.

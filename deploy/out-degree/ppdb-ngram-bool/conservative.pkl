@@ -1,0 +1,17 @@
+(dp0
+S'cautious'
+p1
+F0.125
+sS'careful'
+p2
+F0.125
+sS'too'
+p3
+F0.25
+sS'prudent'
+p4
+F0.125
+sS'conservative'
+p5
+F0.375
+s.

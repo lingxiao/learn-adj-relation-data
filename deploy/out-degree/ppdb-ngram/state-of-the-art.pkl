@@ -1,5 +1,5 @@
 (dp0
-Vlatest
+S'latest'
 p1
 F1.0
 s.

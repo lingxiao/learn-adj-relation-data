@@ -1,0 +1,11 @@
+(dp0
+S'chosen'
+p1
+F0.2
+sS'precisely'
+p2
+F0.4
+sS'required'
+p3
+F0.4
+s.

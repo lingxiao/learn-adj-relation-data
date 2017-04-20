@@ -1,0 +1,8 @@
+(dp0
+S'naked'
+p1
+F0.25
+sS'only'
+p2
+F0.75
+s.

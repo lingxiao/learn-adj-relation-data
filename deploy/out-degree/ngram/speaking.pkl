@@ -1,0 +1,8 @@
+(dp0
+S'entirely'
+p1
+F0.37404580152671757
+sS'understanding'
+p2
+F0.6259541984732825
+s.

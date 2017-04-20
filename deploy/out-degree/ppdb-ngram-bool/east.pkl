@@ -1,0 +1,14 @@
+(dp0
+S'southwestern'
+p1
+F0.14285714285714285
+sS'northeastern'
+p2
+F0.14285714285714285
+sS'southeastern'
+p3
+F0.14285714285714285
+sS'before'
+p4
+F0.5714285714285714
+s.

@@ -1,0 +1,17 @@
+(dp0
+S'someplace'
+p1
+F0.125
+sS'secret'
+p2
+F0.5
+sS'discreet'
+p3
+F0.125
+sS'elsewhere'
+p4
+F0.125
+sS'private'
+p5
+F0.125
+s.

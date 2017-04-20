@@ -1,5 +1,5 @@
 (dp0
-Vdiverse
+S'diverse'
 p1
 F1.0
 s.

@@ -1,0 +1,14 @@
+(dp0
+S'disabled'
+p1
+F0.4
+sS'mental'
+p2
+F0.2
+sS'lunatic'
+p3
+F0.2
+sS'though'
+p4
+F0.2
+s.

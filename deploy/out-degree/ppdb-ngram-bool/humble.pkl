@@ -1,0 +1,14 @@
+(dp0
+S'most'
+p1
+F0.25
+sS'modest'
+p2
+F0.25
+sS'humble'
+p3
+F0.25
+sS'humbled'
+p4
+F0.25
+s.

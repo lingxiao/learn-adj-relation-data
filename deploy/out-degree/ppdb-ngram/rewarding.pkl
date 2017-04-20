@@ -1,8 +1,11 @@
 (dp0
-Vrewarding
+S'rewarding'
 p1
-F0.5
-sVvaluable
+F0.012345679012345678
+sS'valuable'
 p2
-F0.5
+F0.012345679012345678
+sS'more'
+p3
+F0.9753086419753086
 s.

@@ -1,0 +1,8 @@
+(dp0
+S'over'
+p1
+F0.28
+sS'dual'
+p2
+F0.72
+s.

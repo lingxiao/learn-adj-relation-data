@@ -1,0 +1,14 @@
+(dp0
+S'available'
+p1
+F0.2
+sS'then'
+p2
+F0.1
+sS'best'
+p3
+F0.2
+sS'specified'
+p4
+F0.5
+s.

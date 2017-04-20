@@ -1,0 +1,11 @@
+(dp0
+S'popular'
+p1
+F0.25
+sS'a'
+p2
+F0.5
+sS'appreciated'
+p3
+F0.25
+s.

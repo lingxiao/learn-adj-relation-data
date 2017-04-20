@@ -1,0 +1,14 @@
+(dp0
+S'everybody'
+p1
+F0.125
+sS'all'
+p2
+F0.125
+sS'with'
+p3
+F0.25
+sS'crushed'
+p4
+F0.5
+s.

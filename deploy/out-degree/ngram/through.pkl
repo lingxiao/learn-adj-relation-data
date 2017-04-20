@@ -1,0 +1,17 @@
+(dp0
+S'developed'
+p1
+F0.08338405356055995
+sS'much'
+p2
+F0.08277541083384053
+sS'whole'
+p3
+F0.5906877662811929
+sS'integrated'
+p4
+F0.2215459525258673
+sS'impenetrable'
+p5
+F0.021606816798539256
+s.

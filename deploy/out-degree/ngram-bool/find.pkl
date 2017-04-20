@@ -1,0 +1,14 @@
+(dp0
+S'better'
+p1
+F0.1
+sS'on'
+p2
+F0.35
+sS'you'
+p3
+F0.3
+sS'here'
+p4
+F0.25
+s.

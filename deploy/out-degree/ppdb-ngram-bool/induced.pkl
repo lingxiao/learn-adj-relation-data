@@ -1,0 +1,8 @@
+(dp0
+S'medical'
+p1
+F0.2
+sS'in'
+p2
+F0.8
+s.

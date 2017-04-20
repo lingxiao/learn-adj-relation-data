@@ -1,0 +1,11 @@
+(dp0
+S'accelerated'
+p1
+F0.25
+sS'smooth'
+p2
+F0.5
+sS'automated'
+p3
+F0.25
+s.

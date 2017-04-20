@@ -1,0 +1,8 @@
+(dp0
+S'this'
+p1
+F0.2
+sS'too'
+p2
+F0.8
+s.

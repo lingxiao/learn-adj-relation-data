@@ -1,0 +1,14 @@
+(dp0
+S'imminent'
+p1
+F0.2
+sS'as'
+p2
+F0.4
+sS'sooner'
+p3
+F0.2
+sS'urgent'
+p4
+F0.2
+s.

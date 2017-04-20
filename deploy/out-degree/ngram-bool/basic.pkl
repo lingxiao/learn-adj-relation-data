@@ -1,0 +1,11 @@
+(dp0
+S'necessarily'
+p1
+F0.2
+sS'for'
+p2
+F0.6
+sS'though'
+p3
+F0.2
+s.

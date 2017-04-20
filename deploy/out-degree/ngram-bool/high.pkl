@@ -1,0 +1,11 @@
+(dp0
+S'exceptional'
+p1
+F0.04
+sS'highest'
+p2
+F0.08
+sS'higher'
+p3
+F0.88
+s.

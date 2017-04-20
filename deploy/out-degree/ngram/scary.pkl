@@ -1,0 +1,8 @@
+(dp0
+S'sinister'
+p1
+F0.6805555555555556
+sS'frightening'
+p2
+F0.3194444444444444
+s.

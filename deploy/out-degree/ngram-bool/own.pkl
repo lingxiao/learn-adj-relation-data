@@ -1,0 +1,17 @@
+(dp0
+S'dedicated'
+p1
+F0.1
+sS'before'
+p2
+F0.4
+sS'managed'
+p3
+F0.1
+sS'single'
+p4
+F0.1
+sS'operational'
+p5
+F0.3
+s.

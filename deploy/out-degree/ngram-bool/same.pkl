@@ -1,0 +1,17 @@
+(dp0
+S'a'
+p1
+F0.56
+sS'down'
+p2
+F0.08
+sS'explained'
+p3
+F0.04
+sS'equal'
+p4
+F0.24
+sS'tell'
+p5
+F0.08
+s.

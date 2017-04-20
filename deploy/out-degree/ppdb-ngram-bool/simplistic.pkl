@@ -1,0 +1,8 @@
+(dp0
+S'simplistic'
+p1
+F0.5
+sS'childish'
+p2
+F0.5
+s.

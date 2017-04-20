@@ -1,0 +1,17 @@
+(dp0
+S'content'
+p1
+F0.125
+sS'as'
+p2
+F0.15625
+sS'happier'
+p3
+F0.09375
+sS'euphoric'
+p4
+F0.0625
+sS'satisfied'
+p5
+F0.5625
+s.

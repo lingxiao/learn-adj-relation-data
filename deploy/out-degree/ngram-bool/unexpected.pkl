@@ -1,0 +1,11 @@
+(dp0
+S'astonishing'
+p1
+F0.4
+sS'stunning'
+p2
+F0.4
+sS'mistaken'
+p3
+F0.2
+s.

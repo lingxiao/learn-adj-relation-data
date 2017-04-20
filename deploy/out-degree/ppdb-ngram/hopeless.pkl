@@ -1,8 +1,11 @@
 (dp0
-Vreckless
+S'serious'
 p1
-F0.5
-sVdesperate
+F0.9985486211901307
+sS'reckless'
 p2
-F0.5
+F0.000725689404934688
+sS'desperate'
+p3
+F0.000725689404934688
 s.

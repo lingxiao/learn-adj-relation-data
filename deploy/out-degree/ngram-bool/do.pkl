@@ -1,0 +1,17 @@
+(dp0
+S'cooler'
+p1
+F0.1
+sS'hard'
+p2
+F0.15
+sS'everyone'
+p3
+F0.25
+sS'smallest'
+p4
+F0.25
+sS'anywhere'
+p5
+F0.25
+s.

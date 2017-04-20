@@ -1,8 +1,11 @@
 (dp0
-Vbattered
+S'stoned'
 p1
-F0.5
-sVstoned
+F0.010869565217391304
+sS'pleased'
 p2
-F0.5
+F0.9782608695652174
+sS'battered'
+p3
+F0.010869565217391304
 s.

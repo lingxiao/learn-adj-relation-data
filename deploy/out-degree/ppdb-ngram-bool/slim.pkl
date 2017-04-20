@@ -1,0 +1,11 @@
+(dp0
+S'skinny'
+p1
+F0.8
+sS'slim'
+p2
+F0.1
+sS'minimal'
+p3
+F0.1
+s.

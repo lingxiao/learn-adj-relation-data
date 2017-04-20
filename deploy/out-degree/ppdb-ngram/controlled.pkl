@@ -1,8 +1,11 @@
 (dp0
-Vwell-controlled
+S'well-controlled'
 p1
-F0.5
-sVcontrolled
+F0.005649717514124294
+sS'controlled'
 p2
-F0.5
+F0.005649717514124294
+sS'automated'
+p3
+F0.9887005649717514
 s.

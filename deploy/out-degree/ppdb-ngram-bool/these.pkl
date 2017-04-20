@@ -1,0 +1,17 @@
+(dp0
+S'further'
+p1
+F0.05
+sS'developed'
+p2
+F0.05
+sS'at'
+p3
+F0.15
+sS'restored'
+p4
+F0.05
+sS'though'
+p5
+F0.7
+s.

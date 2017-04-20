@@ -1,8 +1,11 @@
 (dp0
-Vdrunken
+S'drunken'
 p1
-F0.125
-sVdrunk
+F0.01694915254237288
+sS'drunk'
 p2
-F0.875
+F0.11864406779661017
+sS'in'
+p3
+F0.864406779661017
 s.

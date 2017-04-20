@@ -1,0 +1,14 @@
+(dp0
+S'equipped'
+p1
+F0.3
+sS'east'
+p2
+F0.1
+sS'though'
+p3
+F0.5
+sS'more'
+p4
+F0.1
+s.

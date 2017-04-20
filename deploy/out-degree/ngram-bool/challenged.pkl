@@ -1,0 +1,11 @@
+(dp0
+S'frustrated'
+p1
+F0.5
+sS'best'
+p2
+F0.16666666666666666
+sS'though'
+p3
+F0.3333333333333333
+s.

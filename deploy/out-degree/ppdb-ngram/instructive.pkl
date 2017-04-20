@@ -1,11 +1,11 @@
 (dp0
-Vinformative
+S'informative'
 p1
 F0.3333333333333333
-sVeducational
+sS'educational'
 p2
 F0.3333333333333333
-sVinstructive
+sS'instructive'
 p3
 F0.3333333333333333
 s.

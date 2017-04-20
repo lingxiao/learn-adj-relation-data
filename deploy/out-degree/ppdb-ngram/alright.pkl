@@ -1,8 +1,11 @@
 (dp0
-Vnothing
+S'nothing'
 p1
-F0.5
-sVanything
+F0.00032278889606197545
+sS'right'
 p2
-F0.5
+F0.9993544222078761
+sS'anything'
+p3
+F0.00032278889606197545
 s.

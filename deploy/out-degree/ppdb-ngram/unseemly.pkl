@@ -1,8 +1,8 @@
 (dp0
-Vunseemly
+S'unseemly'
 p1
 F0.5
-sVinappropriate
+sS'inappropriate'
 p2
 F0.5
 s.

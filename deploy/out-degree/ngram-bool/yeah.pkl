@@ -1,0 +1,11 @@
+(dp0
+S'all'
+p1
+F0.5
+sS'with'
+p2
+F0.3
+sS'at'
+p3
+F0.2
+s.

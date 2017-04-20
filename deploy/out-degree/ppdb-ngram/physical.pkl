@@ -1,8 +1,8 @@
 (dp0
-Vphysically
+S'physically'
 p1
 F0.5
-sVphysical
+sS'physical'
 p2
 F0.5
 s.

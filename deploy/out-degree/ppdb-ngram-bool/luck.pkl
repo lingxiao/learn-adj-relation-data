@@ -1,0 +1,17 @@
+(dp0
+S'luck'
+p1
+F0.2
+sS'then'
+p2
+F0.2
+sS'wonderful'
+p3
+F0.2
+sS'lucky'
+p4
+F0.2
+sS'in'
+p5
+F0.2
+s.

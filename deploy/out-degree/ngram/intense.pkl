@@ -1,0 +1,8 @@
+(dp0
+S'violent'
+p1
+F0.5765765765765766
+sS'overwhelming'
+p2
+F0.42342342342342343
+s.

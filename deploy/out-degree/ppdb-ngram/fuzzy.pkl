@@ -1,5 +1,8 @@
 (dp0
-Vfuzzy
+S'fuzzy'
 p1
-F1.0
+F0.006230529595015576
+sS'righteous'
+p2
+F0.9937694704049844
 s.

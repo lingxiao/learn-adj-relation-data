@@ -1,0 +1,14 @@
+(dp0
+S'miserable'
+p1
+F0.2
+sS'ridiculous'
+p2
+F0.2
+sS'pathetic'
+p3
+F0.2
+sS'wiser'
+p4
+F0.4
+s.

@@ -1,8 +1,8 @@
 (dp0
-Vflattering
+S'flattering'
 p1
 F0.5
-sVcomplimentary
+sS'complimentary'
 p2
 F0.5
 s.

@@ -1,0 +1,8 @@
+(dp0
+S'serene'
+p1
+F0.75
+sS'you'
+p2
+F0.25
+s.

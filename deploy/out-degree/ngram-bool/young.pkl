@@ -1,0 +1,11 @@
+(dp0
+S'born'
+p1
+F0.4
+sS'younger'
+p2
+F0.4
+sS'now'
+p3
+F0.2
+s.

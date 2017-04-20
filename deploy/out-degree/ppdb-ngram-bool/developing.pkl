@@ -1,0 +1,11 @@
+(dp0
+S'dynamic'
+p1
+F0.25
+sS'as'
+p2
+F0.375
+sS'commercial'
+p3
+F0.375
+s.

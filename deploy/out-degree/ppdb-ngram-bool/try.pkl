@@ -1,0 +1,14 @@
+(dp0
+S'ready'
+p1
+F0.2
+sS'readyto'
+p2
+F0.2
+sS'all'
+p3
+F0.4
+sS'prepared'
+p4
+F0.2
+s.

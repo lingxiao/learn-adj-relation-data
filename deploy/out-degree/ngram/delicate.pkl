@@ -1,0 +1,8 @@
+(dp0
+S'stylish'
+p1
+F0.9211746522411128
+sS'imperceptible'
+p2
+F0.07882534775888717
+s.

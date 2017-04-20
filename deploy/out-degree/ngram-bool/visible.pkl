@@ -1,0 +1,17 @@
+(dp0
+S'accessible'
+p1
+F0.5517241379310345
+sS'strongly'
+p2
+F0.06896551724137931
+sS'necessarily'
+p3
+F0.13793103448275862
+sS'normal'
+p4
+F0.034482758620689655
+sS'published'
+p5
+F0.20689655172413793
+s.

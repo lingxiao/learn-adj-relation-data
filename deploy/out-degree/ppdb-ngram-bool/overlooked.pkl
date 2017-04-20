@@ -1,0 +1,8 @@
+(dp0
+S'ignored'
+p1
+F0.6
+sS'forgotten'
+p2
+F0.4
+s.

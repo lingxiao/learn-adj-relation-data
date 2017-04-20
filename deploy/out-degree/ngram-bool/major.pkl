@@ -1,0 +1,11 @@
+(dp0
+S'decisive'
+p1
+F0.25
+sS'primary'
+p2
+F0.25
+sS'in'
+p3
+F0.5
+s.

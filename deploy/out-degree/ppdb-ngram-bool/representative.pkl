@@ -1,0 +1,17 @@
+(dp0
+S'representativeness'
+p1
+F0.2
+sS'broad-based'
+p2
+F0.1
+sS'representative'
+p3
+F0.3
+sS'a'
+p4
+F0.2
+sS'comprehensive'
+p5
+F0.2
+s.

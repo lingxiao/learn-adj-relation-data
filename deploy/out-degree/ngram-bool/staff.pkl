@@ -1,0 +1,8 @@
+(dp0
+S'engaged'
+p1
+F0.3
+sS'informed'
+p2
+F0.7
+s.

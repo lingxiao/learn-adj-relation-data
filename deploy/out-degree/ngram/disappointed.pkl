@@ -1,0 +1,11 @@
+(dp0
+S'completely'
+p1
+F0.06793802145411204
+sS'frustrated'
+p2
+F0.14541120381406436
+sS'defeated'
+p3
+F0.7866507747318237
+s.

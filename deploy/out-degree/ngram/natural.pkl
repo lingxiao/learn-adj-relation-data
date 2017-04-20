@@ -1,0 +1,8 @@
+(dp0
+S'right'
+p1
+F0.1
+sS'inevitable'
+p2
+F0.9
+s.

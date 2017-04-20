@@ -1,0 +1,14 @@
+(dp0
+S'agreed'
+p1
+F0.25
+sS'approved'
+p2
+F0.375
+sS'adopted'
+p3
+F0.125
+sS'before'
+p4
+F0.25
+s.

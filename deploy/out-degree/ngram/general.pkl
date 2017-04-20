@@ -1,0 +1,8 @@
+(dp0
+S'universal'
+p1
+F0.9537624660018132
+sS'prevailing'
+p2
+F0.04623753399818677
+s.

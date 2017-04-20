@@ -1,8 +1,11 @@
 (dp0
-Vpopular
+S'popular'
 p1
-F0.5
-sVappreciated
+F0.01020408163265306
+sS'a'
 p2
-F0.5
+F0.9795918367346939
+sS'appreciated'
+p3
+F0.01020408163265306
 s.

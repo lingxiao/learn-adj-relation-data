@@ -1,0 +1,8 @@
+(dp0
+S'enough'
+p1
+F0.8
+sS'properly'
+p2
+F0.2
+s.

@@ -1,0 +1,8 @@
+(dp0
+S'too'
+p1
+F0.5
+sS'just'
+p2
+F0.5
+s.

@@ -1,0 +1,8 @@
+(dp0
+S'going'
+p1
+F0.5
+sS'five'
+p2
+F0.5
+s.

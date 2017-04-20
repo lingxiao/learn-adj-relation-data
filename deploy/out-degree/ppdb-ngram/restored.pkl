@@ -1,8 +1,11 @@
 (dp0
-Vre-established
+S're-established'
 p1
-F0.5
-sVremediated
+F0.020833333333333332
+sS'remediated'
 p2
-F0.5
+F0.020833333333333332
+sS'equipped'
+p3
+F0.9583333333333334
 s.

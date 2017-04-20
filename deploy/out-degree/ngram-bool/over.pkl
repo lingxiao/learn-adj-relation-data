@@ -1,0 +1,11 @@
+(dp0
+S'better'
+p1
+F0.3
+sS'some'
+p2
+F0.5
+sS'too'
+p3
+F0.2
+s.

@@ -1,0 +1,8 @@
+(dp0
+S'also'
+p1
+F0.4
+sS'arbitrary'
+p2
+F0.6
+s.

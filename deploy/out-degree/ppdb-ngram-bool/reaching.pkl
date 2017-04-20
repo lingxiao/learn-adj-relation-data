@@ -1,0 +1,11 @@
+(dp0
+S'far'
+p1
+F0.25
+sS'three'
+p2
+F0.5
+sS'far-reaching'
+p3
+F0.25
+s.

@@ -1,0 +1,14 @@
+(dp0
+S'awestruck'
+p1
+F0.2727272727272727
+sS'impressed'
+p2
+F0.2727272727272727
+sS'enough'
+p3
+F0.18181818181818182
+sS'impressive'
+p4
+F0.2727272727272727
+s.

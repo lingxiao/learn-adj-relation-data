@@ -1,0 +1,8 @@
+(dp0
+S'interesting'
+p1
+F0.7934272300469484
+sS'thrilling'
+p2
+F0.20657276995305165
+s.

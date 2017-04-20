@@ -1,0 +1,14 @@
+(dp0
+S'foreseeable'
+p1
+F0.2727272727272727
+sS'also'
+p2
+F0.18181818181818182
+sS'identical'
+p3
+F0.45454545454545453
+sS'predictability'
+p4
+F0.09090909090909091
+s.

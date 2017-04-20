@@ -1,8 +1,8 @@
 (dp0
-Vself-financing
+S'self-financing'
 p1
 F0.5
-sVself-sustaining
+sS'self-sustaining'
 p2
 F0.5
 s.

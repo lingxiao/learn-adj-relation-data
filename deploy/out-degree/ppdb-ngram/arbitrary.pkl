@@ -1,5 +1,8 @@
 (dp0
-Varbitrary
+S'also'
 p1
-F1.0
+F0.9739130434782609
+sS'arbitrary'
+p2
+F0.02608695652173913
 s.

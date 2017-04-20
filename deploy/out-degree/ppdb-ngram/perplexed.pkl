@@ -1,8 +1,11 @@
 (dp0
-Vperplexed
+S'perplexed'
 p1
-F0.5
-sVpuzzling
+F0.00014037057832678272
+sS'puzzling'
 p2
-F0.5
+F0.00014037057832678272
+sS'in'
+p3
+F0.9997192588433464
 s.

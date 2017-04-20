@@ -1,0 +1,8 @@
+(dp0
+S'a'
+p1
+F0.6
+sS'familiar'
+p2
+F0.4
+s.

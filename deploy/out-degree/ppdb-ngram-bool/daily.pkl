@@ -1,0 +1,11 @@
+(dp0
+S'now'
+p1
+F0.4
+sS'daily'
+p2
+F0.2
+sS'equipped'
+p3
+F0.4
+s.

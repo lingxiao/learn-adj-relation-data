@@ -1,5 +1,8 @@
 (dp0
-Vforever
+S'forever'
 p1
-F1.0
+F0.00026164311878597594
+sS'though'
+p2
+F0.999738356881214
 s.

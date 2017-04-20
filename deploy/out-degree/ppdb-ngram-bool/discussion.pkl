@@ -1,0 +1,14 @@
+(dp0
+S'questionable'
+p1
+F0.25
+sS'debatable'
+p2
+F0.25
+sS'controversial'
+p3
+F0.25
+sS'before'
+p4
+F0.25
+s.

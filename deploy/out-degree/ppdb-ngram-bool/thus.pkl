@@ -1,0 +1,14 @@
+(dp0
+S'large'
+p1
+F0.2
+sS'implemented'
+p2
+F0.4
+sS'informed'
+p3
+F0.2
+sS'no'
+p4
+F0.2
+s.

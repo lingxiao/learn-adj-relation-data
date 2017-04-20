@@ -1,0 +1,8 @@
+(dp0
+S'a'
+p1
+F0.5
+sS'comprehensive'
+p2
+F0.5
+s.

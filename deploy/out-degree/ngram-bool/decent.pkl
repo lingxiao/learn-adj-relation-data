@@ -1,0 +1,8 @@
+(dp0
+S'memorable'
+p1
+F0.5
+sS'rich'
+p2
+F0.5
+s.

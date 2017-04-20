@@ -1,0 +1,17 @@
+(dp0
+S'beautiful'
+p1
+F0.7608874281018899
+sS'gorgeous'
+p2
+F0.07230895645028759
+sS'prettier'
+p3
+F0.062448644207066556
+sS'spectacular'
+p4
+F0.07066557107641742
+sS'handsome'
+p5
+F0.03368940016433854
+s.

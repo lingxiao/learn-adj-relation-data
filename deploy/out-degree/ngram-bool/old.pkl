@@ -1,0 +1,17 @@
+(dp0
+S'many'
+p1
+F0.03125
+sS'over'
+p2
+F0.0625
+sS'outdated'
+p3
+F0.25
+sS'obsolete'
+p4
+F0.0625
+sS'older'
+p5
+F0.59375
+s.

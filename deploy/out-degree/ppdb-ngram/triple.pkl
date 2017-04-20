@@ -1,2 +1,5 @@
 (dp0
-.
+S'quadruple'
+p1
+F1.0
+s.

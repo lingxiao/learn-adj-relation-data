@@ -1,0 +1,11 @@
+(dp0
+S'superficial'
+p1
+F0.25
+sS'shallow'
+p2
+F0.25
+sS'with'
+p3
+F0.5
+s.

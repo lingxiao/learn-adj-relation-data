@@ -1,0 +1,14 @@
+(dp0
+S'dangerous'
+p1
+F0.55
+sS'prejudicial'
+p2
+F0.1
+sS'reckless'
+p3
+F0.15
+sS'risky'
+p4
+F0.2
+s.
